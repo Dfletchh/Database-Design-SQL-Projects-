@@ -1,0 +1,2956 @@
+Year,Team,Rank,G,W,L,LgWin,WSWin,Name
+1871,BS1,3,31,20,10,N,,Boston Red Stockings
+1871,CH1,2,28,19,9,N,,Chicago White Stockings
+1871,CL1,8,29,10,19,N,,Cleveland Forest Citys
+1871,FW1,7,19,7,12,N,,Fort Wayne Kekiongas
+1871,NY2,5,33,16,17,N,,New York Mutuals
+1871,PH1,1,28,21,7,Y,,Philadelphia Athletics
+1871,RC1,9,25,4,21,N,,Rockford Forest Citys
+1871,TRO,6,29,13,15,N,,Troy Haymakers
+1871,WS3,4,32,15,15,N,,Washington Olympics
+1872,BL1,2,58,35,19,N,,Baltimore Canaries
+1872,BR1,9,29,3,26,N,,Brooklyn Eckfords
+1872,BR2,6,37,9,28,N,,Brooklyn Atlantics
+1872,BS1,1,48,39,8,Y,,Boston Red Stockings
+1872,CL1,7,22,6,16,N,,Cleveland Forest Citys
+1872,MID,8,24,5,19,N,,Middletown Mansfields
+1872,NY2,3,56,34,20,N,,New York Mutuals
+1872,PH1,4,47,30,14,N,,Philadelphia Athletics
+1872,TRO,5,25,15,10,N,,Troy Haymakers
+1872,WS3,10,9,2,7,N,,Washington Olympics
+1872,WS4,11,11,0,11,N,,Washington Nationals
+1873,BL1,3,57,34,22,N,,Baltimore Canaries
+1873,BL4,9,6,0,6,N,,Baltimore Marylands
+1873,BR2,6,55,17,37,N,,Brooklyn Atlantics
+1873,BS1,1,60,43,16,Y,,Boston Red Stockings
+1873,ELI,8,23,2,21,N,,Elizabeth Resolutes
+1873,NY2,4,53,29,24,N,,New York Mutuals
+1873,PH1,5,52,28,23,N,,Philadelphia Athletics
+1873,PH2,2,53,36,17,N,,Philadelphia Whites
+1873,WS5,7,39,8,31,N,,Washington Blue Legs
+1874,BL1,8,47,9,38,N,,Baltimore Canaries
+1874,BR2,6,56,22,33,N,,Brooklyn Atlantics
+1874,BS1,1,71,52,18,Y,,Boston Red Stockings
+1874,CH2,5,59,28,31,N,,Chicago White Stockings
+1874,HR1,7,53,16,37,N,,Hartford Dark Blues
+1874,NY2,2,65,42,23,N,,New York Mutuals
+1874,PH1,3,55,33,22,N,,Philadelphia Athletics
+1874,PH2,4,58,29,29,N,,Philadelphia Whites
+1875,BR2,11,44,2,42,N,,Brooklyn Atlantics
+1875,BS1,1,82,71,8,Y,,Boston Red Stockings
+1875,CH2,6,69,30,37,N,,Chicago White Stockings
+1875,HR1,3,86,54,28,N,,Hartford Dark Blues
+1875,KEO,13,13,1,12,N,,Keokuk Westerns
+1875,NH1,8,47,7,40,N,,New Haven Elm Citys
+1875,NY2,6,71,30,38,N,,New York Mutuals
+1875,PH1,2,77,53,20,N,,Philadelphia Athletics
+1875,PH2,5,70,37,31,N,,Philadelphia Whites
+1875,PH3,11,14,2,12,N,,Philadelphia Centennials
+1875,SL1,10,19,4,15,N,,St. Louis Red Stockings
+1875,SL2,4,70,39,29,N,,St. Louis Brown Stockings
+1875,WS6,9,28,5,23,N,,Washington Nationals
+1876,BSN,4,70,39,31,N,,Boston Red Caps
+1876,CHN,1,66,52,14,Y,,Chicago White Stockings
+1876,CN1,8,65,9,56,N,,Cincinnati Reds
+1876,HAR,2,69,47,21,N,,Hartford Dark Blues
+1876,LS1,5,69,30,36,N,,Louisville Grays
+1876,NY3,6,57,21,35,N,,New York Mutuals
+1876,PHN,7,60,14,45,N,,Philadelphia Athletics
+1876,SL3,3,64,45,19,N,,St. Louis Brown Stockings
+1877,BSN,1,61,42,18,Y,,Boston Red Caps
+1877,CHN,5,60,26,33,N,,Chicago White Stockings
+1877,CN1,6,58,15,42,N,,Cincinnati Reds
+1877,HAR,3,60,31,27,N,,Hartford Dark Blues
+1877,LS1,2,61,35,25,N,,Louisville Grays
+1877,SL3,4,60,28,32,N,,St. Louis Brown Stockings
+1878,BSN,1,60,41,19,Y,,Boston Red Caps
+1878,CHN,4,61,30,30,N,,Chicago White Stockings
+1878,CN1,2,61,37,23,N,,Cincinnati Reds
+1878,IN1,5,63,24,36,N,,Indianapolis Blues
+1878,ML2,6,61,15,45,N,,Milwaukee Grays
+1878,PRO,3,62,33,27,N,,Providence Grays
+1879,BFN,3,79,46,32,N,,Buffalo Bisons
+1879,BSN,2,84,54,30,N,,Boston Red Caps
+1879,CHN,4,83,46,33,N,,Chicago White Stockings
+1879,CL2,6,82,27,55,N,,Cleveland Blues
+1879,CN1,5,81,43,37,N,,Cincinnati Reds
+1879,PRO,1,85,59,25,Y,,Providence Grays
+1879,SR1,7,71,22,48,N,,Syracuse Stars
+1879,TRN,8,77,19,56,N,,Troy Trojans
+1880,BFN,7,85,24,58,N,,Buffalo Bisons
+1880,BSN,6,86,40,44,N,,Boston Red Caps
+1880,CHN,1,86,67,17,Y,,Chicago White Stockings
+1880,CL2,3,85,47,37,N,,Cleveland Blues
+1880,CN1,8,83,21,59,N,,Cincinnati Reds
+1880,PRO,2,87,52,32,N,,Providence Grays
+1880,TRN,4,83,41,42,N,,Troy Trojans
+1880,WOR,5,85,40,43,N,,Worcester Ruby Legs
+1881,BFN,3,83,45,38,N,,Buffalo Bisons
+1881,BSN,6,83,38,45,N,,Boston Red Caps
+1881,CHN,1,84,56,28,Y,,Chicago White Stockings
+1881,CL2,7,85,36,48,N,,Cleveland Blues
+1881,DTN,4,84,41,43,N,,Detroit Wolverines
+1881,PRO,2,85,47,37,N,,Providence Grays
+1881,TRN,5,85,39,45,N,,Troy Trojans
+1881,WOR,8,83,32,50,N,,Worcester Ruby Legs
+1882,BFN,3,84,45,39,N,,Buffalo Bisons
+1882,BL2,6,74,19,54,N,,Baltimore Orioles
+1882,BSN,3,85,45,39,N,,Boston Red Caps
+1882,CHN,1,84,55,29,Y,,Chicago White Stockings
+1882,CL2,5,84,42,40,N,,Cleveland Blues
+1882,CN2,1,80,55,25,Y,,Cincinnati Red Stockings
+1882,DTN,5,86,42,41,N,,Detroit Wolverines
+1882,LS2,2,79,42,38,N,,Louisville Eclipse
+1882,PH4,3,75,41,34,N,,Philadelphia Athletics
+1882,PRO,2,84,52,32,N,,Providence Grays
+1882,PT1,4,79,39,39,N,,Pittsburg Alleghenys
+1882,SL4,5,79,37,43,N,,St. Louis Brown Stockings
+1882,TRN,7,85,35,48,N,,Troy Trojans
+1882,WOR,8,84,18,66,N,,Worcester Ruby Legs
+1883,BFN,5,98,52,45,N,,Buffalo Bisons
+1883,BL2,8,96,28,68,N,,Baltimore Orioles
+1883,BSN,1,98,63,35,Y,,Boston Beaneaters
+1883,CHN,2,98,59,39,N,,Chicago White Stockings
+1883,CL2,4,100,55,42,N,,Cleveland Blues
+1883,CL5,6,97,32,65,N,,Columbus Buckeyes
+1883,CN2,3,98,61,37,N,,Cincinnati Red Stockings
+1883,DTN,7,101,40,58,N,,Detroit Wolverines
+1883,LS2,5,98,52,45,N,,Louisville Eclipse
+1883,NY1,6,98,46,50,N,,New York Gothams
+1883,NY4,4,97,54,42,N,,New York Metropolitans
+1883,PH4,1,98,66,32,Y,,Philadelphia Athletics
+1883,PHI,8,99,17,81,N,,Philadelphia Quakers
+1883,PRO,3,98,58,40,N,,Providence Grays
+1883,PT1,7,98,31,67,N,,Pittsburg Alleghenys
+1883,SL4,2,98,65,33,N,,St. Louis Browns
+1884,ALT,10,25,6,19,N,,Altoona Mountain City
+1884,BFN,3,114,64,47,N,N,Buffalo Bisons
+1884,BL2,6,108,63,43,N,N,Baltimore Orioles
+1884,BLU,4,105,58,47,N,,Baltimore Monumentals
+1884,BR3,9,109,40,64,N,N,Brooklyn Atlantics
+1884,BSN,2,116,73,38,N,N,Boston Beaneaters
+1884,BSU,5,109,58,51,N,,Boston Reds
+1884,CHN,5,112,62,50,N,N,Chicago White Stockings
+1884,CHU,6,92,41,50,N,,Chicago/Pittsburgh (Union League)
+1884,CL2,7,113,35,77,N,N,Cleveland Blues
+1884,CL5,2,110,69,39,N,N,Columbus Buckeyes
+1884,CN2,5,112,68,41,N,N,Cincinnati Red Stockings
+1884,CNU,3,103,69,36,N,,Cincinnati Outlaw Reds
+1884,DTN,8,114,28,84,N,N,Detroit Wolverines
+1884,IN2,12,110,29,78,N,N,Indianapolis Hoosiers
+1884,KCU,11,82,16,63,N,,Kansas City Cowboys
+1884,LS2,3,110,68,40,N,N,Louisville Eclipse
+1884,MLU,2,12,8,4,N,,Milwaukee Brewers
+1884,NY1,4,116,62,50,N,N,New York Gothams
+1884,NY4,1,112,75,32,Y,N,New York Metropolitans
+1884,PH4,7,108,61,46,N,N,Philadelphia Athletics
+1884,PHI,6,113,39,73,N,N,Philadelphia Quakers
+1884,PHU,8,67,21,46,N,,Philadelphia Keystones
+1884,PRO,1,114,84,28,Y,Y,Providence Grays
+1884,PT1,11,110,30,78,N,N,Pittsburg Alleghenys
+1884,RIC,10,45,12,30,N,N,Richmond Virginians
+1884,SL4,4,110,67,40,N,N,St. Louis Browns
+1884,SLU,1,113,94,19,Y,,St. Louis Maroons
+1884,SPU,9,9,2,6,N,,St. Paul White Caps
+1884,TL1,8,109,46,58,N,N,Toledo Blue Stockings
+1884,WIL,12,17,2,16,N,,Wilmington Quicksteps
+1884,WS7,13,63,12,51,N,N,Washington Nationals
+1884,WSU,7,112,47,65,N,,Washington Nationals
+1885,BFN,7,112,38,74,N,N,Buffalo Bisons
+1885,BL2,8,110,41,68,N,N,Baltimore Orioles
+1885,BR3,5,112,53,59,N,N,Brooklyn Grays
+1885,BSN,5,113,46,66,N,N,Boston Beaneaters
+1885,CHN,1,113,87,25,Y,N,Chicago White Stockings
+1885,CN2,2,112,63,49,N,N,Cincinnati Red Stockings
+1885,DTN,6,108,41,67,N,N,Detroit Wolverines
+1885,LS2,6,112,53,59,N,N,Louisville Colonels
+1885,NY1,2,112,85,27,N,N,New York Giants
+1885,NY4,7,108,44,64,N,N,New York Metropolitans
+1885,PH4,4,113,55,57,N,N,Philadelphia Athletics
+1885,PHI,3,111,56,54,N,N,Philadelphia Quakers
+1885,PRO,4,110,53,57,N,N,Providence Grays
+1885,PT1,3,111,56,55,N,N,Pittsburg Alleghenys
+1885,SL4,1,112,79,33,Y,N,St. Louis Browns
+1885,SL5,8,111,36,72,N,N,St. Louis Maroons
+1886,BL2,8,139,48,83,N,N,Baltimore Orioles
+1886,BR3,3,141,76,61,N,N,Brooklyn Grays
+1886,BSN,5,118,56,61,N,N,Boston Beaneaters
+1886,CHN,1,126,90,34,Y,N,Chicago White Stockings
+1886,CN2,5,141,65,73,N,N,Cincinnati Red Stockings
+1886,DTN,2,126,87,36,N,N,Detroit Wolverines
+1886,KCN,7,123,30,91,N,N,Kansas City Cowboys
+1886,LS2,4,138,66,70,N,N,Louisville Colonels
+1886,NY1,3,124,75,44,N,N,New York Giants
+1886,NY4,7,137,53,82,N,N,New York Metropolitans
+1886,PH4,6,139,63,72,N,N,Philadelphia Athletics
+1886,PHI,4,119,71,43,N,N,Philadelphia Quakers
+1886,PT1,2,140,80,57,N,N,Pittsburg Alleghenys
+1886,SL4,1,139,93,46,Y,Y,St. Louis Browns
+1886,SL5,6,126,43,79,N,N,St. Louis Maroons
+1886,WS8,8,122,28,92,N,N,Washington Nationals
+1887,BL2,3,141,77,58,N,N,Baltimore Orioles
+1887,BR3,6,138,60,74,N,N,Brooklyn Grays
+1887,BSN,5,127,61,60,N,N,Boston Beaneaters
+1887,CHN,3,127,71,50,N,N,Chicago White Stockings
+1887,CL3,8,133,39,92,N,N,Cleveland Blues
+1887,CN2,2,135,81,54,N,N,Cincinnati Red Stockings
+1887,DTN,1,127,79,45,Y,Y,Detroit Wolverines
+1887,IN3,8,127,37,89,N,N,Indianapolis Hoosiers
+1887,LS2,4,137,76,60,N,N,Louisville Colonels
+1887,NY1,4,129,68,55,N,N,New York Giants
+1887,NY4,7,138,44,89,N,N,New York Metropolitans
+1887,PH4,5,137,64,69,N,N,Philadelphia Athletics
+1887,PHI,2,128,75,48,N,N,Philadelphia Quakers
+1887,PIT,6,125,55,69,N,N,Pittsburg Alleghenys
+1887,SL4,1,137,95,40,Y,N,St. Louis Browns
+1887,WS8,7,126,46,76,N,N,Washington Nationals
+1888,BL2,5,137,57,80,N,N,Baltimore Orioles
+1888,BR3,2,143,88,52,N,N,Brooklyn Bridegrooms
+1888,BSN,4,137,70,64,N,N,Boston Beaneaters
+1888,CHN,2,135,77,58,N,N,Chicago White Stockings
+1888,CL3,6,135,50,82,N,N,Cleveland Blues
+1888,CN2,4,137,80,54,N,N,Cincinnati Red Stockings
+1888,DTN,5,134,68,63,N,N,Detroit Wolverines
+1888,IN3,7,136,50,85,N,N,Indianapolis Hoosiers
+1888,KC2,8,132,43,89,N,N,Kansas City Cowboys
+1888,LS2,7,139,48,87,N,N,Louisville Colonels
+1888,NY1,1,137,84,47,Y,Y,New York Giants
+1888,PH4,3,136,81,52,N,N,Philadelphia Athletics
+1888,PHI,3,131,69,61,N,N,Philadelphia Quakers
+1888,PIT,6,138,66,68,N,N,Pittsburg Alleghenys
+1888,SL4,1,137,92,43,Y,N,St. Louis Browns
+1888,WS8,8,136,48,86,N,N,Washington Nationals
+1889,BL2,5,139,70,65,N,N,Baltimore Orioles
+1889,BR3,1,138,93,44,Y,N,Brooklyn Bridegrooms
+1889,BSN,2,133,83,45,N,N,Boston Beaneaters
+1889,CHN,3,136,67,65,N,N,Chicago White Stockings
+1889,CL4,6,136,61,72,N,N,Cleveland Spiders
+1889,CL6,6,139,60,78,N,N,Columbus Solons
+1889,CN2,4,141,76,63,N,N,Cincinnati Red Stockings
+1889,IN3,7,135,59,75,N,N,Indianapolis Hoosiers
+1889,KC2,7,139,55,82,N,N,Kansas City Cowboys
+1889,LS2,8,140,27,111,N,N,Louisville Colonels
+1889,NY1,1,131,83,43,Y,Y,New York Giants
+1889,PH4,3,138,75,58,N,N,Philadelphia Athletics
+1889,PHI,4,130,63,64,N,N,Philadelphia Quakers
+1889,PIT,5,134,61,71,N,N,Pittsburg Alleghenys
+1889,SL4,2,140,90,45,N,N,St. Louis Browns
+1889,WS8,8,127,41,83,N,N,Washington Nationals
+1890,BFP,8,134,36,96,N,,Buffalo Bisons
+1890,BL3,6,38,15,19,N,N,Baltimore Orioles
+1890,BR4,9,100,26,72,N,N,Brooklyn Gladiators
+1890,BRO,1,129,86,43,Y,N,Brooklyn Bridegrooms
+1890,BRP,2,133,76,56,N,,Brooklyn Ward's Wonders
+1890,BSN,5,134,76,57,N,N,Boston Beaneaters
+1890,BSP,1,133,81,48,Y,,Boston Reds
+1890,CHN,2,139,83,53,N,N,Chicago Colts
+1890,CHP,4,138,75,62,N,,Chicago Pirates
+1890,CIN,4,134,77,55,N,N,Cincinnati Reds
+1890,CL4,7,136,44,88,N,N,Cleveland Spiders
+1890,CL6,2,140,79,55,N,N,Columbus Solons
+1890,CLP,7,131,55,75,N,,Cleveland Infants
+1890,LS2,1,134,88,44,Y,N,Louisville Colonels
+1890,NY1,6,135,63,68,N,N,New York Giants
+1890,NYP,3,132,74,57,N,,New York Giants
+1890,PH4,8,132,54,78,N,N,Philadelphia Athletics
+1890,PHI,3,133,78,53,N,N,Philadelphia Phillies
+1890,PHP,5,132,68,63,N,,Philadelphia Athletics
+1890,PIT,8,138,23,113,N,N,Pittsburg Alleghenys
+1890,PTP,6,131,60,68,N,,Pittsburgh Burghers
+1890,RC2,5,133,63,63,N,N,Rochester Broncos
+1890,SL4,3,138,77,58,N,N,St. Louis Browns
+1890,SR2,7,127,55,72,N,N,Syracuse Stars
+1890,TL2,4,134,68,64,N,N,Toledo Maumees
+1891,BL3,4,139,71,64,N,,Baltimore Orioles
+1891,BRO,6,137,61,76,N,,Brooklyn Grooms
+1891,BS2,1,139,93,42,Y,,Boston Reds
+1891,BSN,1,140,87,51,Y,,Boston Beaneaters
+1891,CHN,2,137,82,53,N,,Chicago Colts
+1891,CIN,7,138,56,81,N,,Cincinnati Reds
+1891,CL4,5,141,65,74,N,,Cleveland Spiders
+1891,CL6,6,138,61,76,N,,Columbus Solons
+1891,CN3,7,102,43,57,N,,Cincinnati Kelly's Killers
+1891,LS2,8,138,54,83,N,,Louisville Colonels
+1891,ML3,3,36,21,15,N,,Milwaukee Brewers
+1891,NY1,3,136,71,61,N,,New York Giants
+1891,PH4,5,142,73,66,N,,Philadelphia Athletics
+1891,PHI,4,138,68,69,N,,Philadelphia Phillies
+1891,PIT,8,137,55,80,N,,Pittsburgh Pirates
+1891,SL4,2,139,85,51,N,,St. Louis Browns
+1891,WS9,9,139,44,91,N,,Washington Statesmen
+1892,BLN,12,152,46,101,N,,Baltimore Orioles
+1892,BRO,3,158,95,59,N,,Brooklyn Grooms
+1892,BSN,1,152,102,48,Y,,Boston Beaneaters
+1892,CHN,7,146,70,76,N,,Chicago Colts
+1892,CIN,5,155,82,68,N,,Cincinnati Reds
+1892,CL4,2,152,93,56,N,,Cleveland Spiders
+1892,LS3,9,154,63,89,N,,Louisville Colonels
+1892,NY1,8,152,71,80,N,,New York Giants
+1892,PHI,4,155,87,66,N,,Philadelphia Phillies
+1892,PIT,6,152,80,73,N,,Pittsburgh Pirates
+1892,SLN,11,155,56,94,N,,St. Louis Browns
+1892,WAS,10,153,58,93,N,,Washington Senators
+1893,BLN,8,130,60,70,N,,Baltimore Orioles
+1893,BRO,7,130,65,63,N,,Brooklyn Grooms
+1893,BSN,1,131,86,43,Y,,Boston Beaneaters
+1893,CHN,9,128,56,71,N,,Chicago Colts
+1893,CIN,6,131,65,63,N,,Cincinnati Reds
+1893,CL4,3,129,73,55,N,,Cleveland Spiders
+1893,LS3,11,126,50,75,N,,Louisville Colonels
+1893,NY1,5,136,68,64,N,,New York Giants
+1893,PHI,4,133,72,57,N,,Philadelphia Phillies
+1893,PIT,2,131,81,48,N,,Pittsburgh Pirates
+1893,SLN,10,135,57,75,N,,St. Louis Browns
+1893,WAS,12,130,40,89,N,,Washington Senators
+1894,BLN,1,129,89,39,Y,,Baltimore Orioles
+1894,BRO,5,135,70,61,N,,Brooklyn Grooms
+1894,BSN,3,133,83,49,N,,Boston Beaneaters
+1894,CHN,8,136,57,75,N,,Chicago Colts
+1894,CIN,10,134,55,75,N,,Cincinnati Reds
+1894,CL4,6,130,68,61,N,,Cleveland Spiders
+1894,LS3,12,130,36,94,N,,Louisville Colonels
+1894,NY1,2,139,88,44,N,,New York Giants
+1894,PHI,4,132,71,57,N,,Philadelphia Phillies
+1894,PIT,7,133,65,65,N,,Pittsburgh Pirates
+1894,SLN,9,133,56,76,N,,St. Louis Browns
+1894,WAS,11,132,45,87,N,,Washington Senators
+1895,BLN,1,131,87,43,Y,,Baltimore Orioles
+1895,BRO,5,133,71,60,N,,Brooklyn Grooms
+1895,BSN,6,133,71,60,N,,Boston Beaneaters
+1895,CHN,4,133,72,58,N,,Chicago Colts
+1895,CIN,8,132,66,64,N,,Cincinnati Reds
+1895,CL4,2,132,84,46,N,,Cleveland Spiders
+1895,LS3,12,132,35,96,N,,Louisville Colonels
+1895,NY1,9,132,66,65,N,,New York Giants
+1895,PHI,3,133,78,53,N,,Philadelphia Phillies
+1895,PIT,7,134,71,61,N,,Pittsburgh Pirates
+1895,SLN,11,136,39,92,N,,St. Louis Browns
+1895,WAS,10,133,43,85,N,,Washington Senators
+1896,BLN,1,132,90,39,Y,,Baltimore Orioles
+1896,BRO,10,133,58,73,N,,Brooklyn Bridegrooms
+1896,BSN,4,132,74,57,N,,Boston Beaneaters
+1896,CHN,5,132,71,57,N,,Chicago Colts
+1896,CIN,3,128,77,50,N,,Cincinnati Reds
+1896,CL4,2,135,80,48,N,,Cleveland Spiders
+1896,LS3,12,134,38,93,N,,Louisville Colonels
+1896,NY1,7,133,64,67,N,,New York Giants
+1896,PHI,8,130,62,68,N,,Philadelphia Phillies
+1896,PIT,6,131,66,63,N,,Pittsburgh Pirates
+1896,SLN,11,131,40,90,N,,St. Louis Browns
+1896,WAS,9,133,58,73,N,,Washington Senators
+1897,BLN,2,136,90,40,N,,Baltimore Orioles
+1897,BRO,7,136,61,71,N,,Brooklyn Bridegrooms
+1897,BSN,1,135,93,39,Y,,Boston Beaneaters
+1897,CHN,9,138,59,73,N,,Chicago Colts
+1897,CIN,4,134,76,56,N,,Cincinnati Reds
+1897,CL4,5,130,69,62,N,,Cleveland Spiders
+1897,LS3,11,135,52,78,N,,Louisville Colonels
+1897,NY1,3,137,83,48,N,,New York Giants
+1897,PHI,10,133,55,77,N,,Philadelphia Phillies
+1897,PIT,8,134,60,71,N,,Pittsburgh Pirates
+1897,SLN,12,133,29,102,N,,St. Louis Browns
+1897,WAS,6,133,61,71,N,,Washington Senators
+1898,BLN,2,153,96,53,N,,Baltimore Orioles
+1898,BRO,10,149,54,91,N,,Brooklyn Bridegrooms
+1898,BSN,1,152,102,47,Y,,Boston Beaneaters
+1898,CHN,4,152,85,65,N,,Chicago Orphans
+1898,CIN,3,157,92,60,N,,Cincinnati Reds
+1898,CL4,5,156,81,68,N,,Cleveland Spiders
+1898,LS3,9,154,70,81,N,,Louisville Colonels
+1898,NY1,7,156,77,73,N,,New York Giants
+1898,PHI,6,150,78,71,N,,Philadelphia Phillies
+1898,PIT,8,152,72,76,N,,Pittsburgh Pirates
+1898,SLN,12,154,39,111,N,,St. Louis Browns
+1898,WAS,11,155,51,101,N,,Washington Senators
+1899,BLN,4,151,86,62,N,,Baltimore Orioles
+1899,BRO,1,148,101,47,Y,,Brooklyn Superbas
+1899,BSN,2,153,95,57,N,,Boston Beaneaters
+1899,CHN,8,152,75,73,N,,Chicago Orphans
+1899,CIN,6,157,83,67,N,,Cincinnati Reds
+1899,CL4,12,154,20,134,N,,Cleveland Spiders
+1899,LS3,9,156,75,77,N,,Louisville Colonels
+1899,NY1,10,152,60,90,N,,New York Giants
+1899,PHI,3,154,94,58,N,,Philadelphia Phillies
+1899,PIT,7,155,76,73,N,,Pittsburgh Pirates
+1899,SLN,5,155,84,67,N,,St. Louis Perfectos
+1899,WAS,11,155,54,98,N,,Washington Senators
+1900,BRO,1,141,82,54,Y,,Brooklyn Superbas
+1900,BSN,4,142,66,72,N,,Boston Beaneaters
+1900,CHN,6,146,65,75,N,,Chicago Orphans
+1900,CIN,7,144,62,77,N,,Cincinnati Reds
+1900,NY1,8,141,60,78,N,,New York Giants
+1900,PHI,3,141,75,63,N,,Philadelphia Phillies
+1900,PIT,2,140,79,60,N,,Pittsburgh Pirates
+1900,SLN,5,141,65,75,N,,St. Louis Cardinals
+1901,BLA,5,134,68,65,N,,Baltimore Orioles
+1901,BOS,2,138,79,57,N,,Boston Americans
+1901,BRO,3,137,79,57,N,,Brooklyn Superbas
+1901,BSN,5,140,69,69,N,,Boston Beaneaters
+1901,CHA,1,137,83,53,Y,,Chicago White Sox
+1901,CHN,6,140,53,86,N,,Chicago Orphans
+1901,CIN,8,142,52,87,N,,Cincinnati Reds
+1901,CLE,7,138,54,82,N,,Cleveland Blues
+1901,DET,3,135,74,61,N,,Detroit Tigers
+1901,MLA,8,139,48,89,N,,Milwaukee Brewers
+1901,NY1,7,141,52,85,N,,New York Giants
+1901,PHA,4,137,74,62,N,,Philadelphia Athletics
+1901,PHI,2,140,83,57,N,,Philadelphia Phillies
+1901,PIT,1,140,90,49,Y,,Pittsburgh Pirates
+1901,SLN,4,142,76,64,N,,St. Louis Cardinals
+1901,WS1,6,138,61,72,N,,Washington Senators
+1902,BLA,8,140,50,88,N,,Baltimore Orioles
+1902,BOS,3,138,77,60,N,,Boston Americans
+1902,BRO,2,141,75,63,N,,Brooklyn Superbas
+1902,BSN,3,141,73,64,N,,Boston Beaneaters
+1902,CHA,4,138,74,60,N,,Chicago White Sox
+1902,CHN,5,143,68,69,N,,Chicago Orphans
+1902,CIN,4,141,70,70,N,,Cincinnati Reds
+1902,CLE,5,137,69,67,N,,Cleveland Bronchos
+1902,DET,7,137,52,83,N,,Detroit Tigers
+1902,NY1,8,141,48,88,N,,New York Giants
+1902,PHA,1,137,83,53,Y,,Philadelphia Athletics
+1902,PHI,7,138,56,81,N,,Philadelphia Phillies
+1902,PIT,1,141,103,36,Y,,Pittsburgh Pirates
+1902,SLA,2,139,78,58,N,,St. Louis Browns
+1902,SLN,6,140,56,78,N,,St. Louis Cardinals
+1902,WS1,6,138,61,75,N,,Washington Senators
+1903,BOS,1,141,91,47,Y,Y,Boston Americans
+1903,BRO,5,139,70,66,N,N,Brooklyn Superbas
+1903,BSN,6,140,58,80,N,N,Boston Beaneaters
+1903,CHA,7,138,60,77,N,N,Chicago White Sox
+1903,CHN,3,139,82,56,N,N,Chicago Cubs
+1903,CIN,4,141,74,65,N,N,Cincinnati Reds
+1903,CLE,3,140,77,63,N,N,Cleveland Naps
+1903,DET,5,137,65,71,N,N,Detroit Tigers
+1903,NY1,2,142,84,55,N,N,New York Giants
+1903,NYA,4,136,72,62,N,N,New York Highlanders
+1903,PHA,2,137,75,60,N,N,Philadelphia Athletics
+1903,PHI,7,139,49,86,N,N,Philadelphia Phillies
+1903,PIT,1,141,91,49,Y,N,Pittsburgh Pirates
+1903,SLA,6,139,65,74,N,N,St. Louis Browns
+1903,SLN,8,139,43,94,N,N,St. Louis Cardinals
+1903,WS1,8,140,43,94,N,N,Washington Senators
+1904,BOS,1,157,95,59,Y,,Boston Americans
+1904,BRO,6,154,56,97,N,,Brooklyn Superbas
+1904,BSN,7,155,55,98,N,,Boston Beaneaters
+1904,CHA,3,156,89,65,N,,Chicago White Sox
+1904,CHN,2,156,93,60,N,,Chicago Cubs
+1904,CIN,3,157,88,65,N,,Cincinnati Reds
+1904,CLE,4,154,86,65,N,,Cleveland Naps
+1904,DET,7,162,62,90,N,,Detroit Tigers
+1904,NY1,1,157,106,47,Y,,New York Giants
+1904,NYA,2,155,92,59,N,,New York Highlanders
+1904,PHA,5,155,81,70,N,,Philadelphia Athletics
+1904,PHI,8,155,52,100,N,,Philadelphia Phillies
+1904,PIT,4,156,87,66,N,,Pittsburgh Pirates
+1904,SLA,6,156,65,87,N,,St. Louis Browns
+1904,SLN,5,154,75,79,N,,St. Louis Cardinals
+1904,WS1,8,157,38,113,N,,Washington Senators
+1905,BOS,4,153,78,74,N,N,Boston Americans
+1905,BRO,8,155,48,104,N,N,Brooklyn Superbas
+1905,BSN,7,156,51,103,N,N,Boston Beaneaters
+1905,CHA,2,158,92,60,N,N,Chicago White Sox
+1905,CHN,3,155,92,61,N,N,Chicago Cubs
+1905,CIN,5,155,79,74,N,N,Cincinnati Reds
+1905,CLE,5,155,76,78,N,N,Cleveland Naps
+1905,DET,3,154,79,74,N,N,Detroit Tigers
+1905,NY1,1,155,105,48,Y,Y,New York Giants
+1905,NYA,6,152,71,78,N,N,New York Highlanders
+1905,PHA,1,152,92,56,Y,N,Philadelphia Athletics
+1905,PHI,4,155,83,69,N,N,Philadelphia Phillies
+1905,PIT,2,155,96,57,N,N,Pittsburgh Pirates
+1905,SLA,8,156,54,99,N,N,St. Louis Browns
+1905,SLN,6,154,58,96,N,N,St. Louis Cardinals
+1905,WS1,7,154,64,87,N,N,Washington Senators
+1906,BOS,8,155,49,105,N,N,Boston Americans
+1906,BRO,5,153,66,86,N,N,Brooklyn Superbas
+1906,BSN,8,152,49,102,N,N,Boston Beaneaters
+1906,CHA,1,154,93,58,Y,Y,Chicago White Sox
+1906,CHN,1,154,116,36,Y,N,Chicago Cubs
+1906,CIN,6,155,64,87,N,N,Cincinnati Reds
+1906,CLE,3,157,89,64,N,N,Cleveland Naps
+1906,DET,6,151,71,78,N,N,Detroit Tigers
+1906,NY1,2,152,96,56,N,N,New York Giants
+1906,NYA,2,155,90,61,N,N,New York Highlanders
+1906,PHA,4,149,78,67,N,N,Philadelphia Athletics
+1906,PHI,4,154,71,82,N,N,Philadelphia Phillies
+1906,PIT,3,154,93,60,N,N,Pittsburgh Pirates
+1906,SLA,5,154,76,73,N,N,St. Louis Browns
+1906,SLN,7,154,52,98,N,N,St. Louis Cardinals
+1906,WS1,7,151,55,95,N,N,Washington Senators
+1907,BOS,7,155,59,90,N,N,Boston Americans
+1907,BRO,5,153,65,83,N,N,Brooklyn Superbas
+1907,BSN,7,152,58,90,N,N,Boston Doves
+1907,CHA,3,157,87,64,N,N,Chicago White Sox
+1907,CHN,1,155,107,45,Y,Y,Chicago Cubs
+1907,CIN,6,156,66,87,N,N,Cincinnati Reds
+1907,CLE,4,158,85,67,N,N,Cleveland Naps
+1907,DET,1,153,92,58,Y,N,Detroit Tigers
+1907,NY1,4,155,82,71,N,N,New York Giants
+1907,NYA,5,152,70,78,N,N,New York Highlanders
+1907,PHA,2,150,88,57,N,N,Philadelphia Athletics
+1907,PHI,3,149,83,64,N,N,Philadelphia Phillies
+1907,PIT,2,157,91,63,N,N,Pittsburgh Pirates
+1907,SLA,6,155,69,83,N,N,St. Louis Browns
+1907,SLN,8,155,52,101,N,N,St. Louis Cardinals
+1907,WS1,8,154,49,102,N,N,Washington Senators
+1908,BOS,5,155,75,79,N,N,Boston Red Sox
+1908,BRO,7,154,53,101,N,N,Brooklyn Superbas
+1908,BSN,6,156,63,91,N,N,Boston Doves
+1908,CHA,3,156,88,64,N,N,Chicago White Sox
+1908,CHN,1,158,99,55,Y,Y,Chicago Cubs
+1908,CIN,5,155,73,81,N,N,Cincinnati Reds
+1908,CLE,2,157,90,64,N,N,Cleveland Naps
+1908,DET,1,154,90,63,Y,N,Detroit Tigers
+1908,NY1,2,157,98,56,N,N,New York Giants
+1908,NYA,8,155,51,103,N,N,New York Highlanders
+1908,PHA,6,157,68,85,N,N,Philadelphia Athletics
+1908,PHI,4,155,83,71,N,N,Philadelphia Phillies
+1908,PIT,2,155,98,56,N,N,Pittsburgh Pirates
+1908,SLA,4,155,83,69,N,N,St. Louis Browns
+1908,SLN,8,154,49,105,N,N,St. Louis Cardinals
+1908,WS1,7,155,67,85,N,N,Washington Senators
+1909,BOS,3,152,88,63,N,N,Boston Red Sox
+1909,BRO,6,155,55,98,N,N,Brooklyn Superbas
+1909,BSN,8,155,45,108,N,N,Boston Doves
+1909,CHA,4,159,78,74,N,N,Chicago White Sox
+1909,CHN,2,155,104,49,N,N,Chicago Cubs
+1909,CIN,4,157,77,76,N,N,Cincinnati Reds
+1909,CLE,6,155,71,82,N,N,Cleveland Naps
+1909,DET,1,158,98,54,Y,N,Detroit Tigers
+1909,NY1,3,158,92,61,N,N,New York Giants
+1909,NYA,5,153,74,77,N,N,New York Highlanders
+1909,PHA,2,153,95,58,N,N,Philadelphia Athletics
+1909,PHI,5,154,74,79,N,N,Philadelphia Phillies
+1909,PIT,1,154,110,42,Y,Y,Pittsburgh Pirates
+1909,SLA,7,154,61,89,N,N,St. Louis Browns
+1909,SLN,7,154,54,98,N,N,St. Louis Cardinals
+1909,WS1,8,156,42,110,N,N,Washington Senators
+1910,BOS,4,158,81,72,N,N,Boston Red Sox
+1910,BRO,6,156,64,90,N,N,Brooklyn Superbas
+1910,BSN,8,157,53,100,N,N,Boston Doves
+1910,CHA,6,156,68,85,N,N,Chicago White Sox
+1910,CHN,1,154,104,50,Y,N,Chicago Cubs
+1910,CIN,5,156,75,79,N,N,Cincinnati Reds
+1910,CLE,5,161,71,81,N,N,Cleveland Naps
+1910,DET,3,155,86,68,N,N,Detroit Tigers
+1910,NY1,2,155,91,63,N,N,New York Giants
+1910,NYA,2,156,88,63,N,N,New York Highlanders
+1910,PHA,1,155,102,48,Y,Y,Philadelphia Athletics
+1910,PHI,4,157,78,75,N,N,Philadelphia Phillies
+1910,PIT,3,154,86,67,N,N,Pittsburgh Pirates
+1910,SLA,8,158,47,107,N,N,St. Louis Browns
+1910,SLN,7,153,63,90,N,N,St. Louis Cardinals
+1910,WS1,7,157,66,85,N,N,Washington Senators
+1911,BOS,4,153,78,75,N,N,Boston Red Sox
+1911,BRO,7,154,64,86,N,N,Brooklyn Dodgers
+1911,BSN,8,156,44,107,N,N,Boston Rustlers
+1911,CHA,5,154,77,74,N,N,Chicago White Sox
+1911,CHN,2,157,92,62,N,N,Chicago Cubs
+1911,CIN,6,159,70,83,N,N,Cincinnati Reds
+1911,CLE,3,156,80,73,N,N,Cleveland Naps
+1911,DET,2,154,89,65,N,N,Detroit Tigers
+1911,NY1,1,154,99,54,Y,N,New York Giants
+1911,NYA,6,153,76,76,N,N,New York Highlanders
+1911,PHA,1,152,101,50,Y,Y,Philadelphia Athletics
+1911,PHI,4,153,79,73,N,N,Philadelphia Phillies
+1911,PIT,3,155,85,69,N,N,Pittsburgh Pirates
+1911,SLA,8,152,45,107,N,N,St. Louis Browns
+1911,SLN,5,158,75,74,N,N,St. Louis Cardinals
+1911,WS1,7,154,64,90,N,N,Washington Senators
+1912,BOS,1,154,105,47,Y,Y,Boston Red Sox
+1912,BRO,7,153,58,95,N,N,Brooklyn Dodgers
+1912,BSN,8,155,52,101,N,N,Boston Braves
+1912,CHA,4,158,78,76,N,N,Chicago White Sox
+1912,CHN,3,152,91,59,N,N,Chicago Cubs
+1912,CIN,4,155,75,78,N,N,Cincinnati Reds
+1912,CLE,5,155,75,78,N,N,Cleveland Naps
+1912,DET,6,154,69,84,N,N,Detroit Tigers
+1912,NY1,1,154,103,48,Y,N,New York Giants
+1912,NYA,8,153,50,102,N,N,New York Highlanders
+1912,PHA,3,153,90,62,N,N,Philadelphia Athletics
+1912,PHI,5,152,73,79,N,N,Philadelphia Phillies
+1912,PIT,2,152,93,58,N,N,Pittsburgh Pirates
+1912,SLA,7,157,53,101,N,N,St. Louis Browns
+1912,SLN,6,153,63,90,N,N,St. Louis Cardinals
+1912,WS1,2,154,91,61,N,N,Washington Senators
+1913,BOS,4,151,79,71,N,N,Boston Red Sox
+1913,BRO,6,152,65,84,N,N,Brooklyn Superbas
+1913,BSN,5,154,69,82,N,N,Boston Braves
+1913,CHA,5,153,78,74,N,N,Chicago White Sox
+1913,CHN,3,155,88,65,N,N,Chicago Cubs
+1913,CIN,7,156,64,89,N,N,Cincinnati Reds
+1913,CLE,3,155,86,66,N,N,Cleveland Naps
+1913,DET,6,153,66,87,N,N,Detroit Tigers
+1913,NY1,1,156,101,51,Y,N,New York Giants
+1913,NYA,7,153,57,94,N,N,New York Yankees
+1913,PHA,1,153,96,57,Y,Y,Philadelphia Athletics
+1913,PHI,2,159,88,63,N,N,Philadelphia Phillies
+1913,PIT,4,155,78,71,N,N,Pittsburgh Pirates
+1913,SLA,8,155,57,96,N,N,St. Louis Browns
+1913,SLN,8,153,51,99,N,N,St. Louis Cardinals
+1913,WS1,2,155,90,64,N,N,Washington Senators
+1914,BLF,3,160,84,70,N,,Baltimore Terrapins
+1914,BOS,2,159,91,62,N,N,Boston Red Sox
+1914,BRF,5,157,77,77,N,,Brooklyn Tip-Tops
+1914,BRO,5,154,75,79,N,N,Brooklyn Robins
+1914,BSN,1,158,94,59,Y,Y,Boston Braves
+1914,BUF,4,155,80,71,N,,Buffalo Buffeds
+1914,CHA,6,157,70,84,N,N,Chicago White Sox
+1914,CHF,2,157,87,67,N,,Chicago Chi-Feds
+1914,CHN,4,156,78,76,N,N,Chicago Cubs
+1914,CIN,8,157,60,94,N,N,Cincinnati Reds
+1914,CLE,8,157,51,102,N,N,Cleveland Naps
+1914,DET,4,157,80,73,N,N,Detroit Tigers
+1914,IND,1,157,88,65,Y,,Indianapolis Hoosiers
+1914,KCF,6,154,67,84,N,,Kansas City Packers
+1914,NY1,2,156,84,70,N,N,New York Giants
+1914,NYA,6,157,70,84,N,N,New York Yankees
+1914,PHA,1,158,99,53,Y,N,Philadelphia Athletics
+1914,PHI,6,154,74,80,N,N,Philadelphia Phillies
+1914,PIT,7,158,69,85,N,N,Pittsburgh Pirates
+1914,PTF,7,154,64,86,N,,Pittsburgh Rebels
+1914,SLA,5,159,71,82,N,N,St. Louis Browns
+1914,SLF,8,154,62,89,N,,St. Louis Terriers
+1914,SLN,3,157,81,72,N,N,St. Louis Cardinals
+1914,WS1,3,158,81,73,N,N,Washington Senators
+1915,BLF,8,154,47,107,N,,Baltimore Terrapins
+1915,BOS,1,155,101,50,Y,Y,Boston Red Sox
+1915,BRF,7,153,70,82,N,,Brooklyn Tip-Tops
+1915,BRO,3,154,80,72,N,N,Brooklyn Robins
+1915,BSN,2,157,83,69,N,N,Boston Braves
+1915,BUF,6,153,74,78,N,,Buffalo Blues
+1915,CHA,3,155,93,61,N,N,Chicago White Sox
+1915,CHF,2,155,86,66,Y,,Chicago Whales
+1915,CHN,4,156,73,80,N,N,Chicago Cubs
+1915,CIN,7,160,71,83,N,N,Cincinnati Reds
+1915,CLE,7,154,57,95,N,N,Cleveland Indians
+1915,DET,2,156,100,54,N,N,Detroit Tigers
+1915,KCF,4,153,81,72,N,,Kansas City Packers
+1915,NEW,5,155,80,72,N,,Newark Pepper
+1915,NY1,8,155,69,83,N,N,New York Giants
+1915,NYA,5,154,69,83,N,N,New York Yankees
+1915,PHA,8,154,43,109,N,N,Philadelphia Athletics
+1915,PHI,1,153,90,62,Y,N,Philadelphia Phillies
+1915,PIT,5,156,73,81,N,N,Pittsburgh Pirates
+1915,PTF,3,156,86,67,N,,Pittsburgh Rebels
+1915,SLA,6,159,63,91,N,N,St. Louis Browns
+1915,SLF,1,159,87,67,N,,St. Louis Terriers
+1915,SLN,6,157,72,81,N,N,St. Louis Cardinals
+1915,WS1,4,155,85,68,N,N,Washington Senators
+1916,BOS,1,156,91,63,Y,Y,Boston Red Sox
+1916,BRO,1,156,94,60,Y,N,Brooklyn Robins
+1916,BSN,3,158,89,63,N,N,Boston Braves
+1916,CHA,2,155,89,65,N,N,Chicago White Sox
+1916,CHN,5,156,67,86,N,N,Chicago Cubs
+1916,CIN,7,155,60,93,N,N,Cincinnati Reds
+1916,CLE,6,157,77,77,N,N,Cleveland Indians
+1916,DET,3,155,87,67,N,N,Detroit Tigers
+1916,NY1,4,155,86,66,N,N,New York Giants
+1916,NYA,4,156,80,74,N,N,New York Yankees
+1916,PHA,8,154,36,117,N,N,Philadelphia Athletics
+1916,PHI,2,154,91,62,N,N,Philadelphia Phillies
+1916,PIT,6,157,65,89,N,N,Pittsburgh Pirates
+1916,SLA,5,158,79,75,N,N,St. Louis Browns
+1916,SLN,7,153,60,93,N,N,St. Louis Cardinals
+1916,WS1,7,159,76,77,N,N,Washington Senators
+1917,BOS,2,157,90,62,N,N,Boston Red Sox
+1917,BRO,7,156,70,81,N,N,Brooklyn Robins
+1917,BSN,6,157,72,81,N,N,Boston Braves
+1917,CHA,1,156,100,54,Y,Y,Chicago White Sox
+1917,CHN,5,157,74,80,N,N,Chicago Cubs
+1917,CIN,4,157,78,76,N,N,Cincinnati Reds
+1917,CLE,3,156,88,66,N,N,Cleveland Indians
+1917,DET,4,154,78,75,N,N,Detroit Tigers
+1917,NY1,1,158,98,56,Y,N,New York Giants
+1917,NYA,6,155,71,82,N,N,New York Yankees
+1917,PHA,8,154,55,98,N,N,Philadelphia Athletics
+1917,PHI,2,154,87,65,N,N,Philadelphia Phillies
+1917,PIT,8,157,51,103,N,N,Pittsburgh Pirates
+1917,SLA,7,155,57,97,N,N,St. Louis Browns
+1917,SLN,3,154,82,70,N,N,St. Louis Cardinals
+1917,WS1,5,157,74,79,N,N,Washington Senators
+1918,BOS,1,126,75,51,Y,Y,Boston Red Sox
+1918,BRO,5,126,57,69,N,N,Brooklyn Robins
+1918,BSN,7,124,53,71,N,N,Boston Braves
+1918,CHA,6,124,57,67,N,N,Chicago White Sox
+1918,CHN,1,131,84,45,Y,N,Chicago Cubs
+1918,CIN,3,129,68,60,N,N,Cincinnati Reds
+1918,CLE,2,129,73,54,N,N,Cleveland Indians
+1918,DET,7,128,55,71,N,N,Detroit Tigers
+1918,NY1,2,124,71,53,N,N,New York Giants
+1918,NYA,4,126,60,63,N,N,New York Yankees
+1918,PHA,8,130,52,76,N,N,Philadelphia Athletics
+1918,PHI,6,125,55,68,N,N,Philadelphia Phillies
+1918,PIT,4,126,65,60,N,N,Pittsburgh Pirates
+1918,SLA,5,123,58,64,N,N,St. Louis Browns
+1918,SLN,8,131,51,78,N,N,St. Louis Cardinals
+1918,WS1,3,130,72,56,N,N,Washington Senators
+1919,BOS,6,138,66,71,N,N,Boston Red Sox
+1919,BRO,5,141,69,71,N,N,Brooklyn Robins
+1919,BSN,6,140,57,82,N,N,Boston Braves
+1919,CHA,1,140,88,52,Y,N,Chicago White Sox
+1919,CHN,3,140,75,65,N,N,Chicago Cubs
+1919,CIN,1,140,96,44,Y,Y,Cincinnati Reds
+1919,CLE,2,139,84,55,N,N,Cleveland Indians
+1919,DET,4,140,80,60,N,N,Detroit Tigers
+1919,NY1,2,140,87,53,N,N,New York Giants
+1919,NYA,3,141,80,59,N,N,New York Yankees
+1919,PHA,8,140,36,104,N,N,Philadelphia Athletics
+1919,PHI,8,138,47,90,N,N,Philadelphia Phillies
+1919,PIT,4,139,71,68,N,N,Pittsburgh Pirates
+1919,SLA,5,140,67,72,N,N,St. Louis Browns
+1919,SLN,7,138,54,83,N,N,St. Louis Cardinals
+1919,WS1,7,142,56,84,N,N,Washington Senators
+1920,BOS,5,154,72,81,N,N,Boston Red Sox
+1920,BRO,1,155,93,61,Y,N,Brooklyn Robins
+1920,BSN,7,153,62,90,N,N,Boston Braves
+1920,CHA,2,154,96,58,N,N,Chicago White Sox
+1920,CHN,5,154,75,79,N,N,Chicago Cubs
+1920,CIN,3,154,82,71,N,N,Cincinnati Reds
+1920,CLE,1,154,98,56,Y,Y,Cleveland Indians
+1920,DET,7,155,61,93,N,N,Detroit Tigers
+1920,NY1,2,155,86,68,N,N,New York Giants
+1920,NYA,3,154,95,59,N,N,New York Yankees
+1920,PHA,8,156,48,106,N,N,Philadelphia Athletics
+1920,PHI,8,153,62,91,N,N,Philadelphia Phillies
+1920,PIT,4,155,79,75,N,N,Pittsburgh Pirates
+1920,SLA,4,154,76,77,N,N,St. Louis Browns
+1920,SLN,5,155,75,79,N,N,St. Louis Cardinals
+1920,WS1,6,153,68,84,N,N,Washington Senators
+1921,BOS,5,154,75,79,N,N,Boston Red Sox
+1921,BRO,5,152,77,75,N,N,Brooklyn Robins
+1921,BSN,4,153,79,74,N,N,Boston Braves
+1921,CHA,7,154,62,92,N,N,Chicago White Sox
+1921,CHN,7,153,64,89,N,N,Chicago Cubs
+1921,CIN,6,153,70,83,N,N,Cincinnati Reds
+1921,CLE,2,154,94,60,N,N,Cleveland Indians
+1921,DET,6,154,71,82,N,N,Detroit Tigers
+1921,NY1,1,153,94,59,Y,Y,New York Giants
+1921,NYA,1,153,98,55,Y,N,New York Yankees
+1921,PHA,8,155,53,100,N,N,Philadelphia Athletics
+1921,PHI,8,154,51,103,N,N,Philadelphia Phillies
+1921,PIT,2,154,90,63,N,N,Pittsburgh Pirates
+1921,SLA,3,154,81,73,N,N,St. Louis Browns
+1921,SLN,3,154,87,66,N,N,St. Louis Cardinals
+1921,WS1,4,154,80,73,N,N,Washington Senators
+1922,BOS,8,154,61,93,N,N,Boston Red Sox
+1922,BRO,6,155,76,78,N,N,Brooklyn Robins
+1922,BSN,8,154,53,100,N,N,Boston Braves
+1922,CHA,5,155,77,77,N,N,Chicago White Sox
+1922,CHN,5,156,80,74,N,N,Chicago Cubs
+1922,CIN,2,156,86,68,N,N,Cincinnati Reds
+1922,CLE,4,155,78,76,N,N,Cleveland Indians
+1922,DET,3,155,79,75,N,N,Detroit Tigers
+1922,NY1,1,156,93,61,Y,Y,New York Giants
+1922,NYA,1,154,94,60,Y,N,New York Yankees
+1922,PHA,7,155,65,89,N,N,Philadelphia Athletics
+1922,PHI,7,154,57,96,N,N,Philadelphia Phillies
+1922,PIT,3,155,85,69,N,N,Pittsburgh Pirates
+1922,SLA,2,154,93,61,N,N,St. Louis Browns
+1922,SLN,3,154,85,69,N,N,St. Louis Cardinals
+1922,WS1,6,154,69,85,N,N,Washington Senators
+1923,BOS,8,154,61,91,N,N,Boston Red Sox
+1923,BRO,6,155,76,78,N,N,Brooklyn Robins
+1923,BSN,7,155,54,100,N,N,Boston Braves
+1923,CHA,7,156,69,85,N,N,Chicago White Sox
+1923,CHN,4,154,83,71,N,N,Chicago Cubs
+1923,CIN,2,154,91,63,N,N,Cincinnati Reds
+1923,CLE,3,153,82,71,N,N,Cleveland Indians
+1923,DET,2,155,83,71,N,N,Detroit Tigers
+1923,NY1,1,153,95,58,Y,N,New York Giants
+1923,NYA,1,152,98,54,Y,Y,New York Yankees
+1923,PHA,6,153,69,83,N,N,Philadelphia Athletics
+1923,PHI,8,155,50,104,N,N,Philadelphia Phillies
+1923,PIT,3,154,87,67,N,N,Pittsburgh Pirates
+1923,SLA,5,154,74,78,N,N,St. Louis Browns
+1923,SLN,5,154,79,74,N,N,St. Louis Cardinals
+1923,WS1,4,155,75,78,N,N,Washington Senators
+1924,BOS,7,157,67,87,N,N,Boston Red Sox
+1924,BRO,2,154,92,62,N,N,Brooklyn Robins
+1924,BSN,8,154,53,100,N,N,Boston Braves
+1924,CHA,8,154,66,87,N,N,Chicago White Sox
+1924,CHN,5,154,81,72,N,N,Chicago Cubs
+1924,CIN,4,153,83,70,N,N,Cincinnati Reds
+1924,CLE,6,153,67,86,N,N,Cleveland Indians
+1924,DET,3,156,86,68,N,N,Detroit Tigers
+1924,NY1,1,154,93,60,Y,N,New York Giants
+1924,NYA,2,153,89,63,N,N,New York Yankees
+1924,PHA,5,152,71,81,N,N,Philadelphia Athletics
+1924,PHI,7,152,55,96,N,N,Philadelphia Phillies
+1924,PIT,3,153,90,63,N,N,Pittsburgh Pirates
+1924,SLA,4,153,74,78,N,N,St. Louis Browns
+1924,SLN,6,154,65,89,N,N,St. Louis Cardinals
+1924,WS1,1,156,92,62,Y,Y,Washington Senators
+1925,BOS,8,152,47,105,N,N,Boston Red Sox
+1925,BRO,6,153,68,85,N,N,Brooklyn Robins
+1925,BSN,5,153,70,83,N,N,Boston Braves
+1925,CHA,5,154,79,75,N,N,Chicago White Sox
+1925,CHN,8,154,68,86,N,N,Chicago Cubs
+1925,CIN,3,153,80,73,N,N,Cincinnati Reds
+1925,CLE,6,155,70,84,N,N,Cleveland Indians
+1925,DET,4,156,81,73,N,N,Detroit Tigers
+1925,NY1,2,152,86,66,N,N,New York Giants
+1925,NYA,7,156,69,85,N,N,New York Yankees
+1925,PHA,2,153,88,64,N,N,Philadelphia Athletics
+1925,PHI,6,153,68,85,N,N,Philadelphia Phillies
+1925,PIT,1,153,95,58,Y,Y,Pittsburgh Pirates
+1925,SLA,3,154,82,71,N,N,St. Louis Browns
+1925,SLN,4,153,77,76,N,N,St. Louis Cardinals
+1925,WS1,1,152,96,55,Y,N,Washington Senators
+1926,BOS,8,154,46,107,N,N,Boston Red Sox
+1926,BRO,6,155,71,82,N,N,Brooklyn Robins
+1926,BSN,7,153,66,86,N,N,Boston Braves
+1926,CHA,5,155,81,72,N,N,Chicago White Sox
+1926,CHN,4,155,82,72,N,N,Chicago Cubs
+1926,CIN,2,157,87,67,N,N,Cincinnati Reds
+1926,CLE,2,154,88,66,N,N,Cleveland Indians
+1926,DET,6,157,79,75,N,N,Detroit Tigers
+1926,NY1,5,151,74,77,N,N,New York Giants
+1926,NYA,1,155,91,63,Y,N,New York Yankees
+1926,PHA,3,150,83,67,N,N,Philadelphia Athletics
+1926,PHI,8,152,58,93,N,N,Philadelphia Phillies
+1926,PIT,3,157,84,69,N,N,Pittsburgh Pirates
+1926,SLA,7,155,62,92,N,N,St. Louis Browns
+1926,SLN,1,156,89,65,Y,Y,St. Louis Cardinals
+1926,WS1,4,152,81,69,N,N,Washington Senators
+1927,BOS,8,154,51,103,N,N,Boston Red Sox
+1927,BRO,6,154,65,88,N,N,Brooklyn Robins
+1927,BSN,7,155,60,94,N,N,Boston Braves
+1927,CHA,5,153,70,83,N,N,Chicago White Sox
+1927,CHN,4,153,85,68,N,N,Chicago Cubs
+1927,CIN,5,153,75,78,N,N,Cincinnati Reds
+1927,CLE,6,153,66,87,N,N,Cleveland Indians
+1927,DET,4,156,82,71,N,N,Detroit Tigers
+1927,NY1,3,155,92,62,N,N,New York Giants
+1927,NYA,1,155,110,44,Y,Y,New York Yankees
+1927,PHA,2,155,91,63,N,N,Philadelphia Athletics
+1927,PHI,8,155,51,103,N,N,Philadelphia Phillies
+1927,PIT,1,156,94,60,Y,N,Pittsburgh Pirates
+1927,SLA,7,155,59,94,N,N,St. Louis Browns
+1927,SLN,2,153,92,61,N,N,St. Louis Cardinals
+1927,WS1,3,157,85,69,N,N,Washington Senators
+1928,BOS,8,154,57,96,N,N,Boston Red Sox
+1928,BRO,6,155,77,76,N,N,Brooklyn Robins
+1928,BSN,7,153,50,103,N,N,Boston Braves
+1928,CHA,5,155,72,82,N,N,Chicago White Sox
+1928,CHN,3,154,91,63,N,N,Chicago Cubs
+1928,CIN,5,153,78,74,N,N,Cincinnati Reds
+1928,CLE,7,155,62,92,N,N,Cleveland Indians
+1928,DET,6,154,68,86,N,N,Detroit Tigers
+1928,NY1,2,155,93,61,N,N,New York Giants
+1928,NYA,1,154,101,53,Y,Y,New York Yankees
+1928,PHA,2,153,98,55,N,N,Philadelphia Athletics
+1928,PHI,8,152,43,109,N,N,Philadelphia Phillies
+1928,PIT,4,152,85,67,N,N,Pittsburgh Pirates
+1928,SLA,3,154,82,72,N,N,St. Louis Browns
+1928,SLN,1,154,95,59,Y,N,St. Louis Cardinals
+1928,WS1,4,155,75,79,N,N,Washington Senators
+1929,BOS,8,155,58,96,N,N,Boston Red Sox
+1929,BRO,6,153,70,83,N,N,Brooklyn Robins
+1929,BSN,8,154,56,98,N,N,Boston Braves
+1929,CHA,7,152,59,93,N,N,Chicago White Sox
+1929,CHN,1,156,98,54,Y,N,Chicago Cubs
+1929,CIN,7,155,66,88,N,N,Cincinnati Reds
+1929,CLE,3,152,81,71,N,N,Cleveland Indians
+1929,DET,6,155,70,84,N,N,Detroit Tigers
+1929,NY1,3,152,84,67,N,N,New York Giants
+1929,NYA,2,154,88,66,N,N,New York Yankees
+1929,PHA,1,151,104,46,Y,Y,Philadelphia Athletics
+1929,PHI,5,154,71,82,N,N,Philadelphia Phillies
+1929,PIT,2,154,88,65,N,N,Pittsburgh Pirates
+1929,SLA,4,154,79,73,N,N,St. Louis Browns
+1929,SLN,4,154,78,74,N,N,St. Louis Cardinals
+1929,WS1,5,153,71,81,N,N,Washington Senators
+1930,BOS,8,154,52,102,N,N,Boston Red Sox
+1930,BRO,4,154,86,68,N,N,Brooklyn Robins
+1930,BSN,6,154,70,84,N,N,Boston Braves
+1930,CHA,7,154,62,92,N,N,Chicago White Sox
+1930,CHN,2,156,90,64,N,N,Chicago Cubs
+1930,CIN,7,154,59,95,N,N,Cincinnati Reds
+1930,CLE,4,154,81,73,N,N,Cleveland Indians
+1930,DET,5,154,75,79,N,N,Detroit Tigers
+1930,NY1,3,154,87,67,N,N,New York Giants
+1930,NYA,3,154,86,68,N,N,New York Yankees
+1930,PHA,1,154,102,52,Y,Y,Philadelphia Athletics
+1930,PHI,8,156,52,102,N,N,Philadelphia Phillies
+1930,PIT,5,154,80,74,N,N,Pittsburgh Pirates
+1930,SLA,6,154,64,90,N,N,St. Louis Browns
+1930,SLN,1,154,92,62,Y,N,St. Louis Cardinals
+1930,WS1,2,154,94,60,N,N,Washington Senators
+1931,BOS,6,153,62,90,N,N,Boston Red Sox
+1931,BRO,4,153,79,73,N,N,Brooklyn Robins
+1931,BSN,7,156,64,90,N,N,Boston Braves
+1931,CHA,8,156,56,97,N,N,Chicago White Sox
+1931,CHN,3,156,84,70,N,N,Chicago Cubs
+1931,CIN,8,154,58,96,N,N,Cincinnati Reds
+1931,CLE,4,155,78,76,N,N,Cleveland Indians
+1931,DET,7,154,61,93,N,N,Detroit Tigers
+1931,NY1,2,153,87,65,N,N,New York Giants
+1931,NYA,2,155,94,59,N,N,New York Yankees
+1931,PHA,1,153,107,45,Y,N,Philadelphia Athletics
+1931,PHI,6,155,66,88,N,N,Philadelphia Phillies
+1931,PIT,5,155,75,79,N,N,Pittsburgh Pirates
+1931,SLA,5,154,63,91,N,N,St. Louis Browns
+1931,SLN,1,154,101,53,Y,Y,St. Louis Cardinals
+1931,WS1,3,156,92,62,N,N,Washington Senators
+1932,BOS,8,154,43,111,N,N,Boston Red Sox
+1932,BRO,3,154,81,73,N,N,Brooklyn Dodgers
+1932,BSN,5,155,77,77,N,N,Boston Braves
+1932,CHA,7,152,49,102,N,N,Chicago White Sox
+1932,CHN,1,154,90,64,Y,N,Chicago Cubs
+1932,CIN,8,155,60,94,N,N,Cincinnati Reds
+1932,CLE,4,153,87,65,N,N,Cleveland Indians
+1932,DET,5,153,76,75,N,N,Detroit Tigers
+1932,NY1,6,154,72,82,N,N,New York Giants
+1932,NYA,1,156,107,47,Y,Y,New York Yankees
+1932,PHA,2,154,94,60,N,N,Philadelphia Athletics
+1932,PHI,4,154,78,76,N,N,Philadelphia Phillies
+1932,PIT,2,154,86,68,N,N,Pittsburgh Pirates
+1932,SLA,6,154,63,91,N,N,St. Louis Browns
+1932,SLN,6,156,72,82,N,N,St. Louis Cardinals
+1932,WS1,3,154,93,61,N,N,Washington Senators
+1933,BOS,7,149,63,86,N,N,Boston Red Sox
+1933,BRO,6,157,65,88,N,N,Brooklyn Dodgers
+1933,BSN,4,156,83,71,N,N,Boston Braves
+1933,CHA,6,151,67,83,N,N,Chicago White Sox
+1933,CHN,3,154,86,68,N,N,Chicago Cubs
+1933,CIN,8,153,58,94,N,N,Cincinnati Reds
+1933,CLE,4,151,75,76,N,N,Cleveland Indians
+1933,DET,5,155,75,79,N,N,Detroit Tigers
+1933,NY1,1,156,91,61,Y,Y,New York Giants
+1933,NYA,2,152,91,59,N,N,New York Yankees
+1933,PHA,3,152,79,72,N,N,Philadelphia Athletics
+1933,PHI,7,152,60,92,N,N,Philadelphia Phillies
+1933,PIT,2,154,87,67,N,N,Pittsburgh Pirates
+1933,SLA,8,153,55,96,N,N,St. Louis Browns
+1933,SLN,5,154,82,71,N,N,St. Louis Cardinals
+1933,WS1,1,153,99,53,Y,N,Washington Senators
+1934,BOS,4,153,76,76,N,N,Boston Red Sox
+1934,BRO,6,153,71,81,N,N,Brooklyn Dodgers
+1934,BSN,4,152,78,73,N,N,Boston Braves
+1934,CHA,8,153,53,99,N,N,Chicago White Sox
+1934,CHN,3,152,86,65,N,N,Chicago Cubs
+1934,CIN,8,152,52,99,N,N,Cincinnati Reds
+1934,CLE,3,154,85,69,N,N,Cleveland Indians
+1934,DET,1,154,101,53,Y,N,Detroit Tigers
+1934,NY1,2,153,93,60,N,N,New York Giants
+1934,NYA,2,154,94,60,N,N,New York Yankees
+1934,PHA,5,153,68,82,N,N,Philadelphia Athletics
+1934,PHI,7,149,56,93,N,N,Philadelphia Phillies
+1934,PIT,5,151,74,76,N,N,Pittsburgh Pirates
+1934,SLA,6,154,67,85,N,N,St. Louis Browns
+1934,SLN,1,154,95,58,Y,Y,St. Louis Cardinals
+1934,WS1,7,155,66,86,N,N,Washington Senators
+1935,BOS,4,154,78,75,N,N,Boston Red Sox
+1935,BRO,5,154,70,83,N,N,Brooklyn Dodgers
+1935,BSN,8,153,38,115,N,N,Boston Braves
+1935,CHA,5,153,74,78,N,N,Chicago White Sox
+1935,CHN,1,154,100,54,Y,N,Chicago Cubs
+1935,CIN,6,154,68,85,N,N,Cincinnati Reds
+1935,CLE,3,156,82,71,N,N,Cleveland Indians
+1935,DET,1,152,93,58,Y,Y,Detroit Tigers
+1935,NY1,3,156,91,62,N,N,New York Giants
+1935,NYA,2,149,89,60,N,N,New York Yankees
+1935,PHA,8,149,58,91,N,N,Philadelphia Athletics
+1935,PHI,7,156,64,89,N,N,Philadelphia Phillies
+1935,PIT,4,153,86,67,N,N,Pittsburgh Pirates
+1935,SLA,7,155,65,87,N,N,St. Louis Browns
+1935,SLN,2,154,96,58,N,N,St. Louis Cardinals
+1935,WS1,6,154,67,86,N,N,Washington Senators
+1936,BOS,6,155,74,80,N,N,Boston Red Sox
+1936,BRO,7,156,67,87,N,N,Brooklyn Dodgers
+1936,BSN,6,157,71,83,N,N,Boston Bees
+1936,CHA,4,153,81,70,N,N,Chicago White Sox
+1936,CHN,2,154,87,67,N,N,Chicago Cubs
+1936,CIN,5,154,74,80,N,N,Cincinnati Reds
+1936,CLE,5,157,80,74,N,N,Cleveland Indians
+1936,DET,2,154,83,71,N,N,Detroit Tigers
+1936,NY1,1,154,92,62,Y,N,New York Giants
+1936,NYA,1,155,102,51,Y,Y,New York Yankees
+1936,PHA,8,154,53,100,N,N,Philadelphia Athletics
+1936,PHI,8,154,54,100,N,N,Philadelphia Phillies
+1936,PIT,4,156,84,70,N,N,Pittsburgh Pirates
+1936,SLA,7,155,57,95,N,N,St. Louis Browns
+1936,SLN,2,155,87,67,N,N,St. Louis Cardinals
+1936,WS1,3,153,82,71,N,N,Washington Senators
+1937,BOS,5,154,80,72,N,N,Boston Red Sox
+1937,BRO,6,155,62,91,N,N,Brooklyn Dodgers
+1937,BSN,5,152,79,73,N,N,Boston Bees
+1937,CHA,3,154,86,68,N,N,Chicago White Sox
+1937,CHN,2,154,93,61,N,N,Chicago Cubs
+1937,CIN,8,155,56,98,N,N,Cincinnati Reds
+1937,CLE,4,156,83,71,N,N,Cleveland Indians
+1937,DET,2,155,89,65,N,N,Detroit Tigers
+1937,NY1,1,152,95,57,Y,N,New York Giants
+1937,NYA,1,157,102,52,Y,Y,New York Yankees
+1937,PHA,7,154,54,97,N,N,Philadelphia Athletics
+1937,PHI,7,155,61,92,N,N,Philadelphia Phillies
+1937,PIT,3,154,86,68,N,N,Pittsburgh Pirates
+1937,SLA,8,156,46,108,N,N,St. Louis Browns
+1937,SLN,4,157,81,73,N,N,St. Louis Cardinals
+1937,WS1,6,158,73,80,N,N,Washington Senators
+1938,BOS,2,150,88,61,N,N,Boston Red Sox
+1938,BRO,7,151,69,80,N,N,Brooklyn Dodgers
+1938,BSN,5,153,77,75,N,N,Boston Bees
+1938,CHA,6,149,65,83,N,N,Chicago White Sox
+1938,CHN,1,154,89,63,Y,N,Chicago Cubs
+1938,CIN,4,151,82,68,N,N,Cincinnati Reds
+1938,CLE,3,153,86,66,N,N,Cleveland Indians
+1938,DET,4,155,84,70,N,N,Detroit Tigers
+1938,NY1,3,152,83,67,N,N,New York Giants
+1938,NYA,1,157,99,53,Y,Y,New York Yankees
+1938,PHA,8,154,53,99,N,N,Philadelphia Athletics
+1938,PHI,8,151,45,105,N,N,Philadelphia Phillies
+1938,PIT,2,152,86,64,N,N,Pittsburgh Pirates
+1938,SLA,7,156,55,97,N,N,St. Louis Browns
+1938,SLN,6,156,71,80,N,N,St. Louis Cardinals
+1938,WS1,5,152,75,76,N,N,Washington Senators
+1939,BOS,2,152,89,62,N,N,Boston Red Sox
+1939,BRO,3,157,84,69,N,N,Brooklyn Dodgers
+1939,BSN,7,152,63,88,N,N,Boston Bees
+1939,CHA,4,155,85,69,N,N,Chicago White Sox
+1939,CHN,4,156,84,70,N,N,Chicago Cubs
+1939,CIN,1,156,97,57,Y,N,Cincinnati Reds
+1939,CLE,3,154,87,67,N,N,Cleveland Indians
+1939,DET,5,155,81,73,N,N,Detroit Tigers
+1939,NY1,5,151,77,74,N,N,New York Giants
+1939,NYA,1,152,106,45,Y,Y,New York Yankees
+1939,PHA,7,153,55,97,N,N,Philadelphia Athletics
+1939,PHI,8,152,45,106,N,N,Philadelphia Phillies
+1939,PIT,6,153,68,85,N,N,Pittsburgh Pirates
+1939,SLA,8,156,43,111,N,N,St. Louis Browns
+1939,SLN,2,155,92,61,N,N,St. Louis Cardinals
+1939,WS1,6,153,65,87,N,N,Washington Senators
+1940,BOS,4,154,82,72,N,N,Boston Red Sox
+1940,BRO,2,156,88,65,N,N,Brooklyn Dodgers
+1940,BSN,7,152,65,87,N,N,Boston Bees
+1940,CHA,4,155,82,72,N,N,Chicago White Sox
+1940,CHN,5,154,75,79,N,N,Chicago Cubs
+1940,CIN,1,155,100,53,Y,Y,Cincinnati Reds
+1940,CLE,2,155,89,65,N,N,Cleveland Indians
+1940,DET,1,155,90,64,Y,N,Detroit Tigers
+1940,NY1,6,152,72,80,N,N,New York Giants
+1940,NYA,3,155,88,66,N,N,New York Yankees
+1940,PHA,8,154,54,100,N,N,Philadelphia Athletics
+1940,PHI,8,153,50,103,N,N,Philadelphia Phillies
+1940,PIT,4,156,78,76,N,N,Pittsburgh Pirates
+1940,SLA,6,156,67,87,N,N,St. Louis Browns
+1940,SLN,3,156,84,69,N,N,St. Louis Cardinals
+1940,WS1,7,154,64,90,N,N,Washington Senators
+1941,BOS,2,155,84,70,N,N,Boston Red Sox
+1941,BRO,1,157,100,54,Y,N,Brooklyn Dodgers
+1941,BSN,7,156,62,92,N,N,Boston Braves
+1941,CHA,3,156,77,77,N,N,Chicago White Sox
+1941,CHN,6,155,70,84,N,N,Chicago Cubs
+1941,CIN,3,154,88,66,N,N,Cincinnati Reds
+1941,CLE,4,155,75,79,N,N,Cleveland Indians
+1941,DET,4,155,75,79,N,N,Detroit Tigers
+1941,NY1,5,156,74,79,N,N,New York Giants
+1941,NYA,1,156,101,53,Y,Y,New York Yankees
+1941,PHA,8,154,64,90,N,N,Philadelphia Athletics
+1941,PHI,8,155,43,111,N,N,Philadelphia Phillies
+1941,PIT,4,156,81,73,N,N,Pittsburgh Pirates
+1941,SLA,6,157,70,84,N,N,St. Louis Browns
+1941,SLN,2,155,97,56,N,N,St. Louis Cardinals
+1941,WS1,6,156,70,84,N,N,Washington Senators
+1942,BOS,2,152,93,59,N,N,Boston Red Sox
+1942,BRO,2,155,104,50,N,N,Brooklyn Dodgers
+1942,BSN,7,150,59,89,N,N,Boston Braves
+1942,CHA,6,148,66,82,N,N,Chicago White Sox
+1942,CHN,6,155,68,86,N,N,Chicago Cubs
+1942,CIN,4,154,76,76,N,N,Cincinnati Reds
+1942,CLE,4,156,75,79,N,N,Cleveland Indians
+1942,DET,5,156,73,81,N,N,Detroit Tigers
+1942,NY1,3,154,85,67,N,N,New York Giants
+1942,NYA,1,154,103,51,Y,N,New York Yankees
+1942,PHA,8,154,55,99,N,N,Philadelphia Athletics
+1942,PHI,8,151,42,109,N,N,Philadelphia Phillies
+1942,PIT,5,151,66,81,N,N,Pittsburgh Pirates
+1942,SLA,3,151,82,69,N,N,St. Louis Browns
+1942,SLN,1,156,106,48,Y,Y,St. Louis Cardinals
+1942,WS1,7,151,62,89,N,N,Washington Senators
+1943,BOS,7,155,68,84,N,N,Boston Red Sox
+1943,BRO,3,153,81,72,N,N,Brooklyn Dodgers
+1943,BSN,6,153,68,85,N,N,Boston Braves
+1943,CHA,4,155,82,72,N,N,Chicago White Sox
+1943,CHN,5,154,74,79,N,N,Chicago Cubs
+1943,CIN,2,155,87,67,N,N,Cincinnati Reds
+1943,CLE,3,153,82,71,N,N,Cleveland Indians
+1943,DET,5,155,78,76,N,N,Detroit Tigers
+1943,NY1,8,156,55,98,N,N,New York Giants
+1943,NYA,1,155,98,56,Y,Y,New York Yankees
+1943,PHA,8,155,49,105,N,N,Philadelphia Athletics
+1943,PHI,7,157,64,90,N,N,Philadelphia Blue Jays
+1943,PIT,4,157,80,74,N,N,Pittsburgh Pirates
+1943,SLA,6,153,72,80,N,N,St. Louis Browns
+1943,SLN,1,157,105,49,Y,N,St. Louis Cardinals
+1943,WS1,2,153,84,69,N,N,Washington Senators
+1944,BOS,4,156,77,77,N,N,Boston Red Sox
+1944,BRO,7,155,63,91,N,N,Brooklyn Dodgers
+1944,BSN,6,155,65,89,N,N,Boston Braves
+1944,CHA,7,154,71,83,N,N,Chicago White Sox
+1944,CHN,4,157,75,79,N,N,Chicago Cubs
+1944,CIN,3,155,89,65,N,N,Cincinnati Reds
+1944,CLE,5,155,72,82,N,N,Cleveland Indians
+1944,DET,2,156,88,66,N,N,Detroit Tigers
+1944,NY1,5,155,67,87,N,N,New York Giants
+1944,NYA,3,154,83,71,N,N,New York Yankees
+1944,PHA,5,155,72,82,N,N,Philadelphia Athletics
+1944,PHI,8,154,61,92,N,N,Philadelphia Blue Jays
+1944,PIT,2,158,90,63,N,N,Pittsburgh Pirates
+1944,SLA,1,154,89,65,Y,N,St. Louis Browns
+1944,SLN,1,157,105,49,Y,Y,St. Louis Cardinals
+1944,WS1,8,154,64,90,N,N,Washington Senators
+1945,BOS,7,157,71,83,N,N,Boston Red Sox
+1945,BRO,3,155,87,67,N,N,Brooklyn Dodgers
+1945,BSN,6,154,67,85,N,N,Boston Braves
+1945,CHA,6,150,71,78,N,N,Chicago White Sox
+1945,CHN,1,155,98,56,Y,N,Chicago Cubs
+1945,CIN,7,154,61,93,N,N,Cincinnati Reds
+1945,CLE,5,147,73,72,N,N,Cleveland Indians
+1945,DET,1,155,88,65,Y,Y,Detroit Tigers
+1945,NY1,5,154,78,74,N,N,New York Giants
+1945,NYA,4,152,81,71,N,N,New York Yankees
+1945,PHA,8,153,52,98,N,N,Philadelphia Athletics
+1945,PHI,8,154,46,108,N,N,Philadelphia Phillies
+1945,PIT,4,155,82,72,N,N,Pittsburgh Pirates
+1945,SLA,3,154,81,70,N,N,St. Louis Browns
+1945,SLN,2,155,95,59,N,N,St. Louis Cardinals
+1945,WS1,2,156,87,67,N,N,Washington Senators
+1946,BOS,1,156,104,50,Y,N,Boston Red Sox
+1946,BRO,2,157,96,60,N,N,Brooklyn Dodgers
+1946,BSN,4,154,81,72,N,N,Boston Braves
+1946,CHA,5,155,74,80,N,N,Chicago White Sox
+1946,CHN,3,155,82,71,N,N,Chicago Cubs
+1946,CIN,6,156,67,87,N,N,Cincinnati Reds
+1946,CLE,6,156,68,86,N,N,Cleveland Indians
+1946,DET,2,155,92,62,N,N,Detroit Tigers
+1946,NY1,8,154,61,93,N,N,New York Giants
+1946,NYA,3,154,87,67,N,N,New York Yankees
+1946,PHA,8,155,49,105,N,N,Philadelphia Athletics
+1946,PHI,5,155,69,85,N,N,Philadelphia Phillies
+1946,PIT,7,155,63,91,N,N,Pittsburgh Pirates
+1946,SLA,7,156,66,88,N,N,St. Louis Browns
+1946,SLN,1,156,98,58,Y,Y,St. Louis Cardinals
+1946,WS1,4,155,76,78,N,N,Washington Senators
+1947,BOS,3,157,83,71,N,N,Boston Red Sox
+1947,BRO,1,155,94,60,Y,N,Brooklyn Dodgers
+1947,BSN,3,154,86,68,N,N,Boston Braves
+1947,CHA,6,155,70,84,N,N,Chicago White Sox
+1947,CHN,6,155,69,85,N,N,Chicago Cubs
+1947,CIN,5,154,73,81,N,N,Cincinnati Reds
+1947,CLE,4,157,80,74,N,N,Cleveland Indians
+1947,DET,2,158,85,69,N,N,Detroit Tigers
+1947,NY1,4,155,81,73,N,N,New York Giants
+1947,NYA,1,155,97,57,Y,Y,New York Yankees
+1947,PHA,5,156,78,76,N,N,Philadelphia Athletics
+1947,PHI,7,155,62,92,N,N,Philadelphia Phillies
+1947,PIT,7,156,62,92,N,N,Pittsburgh Pirates
+1947,SLA,8,154,59,95,N,N,St. Louis Browns
+1947,SLN,2,156,89,65,N,N,St. Louis Cardinals
+1947,WS1,7,154,64,90,N,N,Washington Senators
+1948,BOS,2,155,96,59,N,N,Boston Red Sox
+1948,BRO,3,155,84,70,N,N,Brooklyn Dodgers
+1948,BSN,1,154,91,62,Y,N,Boston Braves
+1948,CHA,8,154,51,101,N,N,Chicago White Sox
+1948,CHN,8,155,64,90,N,N,Chicago Cubs
+1948,CIN,7,153,64,89,N,N,Cincinnati Reds
+1948,CLE,1,156,97,58,Y,Y,Cleveland Indians
+1948,DET,5,154,78,76,N,N,Detroit Tigers
+1948,NY1,5,155,78,76,N,N,New York Giants
+1948,NYA,3,154,94,60,N,N,New York Yankees
+1948,PHA,4,154,84,70,N,N,Philadelphia Athletics
+1948,PHI,6,155,66,88,N,N,Philadelphia Phillies
+1948,PIT,4,156,83,71,N,N,Pittsburgh Pirates
+1948,SLA,6,155,59,94,N,N,St. Louis Browns
+1948,SLN,2,155,85,69,N,N,St. Louis Cardinals
+1948,WS1,7,154,56,97,N,N,Washington Senators
+1949,BOS,2,155,96,58,N,N,Boston Red Sox
+1949,BRO,1,156,97,57,Y,N,Brooklyn Dodgers
+1949,BSN,4,157,75,79,N,N,Boston Braves
+1949,CHA,6,154,63,91,N,N,Chicago White Sox
+1949,CHN,8,154,61,93,N,N,Chicago Cubs
+1949,CIN,7,156,62,92,N,N,Cincinnati Reds
+1949,CLE,3,154,89,65,N,N,Cleveland Indians
+1949,DET,4,155,87,67,N,N,Detroit Tigers
+1949,NY1,5,156,73,81,N,N,New York Giants
+1949,NYA,1,155,97,57,Y,Y,New York Yankees
+1949,PHA,5,154,81,73,N,N,Philadelphia Athletics
+1949,PHI,3,154,81,73,N,N,Philadelphia Phillies
+1949,PIT,6,154,71,83,N,N,Pittsburgh Pirates
+1949,SLA,7,155,53,101,N,N,St. Louis Browns
+1949,SLN,2,157,96,58,N,N,St. Louis Cardinals
+1949,WS1,8,154,50,104,N,N,Washington Senators
+1950,BOS,3,154,94,60,N,N,Boston Red Sox
+1950,BRO,2,155,89,65,N,N,Brooklyn Dodgers
+1950,BSN,4,156,83,71,N,N,Boston Braves
+1950,CHA,6,156,60,94,N,N,Chicago White Sox
+1950,CHN,7,154,64,89,N,N,Chicago Cubs
+1950,CIN,6,153,66,87,N,N,Cincinnati Reds
+1950,CLE,4,155,92,62,N,N,Cleveland Indians
+1950,DET,2,157,95,59,N,N,Detroit Tigers
+1950,NY1,3,154,86,68,N,N,New York Giants
+1950,NYA,1,155,98,56,Y,Y,New York Yankees
+1950,PHA,8,154,52,102,N,N,Philadelphia Athletics
+1950,PHI,1,157,91,63,Y,N,Philadelphia Phillies
+1950,PIT,8,154,57,96,N,N,Pittsburgh Pirates
+1950,SLA,7,154,58,96,N,N,St. Louis Browns
+1950,SLN,5,153,78,75,N,N,St. Louis Cardinals
+1950,WS1,5,155,67,87,N,N,Washington Senators
+1951,BOS,3,154,87,67,N,N,Boston Red Sox
+1951,BRO,2,158,97,60,N,N,Brooklyn Dodgers
+1951,BSN,4,155,76,78,N,N,Boston Braves
+1951,CHA,4,155,81,73,N,N,Chicago White Sox
+1951,CHN,8,155,62,92,N,N,Chicago Cubs
+1951,CIN,6,155,68,86,N,N,Cincinnati Reds
+1951,CLE,2,155,93,61,N,N,Cleveland Indians
+1951,DET,5,154,73,81,N,N,Detroit Tigers
+1951,NY1,1,157,98,59,Y,N,New York Giants
+1951,NYA,1,154,98,56,Y,Y,New York Yankees
+1951,PHA,6,154,70,84,N,N,Philadelphia Athletics
+1951,PHI,5,154,73,81,N,N,Philadelphia Phillies
+1951,PIT,7,155,64,90,N,N,Pittsburgh Pirates
+1951,SLA,8,154,52,102,N,N,St. Louis Browns
+1951,SLN,3,155,81,73,N,N,St. Louis Cardinals
+1951,WS1,7,154,62,92,N,N,Washington Senators
+1952,BOS,6,154,76,78,N,N,Boston Red Sox
+1952,BRO,1,155,96,57,Y,N,Brooklyn Dodgers
+1952,BSN,7,155,64,89,N,N,Boston Braves
+1952,CHA,3,156,81,73,N,N,Chicago White Sox
+1952,CHN,5,155,77,77,N,N,Chicago Cubs
+1952,CIN,6,154,69,85,N,N,Cincinnati Reds
+1952,CLE,2,155,93,61,N,N,Cleveland Indians
+1952,DET,8,156,50,104,N,N,Detroit Tigers
+1952,NY1,2,154,92,62,N,N,New York Giants
+1952,NYA,1,154,95,59,Y,Y,New York Yankees
+1952,PHA,4,155,79,75,N,N,Philadelphia Athletics
+1952,PHI,4,154,87,67,N,N,Philadelphia Phillies
+1952,PIT,8,155,42,112,N,N,Pittsburgh Pirates
+1952,SLA,7,155,64,90,N,N,St. Louis Browns
+1952,SLN,3,154,88,66,N,N,St. Louis Cardinals
+1952,WS1,5,157,78,76,N,N,Washington Senators
+1953,BOS,4,153,84,69,N,N,Boston Red Sox
+1953,BRO,1,155,105,49,Y,N,Brooklyn Dodgers
+1953,CHA,3,156,89,65,N,N,Chicago White Sox
+1953,CHN,7,155,65,89,N,N,Chicago Cubs
+1953,CIN,6,155,68,86,N,N,Cincinnati Reds
+1953,CLE,2,155,92,62,N,N,Cleveland Indians
+1953,DET,6,158,60,94,N,N,Detroit Tigers
+1953,ML1,2,157,92,62,N,N,Milwaukee Braves
+1953,NY1,5,155,70,84,N,N,New York Giants
+1953,NYA,1,151,99,52,Y,Y,New York Yankees
+1953,PHA,7,157,59,95,N,N,Philadelphia Athletics
+1953,PHI,3,156,83,71,N,N,Philadelphia Phillies
+1953,PIT,8,154,50,104,N,N,Pittsburgh Pirates
+1953,SLA,8,154,54,100,N,N,St. Louis Browns
+1953,SLN,3,157,83,71,N,N,St. Louis Cardinals
+1953,WS1,5,152,76,76,N,N,Washington Senators
+1954,BAL,7,154,54,100,N,N,Baltimore Orioles
+1954,BOS,4,156,69,85,N,N,Boston Red Sox
+1954,BRO,2,154,92,62,N,N,Brooklyn Dodgers
+1954,CHA,3,155,94,60,N,N,Chicago White Sox
+1954,CHN,7,154,64,90,N,N,Chicago Cubs
+1954,CIN,5,154,74,80,N,N,Cincinnati Redlegs
+1954,CLE,1,156,111,43,Y,N,Cleveland Indians
+1954,DET,5,155,68,86,N,N,Detroit Tigers
+1954,ML1,3,154,89,65,N,N,Milwaukee Braves
+1954,NY1,1,154,97,57,Y,Y,New York Giants
+1954,NYA,2,155,103,51,N,N,New York Yankees
+1954,PHA,8,156,51,103,N,N,Philadelphia Athletics
+1954,PHI,4,154,75,79,N,N,Philadelphia Phillies
+1954,PIT,8,154,53,101,N,N,Pittsburgh Pirates
+1954,SLN,6,154,72,82,N,N,St. Louis Cardinals
+1954,WS1,6,155,66,88,N,N,Washington Senators
+1955,BAL,7,156,57,97,N,N,Baltimore Orioles
+1955,BOS,4,154,84,70,N,N,Boston Red Sox
+1955,BRO,1,154,98,55,Y,Y,Brooklyn Dodgers
+1955,CHA,3,155,91,63,N,N,Chicago White Sox
+1955,CHN,6,154,72,81,N,N,Chicago Cubs
+1955,CIN,5,154,75,79,N,N,Cincinnati Redlegs
+1955,CLE,2,154,93,61,N,N,Cleveland Indians
+1955,DET,5,154,79,75,N,N,Detroit Tigers
+1955,KC1,6,155,63,91,N,N,Kansas City Athletics
+1955,ML1,2,154,85,69,N,N,Milwaukee Braves
+1955,NY1,3,154,80,74,N,N,New York Giants
+1955,NYA,1,154,96,58,Y,N,New York Yankees
+1955,PHI,4,154,77,77,N,N,Philadelphia Phillies
+1955,PIT,8,154,60,94,N,N,Pittsburgh Pirates
+1955,SLN,7,154,68,86,N,N,St. Louis Cardinals
+1955,WS1,8,154,53,101,N,N,Washington Senators
+1956,BAL,6,154,69,85,N,N,Baltimore Orioles
+1956,BOS,4,155,84,70,N,N,Boston Red Sox
+1956,BRO,1,154,93,61,Y,N,Brooklyn Dodgers
+1956,CHA,3,154,85,69,N,N,Chicago White Sox
+1956,CHN,8,157,60,94,N,N,Chicago Cubs
+1956,CIN,3,155,91,63,N,N,Cincinnati Redlegs
+1956,CLE,2,155,88,66,N,N,Cleveland Indians
+1956,DET,5,155,82,72,N,N,Detroit Tigers
+1956,KC1,8,154,52,102,N,N,Kansas City Athletics
+1956,ML1,2,155,92,62,N,N,Milwaukee Braves
+1956,NY1,6,154,67,87,N,N,New York Giants
+1956,NYA,1,154,97,57,Y,Y,New York Yankees
+1956,PHI,5,154,71,83,N,N,Philadelphia Phillies
+1956,PIT,7,157,66,88,N,N,Pittsburgh Pirates
+1956,SLN,4,156,76,78,N,N,St. Louis Cardinals
+1956,WS1,7,155,59,95,N,N,Washington Senators
+1957,BAL,5,154,76,76,N,N,Baltimore Orioles
+1957,BOS,3,154,82,72,N,N,Boston Red Sox
+1957,BRO,3,154,84,70,N,N,Brooklyn Dodgers
+1957,CHA,2,155,90,64,N,N,Chicago White Sox
+1957,CHN,7,156,62,92,N,N,Chicago Cubs
+1957,CIN,4,154,80,74,N,N,Cincinnati Redlegs
+1957,CLE,6,153,76,77,N,N,Cleveland Indians
+1957,DET,4,154,78,76,N,N,Detroit Tigers
+1957,KC1,7,154,59,94,N,N,Kansas City Athletics
+1957,ML1,1,155,95,59,Y,Y,Milwaukee Braves
+1957,NY1,6,154,69,85,N,N,New York Giants
+1957,NYA,1,154,98,56,Y,N,New York Yankees
+1957,PHI,5,156,77,77,N,N,Philadelphia Phillies
+1957,PIT,7,155,62,92,N,N,Pittsburgh Pirates
+1957,SLN,2,154,87,67,N,N,St. Louis Cardinals
+1957,WS1,8,154,55,99,N,N,Washington Senators
+1958,BAL,6,154,74,79,N,N,Baltimore Orioles
+1958,BOS,3,155,79,75,N,N,Boston Red Sox
+1958,CHA,2,155,82,72,N,N,Chicago White Sox
+1958,CHN,5,154,72,82,N,N,Chicago Cubs
+1958,CIN,4,154,76,78,N,N,Cincinnati Redlegs
+1958,CLE,4,153,77,76,N,N,Cleveland Indians
+1958,DET,5,154,77,77,N,N,Detroit Tigers
+1958,KC1,7,156,73,81,N,N,Kansas City Athletics
+1958,LAN,7,154,71,83,N,N,Los Angeles Dodgers
+1958,ML1,1,154,92,62,Y,N,Milwaukee Braves
+1958,NYA,1,155,92,62,Y,Y,New York Yankees
+1958,PHI,8,154,69,85,N,N,Philadelphia Phillies
+1958,PIT,2,154,84,70,N,N,Pittsburgh Pirates
+1958,SFN,3,154,80,74,N,N,San Francisco Giants
+1958,SLN,5,154,72,82,N,N,St. Louis Cardinals
+1958,WS1,8,156,61,93,N,N,Washington Senators
+1959,BAL,6,155,74,80,N,N,Baltimore Orioles
+1959,BOS,5,154,75,79,N,N,Boston Red Sox
+1959,CHA,1,156,94,60,Y,N,Chicago White Sox
+1959,CHN,5,155,74,80,N,N,Chicago Cubs
+1959,CIN,5,154,74,80,N,N,Cincinnati Redlegs
+1959,CLE,2,154,89,65,N,N,Cleveland Indians
+1959,DET,4,154,76,78,N,N,Detroit Tigers
+1959,KC1,7,154,66,88,N,N,Kansas City Athletics
+1959,LAN,1,156,88,68,Y,Y,Los Angeles Dodgers
+1959,ML1,2,157,86,70,N,N,Milwaukee Braves
+1959,NYA,3,155,79,75,N,N,New York Yankees
+1959,PHI,8,155,64,90,N,N,Philadelphia Phillies
+1959,PIT,4,155,78,76,N,N,Pittsburgh Pirates
+1959,SFN,3,154,83,71,N,N,San Francisco Giants
+1959,SLN,7,154,71,83,N,N,St. Louis Cardinals
+1959,WS1,8,154,63,91,N,N,Washington Senators
+1960,BAL,2,154,89,65,N,N,Baltimore Orioles
+1960,BOS,7,154,65,89,N,N,Boston Red Sox
+1960,CHA,3,154,87,67,N,N,Chicago White Sox
+1960,CHN,7,156,60,94,N,N,Chicago Cubs
+1960,CIN,6,154,67,87,N,N,Cincinnati Reds
+1960,CLE,4,154,76,78,N,N,Cleveland Indians
+1960,DET,6,154,71,83,N,N,Detroit Tigers
+1960,KC1,8,155,58,96,N,N,Kansas City Athletics
+1960,LAN,4,154,82,72,N,N,Los Angeles Dodgers
+1960,ML1,2,154,88,66,N,N,Milwaukee Braves
+1960,NYA,1,155,97,57,Y,N,New York Yankees
+1960,PHI,8,154,59,95,N,N,Philadelphia Phillies
+1960,PIT,1,155,95,59,Y,Y,Pittsburgh Pirates
+1960,SFN,5,156,79,75,N,N,San Francisco Giants
+1960,SLN,3,155,86,68,N,N,St. Louis Cardinals
+1960,WS1,5,154,73,81,N,N,Washington Senators
+1961,BAL,3,163,95,67,N,N,Baltimore Orioles
+1961,BOS,6,163,76,86,N,N,Boston Red Sox
+1961,CHA,4,163,86,76,N,N,Chicago White Sox
+1961,CHN,7,156,64,90,N,N,Chicago Cubs
+1961,CIN,1,154,93,61,Y,N,Cincinnati Reds
+1961,CLE,5,161,78,83,N,N,Cleveland Indians
+1961,DET,2,163,101,61,N,N,Detroit Tigers
+1961,KC1,9,162,61,100,N,N,Kansas City Athletics
+1961,LAA,8,162,70,91,N,N,Los Angeles Angels
+1961,LAN,2,154,89,65,N,N,Los Angeles Dodgers
+1961,MIN,7,161,70,90,N,N,Minnesota Twins
+1961,ML1,4,155,83,71,N,N,Milwaukee Braves
+1961,NYA,1,163,109,53,Y,Y,New York Yankees
+1961,PHI,8,155,47,107,N,N,Philadelphia Phillies
+1961,PIT,6,154,75,79,N,N,Pittsburgh Pirates
+1961,SFN,3,155,85,69,N,N,San Francisco Giants
+1961,SLN,5,155,80,74,N,N,St. Louis Cardinals
+1961,WS2,9,161,61,100,N,N,Washington Senators
+1962,BAL,7,162,77,85,N,N,Baltimore Orioles
+1962,BOS,8,160,76,84,N,N,Boston Red Sox
+1962,CHA,5,162,85,77,N,N,Chicago White Sox
+1962,CHN,9,162,59,103,N,N,Chicago Cubs
+1962,CIN,3,162,98,64,N,N,Cincinnati Reds
+1962,CLE,6,162,80,82,N,N,Cleveland Indians
+1962,DET,4,161,85,76,N,N,Detroit Tigers
+1962,HOU,8,162,64,96,N,N,Houston Colt .45's
+1962,KC1,9,162,72,90,N,N,Kansas City Athletics
+1962,LAA,3,162,86,76,N,N,Los Angeles Angels
+1962,LAN,2,165,102,63,N,N,Los Angeles Dodgers
+1962,MIN,2,163,91,71,N,N,Minnesota Twins
+1962,ML1,5,162,86,76,N,N,Milwaukee Braves
+1962,NYA,1,162,96,66,Y,Y,New York Yankees
+1962,NYN,10,161,40,120,N,N,New York Mets
+1962,PHI,7,161,81,80,N,N,Philadelphia Phillies
+1962,PIT,4,161,93,68,N,N,Pittsburgh Pirates
+1962,SFN,1,165,103,62,Y,N,San Francisco Giants
+1962,SLN,6,163,84,78,N,N,St. Louis Cardinals
+1962,WS2,10,162,60,101,N,N,Washington Senators
+1963,BAL,4,162,86,76,N,N,Baltimore Orioles
+1963,BOS,7,161,76,85,N,N,Boston Red Sox
+1963,CHA,2,162,94,68,N,N,Chicago White Sox
+1963,CHN,7,162,82,80,N,N,Chicago Cubs
+1963,CIN,5,162,86,76,N,N,Cincinnati Reds
+1963,CLE,5,162,79,83,N,N,Cleveland Indians
+1963,DET,5,162,79,83,N,N,Detroit Tigers
+1963,HOU,9,162,66,96,N,N,Houston Colt .45's
+1963,KC1,8,162,73,89,N,N,Kansas City Athletics
+1963,LAA,9,161,70,91,N,N,Los Angeles Angels
+1963,LAN,1,163,99,63,Y,Y,Los Angeles Dodgers
+1963,MIN,3,161,91,70,N,N,Minnesota Twins
+1963,ML1,6,163,84,78,N,N,Milwaukee Braves
+1963,NYA,1,161,104,57,Y,N,New York Yankees
+1963,NYN,10,162,51,111,N,N,New York Mets
+1963,PHI,4,162,87,75,N,N,Philadelphia Phillies
+1963,PIT,8,162,74,88,N,N,Pittsburgh Pirates
+1963,SFN,3,162,88,74,N,N,San Francisco Giants
+1963,SLN,2,162,93,69,N,N,St. Louis Cardinals
+1963,WS2,10,162,56,106,N,N,Washington Senators
+1964,BAL,3,163,97,65,N,N,Baltimore Orioles
+1964,BOS,8,162,72,90,N,N,Boston Red Sox
+1964,CHA,2,162,98,64,N,N,Chicago White Sox
+1964,CHN,8,162,76,86,N,N,Chicago Cubs
+1964,CIN,2,163,92,70,N,N,Cincinnati Reds
+1964,CLE,6,164,79,83,N,N,Cleveland Indians
+1964,DET,4,163,85,77,N,N,Detroit Tigers
+1964,HOU,9,162,66,96,N,N,Houston Colt .45's
+1964,KC1,10,163,57,105,N,N,Kansas City Athletics
+1964,LAA,5,162,82,80,N,N,Los Angeles Angels
+1964,LAN,6,164,80,82,N,N,Los Angeles Dodgers
+1964,MIN,6,163,79,83,N,N,Minnesota Twins
+1964,ML1,5,162,88,74,N,N,Milwaukee Braves
+1964,NYA,1,164,99,63,Y,N,New York Yankees
+1964,NYN,10,163,53,109,N,N,New York Mets
+1964,PHI,2,162,92,70,N,N,Philadelphia Phillies
+1964,PIT,6,162,80,82,N,N,Pittsburgh Pirates
+1964,SFN,4,162,90,72,N,N,San Francisco Giants
+1964,SLN,1,162,93,69,Y,Y,St. Louis Cardinals
+1964,WS2,9,162,62,100,N,N,Washington Senators
+1965,BAL,3,162,94,68,N,N,Baltimore Orioles
+1965,BOS,9,162,62,100,N,N,Boston Red Sox
+1965,CAL,7,162,75,87,N,N,California Angels
+1965,CHA,2,162,95,67,N,N,Chicago White Sox
+1965,CHN,8,164,72,90,N,N,Chicago Cubs
+1965,CIN,4,162,89,73,N,N,Cincinnati Reds
+1965,CLE,5,162,87,75,N,N,Cleveland Indians
+1965,DET,4,162,89,73,N,N,Detroit Tigers
+1965,HOU,9,162,65,97,N,N,Houston Astros
+1965,KC1,10,162,59,103,N,N,Kansas City Athletics
+1965,LAN,1,162,97,65,Y,Y,Los Angeles Dodgers
+1965,MIN,1,162,102,60,Y,N,Minnesota Twins
+1965,ML1,5,162,86,76,N,N,Milwaukee Braves
+1965,NYA,6,162,77,85,N,N,New York Yankees
+1965,NYN,10,164,50,112,N,N,New York Mets
+1965,PHI,6,162,85,76,N,N,Philadelphia Phillies
+1965,PIT,3,163,90,72,N,N,Pittsburgh Pirates
+1965,SFN,2,163,95,67,N,N,San Francisco Giants
+1965,SLN,7,162,80,81,N,N,St. Louis Cardinals
+1965,WS2,8,162,70,92,N,N,Washington Senators
+1966,ATL,5,163,85,77,N,N,Atlanta Braves
+1966,BAL,1,160,97,63,Y,Y,Baltimore Orioles
+1966,BOS,9,162,72,90,N,N,Boston Red Sox
+1966,CAL,6,162,80,82,N,N,California Angels
+1966,CHA,4,163,83,79,N,N,Chicago White Sox
+1966,CHN,10,162,59,103,N,N,Chicago Cubs
+1966,CIN,7,160,76,84,N,N,Cincinnati Reds
+1966,CLE,5,162,81,81,N,N,Cleveland Indians
+1966,DET,3,162,88,74,N,N,Detroit Tigers
+1966,HOU,8,163,72,90,N,N,Houston Astros
+1966,KC1,7,160,74,86,N,N,Kansas City Athletics
+1966,LAN,1,162,95,67,Y,N,Los Angeles Dodgers
+1966,MIN,2,162,89,73,N,N,Minnesota Twins
+1966,NYA,10,160,70,89,N,N,New York Yankees
+1966,NYN,9,161,66,95,N,N,New York Mets
+1966,PHI,4,162,87,75,N,N,Philadelphia Phillies
+1966,PIT,3,162,92,70,N,N,Pittsburgh Pirates
+1966,SFN,2,161,93,68,N,N,San Francisco Giants
+1966,SLN,6,162,83,79,N,N,St. Louis Cardinals
+1966,WS2,8,159,71,88,N,N,Washington Senators
+1967,ATL,7,162,77,85,N,N,Atlanta Braves
+1967,BAL,6,161,76,85,N,N,Baltimore Orioles
+1967,BOS,1,162,92,70,Y,N,Boston Red Sox
+1967,CAL,5,161,84,77,N,N,California Angels
+1967,CHA,4,162,89,73,N,N,Chicago White Sox
+1967,CHN,3,162,87,74,N,N,Chicago Cubs
+1967,CIN,4,162,87,75,N,N,Cincinnati Reds
+1967,CLE,8,162,75,87,N,N,Cleveland Indians
+1967,DET,2,163,91,71,N,N,Detroit Tigers
+1967,HOU,9,162,69,93,N,N,Houston Astros
+1967,KC1,10,161,62,99,N,N,Kansas City Athletics
+1967,LAN,8,162,73,89,N,N,Los Angeles Dodgers
+1967,MIN,2,164,91,71,N,N,Minnesota Twins
+1967,NYA,9,163,72,90,N,N,New York Yankees
+1967,NYN,10,162,61,101,N,N,New York Mets
+1967,PHI,5,162,82,80,N,N,Philadelphia Phillies
+1967,PIT,6,163,81,81,N,N,Pittsburgh Pirates
+1967,SFN,2,162,91,71,N,N,San Francisco Giants
+1967,SLN,1,161,101,60,Y,Y,St. Louis Cardinals
+1967,WS2,6,161,76,85,N,N,Washington Senators
+1968,ATL,5,163,81,81,N,N,Atlanta Braves
+1968,BAL,2,162,91,71,N,N,Baltimore Orioles
+1968,BOS,4,162,86,76,N,N,Boston Red Sox
+1968,CAL,8,162,67,95,N,N,California Angels
+1968,CHA,8,162,67,95,N,N,Chicago White Sox
+1968,CHN,3,163,84,78,N,N,Chicago Cubs
+1968,CIN,4,163,83,79,N,N,Cincinnati Reds
+1968,CLE,3,162,86,75,N,N,Cleveland Indians
+1968,DET,1,164,103,59,Y,Y,Detroit Tigers
+1968,HOU,10,162,72,90,N,N,Houston Astros
+1968,LAN,7,162,76,86,N,N,Los Angeles Dodgers
+1968,MIN,7,162,79,83,N,N,Minnesota Twins
+1968,NYA,5,164,83,79,N,N,New York Yankees
+1968,NYN,9,163,73,89,N,N,New York Mets
+1968,OAK,6,163,82,80,N,N,Oakland Athletics
+1968,PHI,7,162,76,86,N,N,Philadelphia Phillies
+1968,PIT,6,163,80,82,N,N,Pittsburgh Pirates
+1968,SFN,2,163,88,74,N,N,San Francisco Giants
+1968,SLN,1,162,97,65,Y,N,St. Louis Cardinals
+1968,WS2,10,161,65,96,N,N,Washington Senators
+1969,ATL,1,162,93,69,N,N,Atlanta Braves
+1969,BAL,1,162,109,53,Y,N,Baltimore Orioles
+1969,BOS,3,162,87,75,N,N,Boston Red Sox
+1969,CAL,3,163,71,91,N,N,California Angels
+1969,CHA,5,162,68,94,N,N,Chicago White Sox
+1969,CHN,2,163,92,70,N,N,Chicago Cubs
+1969,CIN,3,163,89,73,N,N,Cincinnati Reds
+1969,CLE,6,161,62,99,N,N,Cleveland Indians
+1969,DET,2,162,90,72,N,N,Detroit Tigers
+1969,HOU,5,162,81,81,N,N,Houston Astros
+1969,KCA,4,163,69,93,N,N,Kansas City Royals
+1969,LAN,4,162,85,77,N,N,Los Angeles Dodgers
+1969,MIN,1,162,97,65,N,N,Minnesota Twins
+1969,MON,6,162,52,110,N,N,Montreal Expos
+1969,NYA,5,162,80,81,N,N,New York Yankees
+1969,NYN,1,162,100,62,Y,Y,New York Mets
+1969,OAK,2,162,88,74,N,N,Oakland Athletics
+1969,PHI,5,162,63,99,N,N,Philadelphia Phillies
+1969,PIT,3,162,88,74,N,N,Pittsburgh Pirates
+1969,SDN,6,162,52,110,N,N,San Diego Padres
+1969,SE1,6,163,64,98,N,N,Seattle Pilots
+1969,SFN,2,162,90,72,N,N,San Francisco Giants
+1969,SLN,4,162,87,75,N,N,St. Louis Cardinals
+1969,WS2,4,162,86,76,N,N,Washington Senators
+1970,ATL,5,162,76,86,N,N,Atlanta Braves
+1970,BAL,1,162,108,54,Y,Y,Baltimore Orioles
+1970,BOS,3,162,87,75,N,N,Boston Red Sox
+1970,CAL,3,162,86,76,N,N,California Angels
+1970,CHA,6,162,56,106,N,N,Chicago White Sox
+1970,CHN,2,162,84,78,N,N,Chicago Cubs
+1970,CIN,1,162,102,60,Y,N,Cincinnati Reds
+1970,CLE,5,162,76,86,N,N,Cleveland Indians
+1970,DET,4,162,79,83,N,N,Detroit Tigers
+1970,HOU,4,162,79,83,N,N,Houston Astros
+1970,KCA,4,162,65,97,N,N,Kansas City Royals
+1970,LAN,2,161,87,74,N,N,Los Angeles Dodgers
+1970,MIN,1,162,98,64,N,N,Minnesota Twins
+1970,ML4,4,163,65,97,N,N,Milwaukee Brewers
+1970,MON,6,162,73,89,N,N,Montreal Expos
+1970,NYA,2,163,93,69,N,N,New York Yankees
+1970,NYN,3,162,83,79,N,N,New York Mets
+1970,OAK,2,162,89,73,N,N,Oakland Athletics
+1970,PHI,5,161,73,88,N,N,Philadelphia Phillies
+1970,PIT,1,162,89,73,N,N,Pittsburgh Pirates
+1970,SDN,6,162,63,99,N,N,San Diego Padres
+1970,SFN,3,162,86,76,N,N,San Francisco Giants
+1970,SLN,4,162,76,86,N,N,St. Louis Cardinals
+1970,WS2,6,162,70,92,N,N,Washington Senators
+1971,ATL,3,162,82,80,N,N,Atlanta Braves
+1971,BAL,1,158,101,57,Y,N,Baltimore Orioles
+1971,BOS,3,162,85,77,N,N,Boston Red Sox
+1971,CAL,4,162,76,86,N,N,California Angels
+1971,CHA,3,162,79,83,N,N,Chicago White Sox
+1971,CHN,3,162,83,79,N,N,Chicago Cubs
+1971,CIN,4,162,79,83,N,N,Cincinnati Reds
+1971,CLE,6,162,60,102,N,N,Cleveland Indians
+1971,DET,2,162,91,71,N,N,Detroit Tigers
+1971,HOU,4,162,79,83,N,N,Houston Astros
+1971,KCA,2,161,85,76,N,N,Kansas City Royals
+1971,LAN,2,162,89,73,N,N,Los Angeles Dodgers
+1971,MIN,5,160,74,86,N,N,Minnesota Twins
+1971,ML4,6,161,69,92,N,N,Milwaukee Brewers
+1971,MON,5,162,71,90,N,N,Montreal Expos
+1971,NYA,4,162,82,80,N,N,New York Yankees
+1971,NYN,3,162,83,79,N,N,New York Mets
+1971,OAK,1,161,101,60,N,N,Oakland Athletics
+1971,PHI,6,162,67,95,N,N,Philadelphia Phillies
+1971,PIT,1,162,97,65,Y,Y,Pittsburgh Pirates
+1971,SDN,6,161,61,100,N,N,San Diego Padres
+1971,SFN,1,162,90,72,N,N,San Francisco Giants
+1971,SLN,2,163,90,72,N,N,St. Louis Cardinals
+1971,WS2,5,159,63,96,N,N,Washington Senators
+1972,ATL,4,155,70,84,N,N,Atlanta Braves
+1972,BAL,3,154,80,74,N,N,Baltimore Orioles
+1972,BOS,2,155,85,70,N,N,Boston Red Sox
+1972,CAL,5,155,75,80,N,N,California Angels
+1972,CHA,2,154,87,67,N,N,Chicago White Sox
+1972,CHN,2,156,85,70,N,N,Chicago Cubs
+1972,CIN,1,154,95,59,Y,N,Cincinnati Reds
+1972,CLE,5,156,72,84,N,N,Cleveland Indians
+1972,DET,1,156,86,70,N,N,Detroit Tigers
+1972,HOU,3,153,84,69,N,N,Houston Astros
+1972,KCA,4,154,76,78,N,N,Kansas City Royals
+1972,LAN,2,155,85,70,N,N,Los Angeles Dodgers
+1972,MIN,3,154,77,77,N,N,Minnesota Twins
+1972,ML4,6,156,65,91,N,N,Milwaukee Brewers
+1972,MON,5,156,70,86,N,N,Montreal Expos
+1972,NYA,4,155,79,76,N,N,New York Yankees
+1972,NYN,3,156,83,73,N,N,New York Mets
+1972,OAK,1,155,93,62,Y,Y,Oakland Athletics
+1972,PHI,6,156,59,97,N,N,Philadelphia Phillies
+1972,PIT,1,155,96,59,N,N,Pittsburgh Pirates
+1972,SDN,6,153,58,95,N,N,San Diego Padres
+1972,SFN,5,155,69,86,N,N,San Francisco Giants
+1972,SLN,4,156,75,81,N,N,St. Louis Cardinals
+1972,TEX,6,154,54,100,N,N,Texas Rangers
+1973,ATL,5,162,76,85,N,N,Atlanta Braves
+1973,BAL,1,162,97,65,N,N,Baltimore Orioles
+1973,BOS,2,162,89,73,N,N,Boston Red Sox
+1973,CAL,4,162,79,83,N,N,California Angels
+1973,CHA,5,162,77,85,N,N,Chicago White Sox
+1973,CHN,5,161,77,84,N,N,Chicago Cubs
+1973,CIN,1,162,99,63,N,N,Cincinnati Reds
+1973,CLE,6,162,71,91,N,N,Cleveland Indians
+1973,DET,3,162,85,77,N,N,Detroit Tigers
+1973,HOU,4,162,82,80,N,N,Houston Astros
+1973,KCA,2,162,88,74,N,N,Kansas City Royals
+1973,LAN,2,162,95,66,N,N,Los Angeles Dodgers
+1973,MIN,3,162,81,81,N,N,Minnesota Twins
+1973,ML4,5,162,74,88,N,N,Milwaukee Brewers
+1973,MON,4,162,79,83,N,N,Montreal Expos
+1973,NYA,4,162,80,82,N,N,New York Yankees
+1973,NYN,1,161,82,79,Y,N,New York Mets
+1973,OAK,1,162,94,68,Y,Y,Oakland Athletics
+1973,PHI,6,162,71,91,N,N,Philadelphia Phillies
+1973,PIT,3,162,80,82,N,N,Pittsburgh Pirates
+1973,SDN,6,162,60,102,N,N,San Diego Padres
+1973,SFN,3,162,88,74,N,N,San Francisco Giants
+1973,SLN,2,162,81,81,N,N,St. Louis Cardinals
+1973,TEX,6,162,57,105,N,N,Texas Rangers
+1974,ATL,3,163,88,74,N,N,Atlanta Braves
+1974,BAL,1,162,91,71,N,N,Baltimore Orioles
+1974,BOS,3,162,84,78,N,N,Boston Red Sox
+1974,CAL,6,163,68,94,N,N,California Angels
+1974,CHA,4,163,80,80,N,N,Chicago White Sox
+1974,CHN,6,162,66,96,N,N,Chicago Cubs
+1974,CIN,2,163,98,64,N,N,Cincinnati Reds
+1974,CLE,4,162,77,85,N,N,Cleveland Indians
+1974,DET,6,162,72,90,N,N,Detroit Tigers
+1974,HOU,4,162,81,81,N,N,Houston Astros
+1974,KCA,5,162,77,85,N,N,Kansas City Royals
+1974,LAN,1,162,102,60,Y,N,Los Angeles Dodgers
+1974,MIN,3,163,82,80,N,N,Minnesota Twins
+1974,ML4,5,162,76,86,N,N,Milwaukee Brewers
+1974,MON,4,161,79,82,N,N,Montreal Expos
+1974,NYA,2,162,89,73,N,N,New York Yankees
+1974,NYN,5,162,71,91,N,N,New York Mets
+1974,OAK,1,162,90,72,Y,Y,Oakland Athletics
+1974,PHI,3,162,80,82,N,N,Philadelphia Phillies
+1974,PIT,1,162,88,74,N,N,Pittsburgh Pirates
+1974,SDN,6,162,60,102,N,N,San Diego Padres
+1974,SFN,5,162,72,90,N,N,San Francisco Giants
+1974,SLN,2,161,86,75,N,N,St. Louis Cardinals
+1974,TEX,2,161,84,76,N,N,Texas Rangers
+1975,ATL,5,161,67,94,N,N,Atlanta Braves
+1975,BAL,2,159,90,69,N,N,Baltimore Orioles
+1975,BOS,1,160,95,65,Y,N,Boston Red Sox
+1975,CAL,6,161,72,89,N,N,California Angels
+1975,CHA,5,161,75,86,N,N,Chicago White Sox
+1975,CHN,5,162,75,87,N,N,Chicago Cubs
+1975,CIN,1,162,108,54,Y,Y,Cincinnati Reds
+1975,CLE,4,159,79,80,N,N,Cleveland Indians
+1975,DET,6,159,57,102,N,N,Detroit Tigers
+1975,HOU,6,162,64,97,N,N,Houston Astros
+1975,KCA,2,162,91,71,N,N,Kansas City Royals
+1975,LAN,2,162,88,74,N,N,Los Angeles Dodgers
+1975,MIN,4,159,76,83,N,N,Minnesota Twins
+1975,ML4,5,162,68,94,N,N,Milwaukee Brewers
+1975,MON,5,162,75,87,N,N,Montreal Expos
+1975,NYA,3,160,83,77,N,N,New York Yankees
+1975,NYN,3,162,82,80,N,N,New York Mets
+1975,OAK,1,162,98,64,N,N,Oakland Athletics
+1975,PHI,2,162,86,76,N,N,Philadelphia Phillies
+1975,PIT,1,161,92,69,N,N,Pittsburgh Pirates
+1975,SDN,4,162,71,91,N,N,San Diego Padres
+1975,SFN,3,161,80,81,N,N,San Francisco Giants
+1975,SLN,3,163,82,80,N,N,St. Louis Cardinals
+1975,TEX,3,162,79,83,N,N,Texas Rangers
+1976,ATL,6,162,70,92,N,N,Atlanta Braves
+1976,BAL,2,162,88,74,N,N,Baltimore Orioles
+1976,BOS,3,162,83,79,N,N,Boston Red Sox
+1976,CAL,4,162,76,86,N,N,California Angels
+1976,CHA,6,161,64,97,N,N,Chicago White Sox
+1976,CHN,4,162,75,87,N,N,Chicago Cubs
+1976,CIN,1,162,102,60,Y,Y,Cincinnati Reds
+1976,CLE,4,159,81,78,N,N,Cleveland Indians
+1976,DET,5,161,74,87,N,N,Detroit Tigers
+1976,HOU,3,162,80,82,N,N,Houston Astros
+1976,KCA,1,162,90,72,N,N,Kansas City Royals
+1976,LAN,2,162,92,70,N,N,Los Angeles Dodgers
+1976,MIN,3,162,85,77,N,N,Minnesota Twins
+1976,ML4,6,161,66,95,N,N,Milwaukee Brewers
+1976,MON,6,162,55,107,N,N,Montreal Expos
+1976,NYA,1,159,97,62,Y,N,New York Yankees
+1976,NYN,3,162,86,76,N,N,New York Mets
+1976,OAK,2,161,87,74,N,N,Oakland Athletics
+1976,PHI,1,162,101,61,N,N,Philadelphia Phillies
+1976,PIT,2,162,92,70,N,N,Pittsburgh Pirates
+1976,SDN,5,162,73,89,N,N,San Diego Padres
+1976,SFN,4,162,74,88,N,N,San Francisco Giants
+1976,SLN,5,162,72,90,N,N,St. Louis Cardinals
+1976,TEX,4,162,76,86,N,N,Texas Rangers
+1977,ATL,6,162,61,101,N,N,Atlanta Braves
+1977,BAL,2,161,97,64,N,N,Baltimore Orioles
+1977,BOS,2,161,97,64,N,N,Boston Red Sox
+1977,CAL,5,162,74,88,N,N,California Angels
+1977,CHA,3,162,90,72,N,N,Chicago White Sox
+1977,CHN,4,162,81,81,N,N,Chicago Cubs
+1977,CIN,2,162,88,74,N,N,Cincinnati Reds
+1977,CLE,5,161,71,90,N,N,Cleveland Indians
+1977,DET,4,162,74,88,N,N,Detroit Tigers
+1977,HOU,3,162,81,81,N,N,Houston Astros
+1977,KCA,1,162,102,60,N,N,Kansas City Royals
+1977,LAN,1,162,98,64,Y,N,Los Angeles Dodgers
+1977,MIN,4,161,84,77,N,N,Minnesota Twins
+1977,ML4,6,162,67,95,N,N,Milwaukee Brewers
+1977,MON,5,162,75,87,N,N,Montreal Expos
+1977,NYA,1,162,100,62,Y,Y,New York Yankees
+1977,NYN,6,162,64,98,N,N,New York Mets
+1977,OAK,7,161,63,98,N,N,Oakland Athletics
+1977,PHI,1,162,101,61,N,N,Philadelphia Phillies
+1977,PIT,2,162,96,66,N,N,Pittsburgh Pirates
+1977,SDN,5,162,69,93,N,N,San Diego Padres
+1977,SEA,6,162,64,98,N,N,Seattle Mariners
+1977,SFN,4,162,75,87,N,N,San Francisco Giants
+1977,SLN,3,162,83,79,N,N,St. Louis Cardinals
+1977,TEX,2,162,94,68,N,N,Texas Rangers
+1977,TOR,7,161,54,107,N,N,Toronto Blue Jays
+1978,ATL,6,162,69,93,N,N,Atlanta Braves
+1978,BAL,4,161,90,71,N,N,Baltimore Orioles
+1978,BOS,2,163,99,64,N,N,Boston Red Sox
+1978,CAL,2,162,87,75,N,N,California Angels
+1978,CHA,5,161,71,90,N,N,Chicago White Sox
+1978,CHN,3,162,79,83,N,N,Chicago Cubs
+1978,CIN,2,161,92,69,N,N,Cincinnati Reds
+1978,CLE,6,159,69,90,N,N,Cleveland Indians
+1978,DET,5,162,86,76,N,N,Detroit Tigers
+1978,HOU,5,162,74,88,N,N,Houston Astros
+1978,KCA,1,162,92,70,N,N,Kansas City Royals
+1978,LAN,1,162,95,67,Y,N,Los Angeles Dodgers
+1978,MIN,4,162,73,89,N,N,Minnesota Twins
+1978,ML4,3,162,93,69,N,N,Milwaukee Brewers
+1978,MON,4,162,76,86,N,N,Montreal Expos
+1978,NYA,1,163,100,63,Y,Y,New York Yankees
+1978,NYN,6,162,66,96,N,N,New York Mets
+1978,OAK,6,162,69,93,N,N,Oakland Athletics
+1978,PHI,1,162,90,72,N,N,Philadelphia Phillies
+1978,PIT,2,161,88,73,N,N,Pittsburgh Pirates
+1978,SDN,4,162,84,78,N,N,San Diego Padres
+1978,SEA,7,160,56,104,N,N,Seattle Mariners
+1978,SFN,3,162,89,73,N,N,San Francisco Giants
+1978,SLN,5,162,69,93,N,N,St. Louis Cardinals
+1978,TEX,2,162,87,75,N,N,Texas Rangers
+1978,TOR,7,161,59,102,N,N,Toronto Blue Jays
+1979,ATL,6,160,66,94,N,N,Atlanta Braves
+1979,BAL,1,159,102,57,Y,N,Baltimore Orioles
+1979,BOS,3,160,91,69,N,N,Boston Red Sox
+1979,CAL,1,162,88,74,N,N,California Angels
+1979,CHA,5,159,73,87,N,N,Chicago White Sox
+1979,CHN,5,162,80,82,N,N,Chicago Cubs
+1979,CIN,1,161,90,71,N,N,Cincinnati Reds
+1979,CLE,6,161,81,80,N,N,Cleveland Indians
+1979,DET,5,160,85,76,N,N,Detroit Tigers
+1979,HOU,2,162,89,73,N,N,Houston Astros
+1979,KCA,2,162,85,77,N,N,Kansas City Royals
+1979,LAN,3,162,79,83,N,N,Los Angeles Dodgers
+1979,MIN,4,162,82,80,N,N,Minnesota Twins
+1979,ML4,2,161,95,66,N,N,Milwaukee Brewers
+1979,MON,2,160,95,65,N,N,Montreal Expos
+1979,NYA,4,160,89,71,N,N,New York Yankees
+1979,NYN,6,163,63,99,N,N,New York Mets
+1979,OAK,7,162,54,108,N,N,Oakland Athletics
+1979,PHI,4,163,84,78,N,N,Philadelphia Phillies
+1979,PIT,1,163,98,64,Y,Y,Pittsburgh Pirates
+1979,SDN,5,161,68,93,N,N,San Diego Padres
+1979,SEA,6,162,67,95,N,N,Seattle Mariners
+1979,SFN,4,162,71,91,N,N,San Francisco Giants
+1979,SLN,3,163,86,76,N,N,St. Louis Cardinals
+1979,TEX,3,162,83,79,N,N,Texas Rangers
+1979,TOR,7,162,53,109,N,N,Toronto Blue Jays
+1980,ATL,4,161,81,80,N,N,Atlanta Braves
+1980,BAL,2,162,100,62,N,N,Baltimore Orioles
+1980,BOS,5,160,83,77,N,N,Boston Red Sox
+1980,CAL,6,160,65,95,N,N,California Angels
+1980,CHA,5,162,70,90,N,N,Chicago White Sox
+1980,CHN,6,162,64,98,N,N,Chicago Cubs
+1980,CIN,3,163,89,73,N,N,Cincinnati Reds
+1980,CLE,6,160,79,81,N,N,Cleveland Indians
+1980,DET,4,163,84,78,N,N,Detroit Tigers
+1980,HOU,1,163,93,70,N,N,Houston Astros
+1980,KCA,1,162,97,65,Y,N,Kansas City Royals
+1980,LAN,2,163,92,71,N,N,Los Angeles Dodgers
+1980,MIN,3,161,77,84,N,N,Minnesota Twins
+1980,ML4,3,162,86,76,N,N,Milwaukee Brewers
+1980,MON,2,162,90,72,N,N,Montreal Expos
+1980,NYA,1,162,103,59,N,N,New York Yankees
+1980,NYN,5,162,67,95,N,N,New York Mets
+1980,OAK,2,162,83,79,N,N,Oakland Athletics
+1980,PHI,1,162,91,71,Y,Y,Philadelphia Phillies
+1980,PIT,3,162,83,79,N,N,Pittsburgh Pirates
+1980,SDN,6,163,73,89,N,N,San Diego Padres
+1980,SEA,7,163,59,103,N,N,Seattle Mariners
+1980,SFN,5,161,75,86,N,N,San Francisco Giants
+1980,SLN,4,162,74,88,N,N,St. Louis Cardinals
+1980,TEX,4,163,76,85,N,N,Texas Rangers
+1980,TOR,7,162,67,95,N,N,Toronto Blue Jays
+1981,ATL,5,107,50,56,N,N,Atlanta Braves
+1981,BAL,2,105,59,46,N,N,Baltimore Orioles
+1981,BOS,5,108,59,49,N,N,Boston Red Sox
+1981,CAL,5,110,51,59,N,N,California Angels
+1981,CHA,3,106,54,52,N,N,Chicago White Sox
+1981,CHN,6,106,38,65,N,N,Chicago Cubs
+1981,CIN,1,108,66,42,N,N,Cincinnati Reds
+1981,CLE,6,103,52,51,N,N,Cleveland Indians
+1981,DET,3,109,60,49,N,N,Detroit Tigers
+1981,HOU,3,110,61,49,N,N,Houston Astros
+1981,KCA,4,103,50,53,N,N,Kansas City Royals
+1981,LAN,2,110,63,47,Y,Y,Los Angeles Dodgers
+1981,MIN,7,110,41,68,N,N,Minnesota Twins
+1981,ML4,1,109,62,47,N,N,Milwaukee Brewers
+1981,MON,2,108,60,48,N,N,Montreal Expos
+1981,NYA,4,107,59,48,Y,N,New York Yankees
+1981,NYN,5,105,41,62,N,N,New York Mets
+1981,OAK,1,109,64,45,N,N,Oakland Athletics
+1981,PHI,3,107,59,48,N,N,Philadelphia Phillies
+1981,PIT,4,103,46,56,N,N,Pittsburgh Pirates
+1981,SDN,6,110,41,69,N,N,San Diego Padres
+1981,SEA,6,110,44,65,N,N,Seattle Mariners
+1981,SFN,4,111,56,55,N,N,San Francisco Giants
+1981,SLN,1,103,59,43,N,N,St. Louis Cardinals
+1981,TEX,2,105,57,48,N,N,Texas Rangers
+1981,TOR,7,106,37,69,N,N,Toronto Blue Jays
+1982,ATL,1,162,89,73,N,N,Atlanta Braves
+1982,BAL,2,163,94,68,N,N,Baltimore Orioles
+1982,BOS,3,162,89,73,N,N,Boston Red Sox
+1982,CAL,1,162,93,69,N,N,California Angels
+1982,CHA,3,162,87,75,N,N,Chicago White Sox
+1982,CHN,5,162,73,89,N,N,Chicago Cubs
+1982,CIN,6,162,61,101,N,N,Cincinnati Reds
+1982,CLE,6,162,78,84,N,N,Cleveland Indians
+1982,DET,4,162,83,79,N,N,Detroit Tigers
+1982,HOU,5,162,77,85,N,N,Houston Astros
+1982,KCA,2,162,90,72,N,N,Kansas City Royals
+1982,LAN,2,162,88,74,N,N,Los Angeles Dodgers
+1982,MIN,7,162,60,102,N,N,Minnesota Twins
+1982,ML4,1,163,95,67,Y,N,Milwaukee Brewers
+1982,MON,3,162,86,76,N,N,Montreal Expos
+1982,NYA,5,162,79,83,N,N,New York Yankees
+1982,NYN,6,162,65,97,N,N,New York Mets
+1982,OAK,5,162,68,94,N,N,Oakland Athletics
+1982,PHI,2,162,89,73,N,N,Philadelphia Phillies
+1982,PIT,4,162,84,78,N,N,Pittsburgh Pirates
+1982,SDN,4,162,81,81,N,N,San Diego Padres
+1982,SEA,4,162,76,86,N,N,Seattle Mariners
+1982,SFN,3,162,87,75,N,N,San Francisco Giants
+1982,SLN,1,162,92,70,Y,Y,St. Louis Cardinals
+1982,TEX,6,162,64,98,N,N,Texas Rangers
+1982,TOR,6,162,78,84,N,N,Toronto Blue Jays
+1983,ATL,2,162,88,74,N,N,Atlanta Braves
+1983,BAL,1,162,98,64,Y,Y,Baltimore Orioles
+1983,BOS,6,162,78,84,N,N,Boston Red Sox
+1983,CAL,5,162,70,92,N,N,California Angels
+1983,CHA,1,162,99,63,N,N,Chicago White Sox
+1983,CHN,5,162,71,91,N,N,Chicago Cubs
+1983,CIN,6,162,74,88,N,N,Cincinnati Reds
+1983,CLE,7,162,70,92,N,N,Cleveland Indians
+1983,DET,2,162,92,70,N,N,Detroit Tigers
+1983,HOU,3,162,85,77,N,N,Houston Astros
+1983,KCA,2,163,79,83,N,N,Kansas City Royals
+1983,LAN,1,163,91,71,N,N,Los Angeles Dodgers
+1983,MIN,5,162,70,92,N,N,Minnesota Twins
+1983,ML4,5,162,87,75,N,N,Milwaukee Brewers
+1983,MON,3,163,82,80,N,N,Montreal Expos
+1983,NYA,3,162,91,71,N,N,New York Yankees
+1983,NYN,6,162,68,94,N,N,New York Mets
+1983,OAK,4,162,74,88,N,N,Oakland Athletics
+1983,PHI,1,163,90,72,Y,N,Philadelphia Phillies
+1983,PIT,2,162,84,78,N,N,Pittsburgh Pirates
+1983,SDN,4,163,81,81,N,N,San Diego Padres
+1983,SEA,7,162,60,102,N,N,Seattle Mariners
+1983,SFN,5,162,79,83,N,N,San Francisco Giants
+1983,SLN,4,162,79,83,N,N,St. Louis Cardinals
+1983,TEX,3,163,77,85,N,N,Texas Rangers
+1983,TOR,4,162,89,73,N,N,Toronto Blue Jays
+1984,ATL,2,162,80,82,N,N,Atlanta Braves
+1984,BAL,5,162,85,77,N,N,Baltimore Orioles
+1984,BOS,4,162,86,76,N,N,Boston Red Sox
+1984,CAL,2,162,81,81,N,N,California Angels
+1984,CHA,5,162,74,88,N,N,Chicago White Sox
+1984,CHN,1,161,96,65,N,N,Chicago Cubs
+1984,CIN,5,162,70,92,N,N,Cincinnati Reds
+1984,CLE,6,163,75,87,N,N,Cleveland Indians
+1984,DET,1,162,104,58,Y,Y,Detroit Tigers
+1984,HOU,2,162,80,82,N,N,Houston Astros
+1984,KCA,1,162,84,78,N,N,Kansas City Royals
+1984,LAN,4,162,79,83,N,N,Los Angeles Dodgers
+1984,MIN,2,162,81,81,N,N,Minnesota Twins
+1984,ML4,7,161,67,94,N,N,Milwaukee Brewers
+1984,MON,5,161,78,83,N,N,Montreal Expos
+1984,NYA,3,162,87,75,N,N,New York Yankees
+1984,NYN,2,162,90,72,N,N,New York Mets
+1984,OAK,4,162,77,85,N,N,Oakland Athletics
+1984,PHI,4,162,81,81,N,N,Philadelphia Phillies
+1984,PIT,6,162,75,87,N,N,Pittsburgh Pirates
+1984,SDN,1,162,92,70,Y,N,San Diego Padres
+1984,SEA,5,162,74,88,N,N,Seattle Mariners
+1984,SFN,6,162,66,96,N,N,San Francisco Giants
+1984,SLN,3,162,84,78,N,N,St. Louis Cardinals
+1984,TEX,7,161,69,92,N,N,Texas Rangers
+1984,TOR,2,163,89,73,N,N,Toronto Blue Jays
+1985,ATL,5,162,66,96,N,N,Atlanta Braves
+1985,BAL,4,161,83,78,N,N,Baltimore Orioles
+1985,BOS,5,163,81,81,N,N,Boston Red Sox
+1985,CAL,2,162,90,72,N,N,California Angels
+1985,CHA,3,163,85,77,N,N,Chicago White Sox
+1985,CHN,4,162,77,84,N,N,Chicago Cubs
+1985,CIN,2,162,89,72,N,N,Cincinnati Reds
+1985,CLE,7,162,60,102,N,N,Cleveland Indians
+1985,DET,3,161,84,77,N,N,Detroit Tigers
+1985,HOU,3,162,83,79,N,N,Houston Astros
+1985,KCA,1,162,91,71,Y,Y,Kansas City Royals
+1985,LAN,1,162,95,67,N,N,Los Angeles Dodgers
+1985,MIN,4,162,77,85,N,N,Minnesota Twins
+1985,ML4,6,161,71,90,N,N,Milwaukee Brewers
+1985,MON,3,161,84,77,N,N,Montreal Expos
+1985,NYA,2,161,97,64,N,N,New York Yankees
+1985,NYN,2,162,98,64,N,N,New York Mets
+1985,OAK,4,162,77,85,N,N,Oakland Athletics
+1985,PHI,5,162,75,87,N,N,Philadelphia Phillies
+1985,PIT,6,161,57,104,N,N,Pittsburgh Pirates
+1985,SDN,3,162,83,79,N,N,San Diego Padres
+1985,SEA,6,162,74,88,N,N,Seattle Mariners
+1985,SFN,6,162,62,100,N,N,San Francisco Giants
+1985,SLN,1,162,101,61,Y,N,St. Louis Cardinals
+1985,TEX,7,161,62,99,N,N,Texas Rangers
+1985,TOR,1,161,99,62,N,N,Toronto Blue Jays
+1986,ATL,6,161,72,89,N,N,Atlanta Braves
+1986,BAL,7,162,73,89,N,N,Baltimore Orioles
+1986,BOS,1,161,95,66,Y,N,Boston Red Sox
+1986,CAL,1,162,92,70,N,N,California Angels
+1986,CHA,5,162,72,90,N,N,Chicago White Sox
+1986,CHN,5,160,70,90,N,N,Chicago Cubs
+1986,CIN,2,162,86,76,N,N,Cincinnati Reds
+1986,CLE,5,163,84,78,N,N,Cleveland Indians
+1986,DET,3,162,87,75,N,N,Detroit Tigers
+1986,HOU,1,162,96,66,N,N,Houston Astros
+1986,KCA,3,162,76,86,N,N,Kansas City Royals
+1986,LAN,5,162,73,89,N,N,Los Angeles Dodgers
+1986,MIN,6,162,71,91,N,N,Minnesota Twins
+1986,ML4,6,161,77,84,N,N,Milwaukee Brewers
+1986,MON,4,161,78,83,N,N,Montreal Expos
+1986,NYA,2,162,90,72,N,N,New York Yankees
+1986,NYN,1,162,108,54,Y,Y,New York Mets
+1986,OAK,3,162,76,86,N,N,Oakland Athletics
+1986,PHI,2,161,86,75,N,N,Philadelphia Phillies
+1986,PIT,6,162,64,98,N,N,Pittsburgh Pirates
+1986,SDN,4,162,74,88,N,N,San Diego Padres
+1986,SEA,7,162,67,95,N,N,Seattle Mariners
+1986,SFN,3,162,83,79,N,N,San Francisco Giants
+1986,SLN,3,161,79,82,N,N,St. Louis Cardinals
+1986,TEX,2,162,87,75,N,N,Texas Rangers
+1986,TOR,4,163,86,76,N,N,Toronto Blue Jays
+1987,ATL,5,161,69,92,N,N,Atlanta Braves
+1987,BAL,6,162,67,95,N,N,Baltimore Orioles
+1987,BOS,5,162,78,84,N,N,Boston Red Sox
+1987,CAL,6,162,75,87,N,N,California Angels
+1987,CHA,5,162,77,85,N,N,Chicago White Sox
+1987,CHN,6,161,76,85,N,N,Chicago Cubs
+1987,CIN,2,162,84,78,N,N,Cincinnati Reds
+1987,CLE,7,162,61,101,N,N,Cleveland Indians
+1987,DET,1,162,98,64,N,N,Detroit Tigers
+1987,HOU,3,162,76,86,N,N,Houston Astros
+1987,KCA,2,162,83,79,N,N,Kansas City Royals
+1987,LAN,4,162,73,89,N,N,Los Angeles Dodgers
+1987,MIN,1,162,85,77,Y,Y,Minnesota Twins
+1987,ML4,3,162,91,71,N,N,Milwaukee Brewers
+1987,MON,3,162,91,71,N,N,Montreal Expos
+1987,NYA,4,162,89,73,N,N,New York Yankees
+1987,NYN,2,162,92,70,N,N,New York Mets
+1987,OAK,3,162,81,81,N,N,Oakland Athletics
+1987,PHI,4,162,80,82,N,N,Philadelphia Phillies
+1987,PIT,4,162,80,82,N,N,Pittsburgh Pirates
+1987,SDN,6,162,65,97,N,N,San Diego Padres
+1987,SEA,4,162,78,84,N,N,Seattle Mariners
+1987,SFN,1,162,90,72,N,N,San Francisco Giants
+1987,SLN,1,162,95,67,Y,N,St. Louis Cardinals
+1987,TEX,6,162,75,87,N,N,Texas Rangers
+1987,TOR,2,162,96,66,N,N,Toronto Blue Jays
+1988,ATL,6,160,54,106,N,N,Atlanta Braves
+1988,BAL,7,161,54,107,N,N,Baltimore Orioles
+1988,BOS,1,162,89,73,N,N,Boston Red Sox
+1988,CAL,4,162,75,87,N,N,California Angels
+1988,CHA,5,161,71,90,N,N,Chicago White Sox
+1988,CHN,4,163,77,85,N,N,Chicago Cubs
+1988,CIN,2,161,87,74,N,N,Cincinnati Reds
+1988,CLE,6,162,78,84,N,N,Cleveland Indians
+1988,DET,2,162,88,74,N,N,Detroit Tigers
+1988,HOU,5,162,82,80,N,N,Houston Astros
+1988,KCA,3,161,84,77,N,N,Kansas City Royals
+1988,LAN,1,162,94,67,Y,Y,Los Angeles Dodgers
+1988,MIN,2,162,91,71,N,N,Minnesota Twins
+1988,ML4,3,162,87,75,N,N,Milwaukee Brewers
+1988,MON,3,163,81,81,N,N,Montreal Expos
+1988,NYA,5,161,85,76,N,N,New York Yankees
+1988,NYN,1,160,100,60,N,N,New York Mets
+1988,OAK,1,162,104,58,Y,N,Oakland Athletics
+1988,PHI,6,162,65,96,N,N,Philadelphia Phillies
+1988,PIT,2,160,85,75,N,N,Pittsburgh Pirates
+1988,SDN,3,161,83,78,N,N,San Diego Padres
+1988,SEA,7,161,68,93,N,N,Seattle Mariners
+1988,SFN,4,162,83,79,N,N,San Francisco Giants
+1988,SLN,5,162,76,86,N,N,St. Louis Cardinals
+1988,TEX,6,161,70,91,N,N,Texas Rangers
+1988,TOR,3,162,87,75,N,N,Toronto Blue Jays
+1989,ATL,6,161,63,97,N,N,Atlanta Braves
+1989,BAL,2,162,87,75,N,N,Baltimore Orioles
+1989,BOS,3,162,83,79,N,N,Boston Red Sox
+1989,CAL,3,162,91,71,N,N,California Angels
+1989,CHA,7,161,69,92,N,N,Chicago White Sox
+1989,CHN,1,162,93,69,N,N,Chicago Cubs
+1989,CIN,5,162,75,87,N,N,Cincinnati Reds
+1989,CLE,6,162,73,89,N,N,Cleveland Indians
+1989,DET,7,162,59,103,N,N,Detroit Tigers
+1989,HOU,3,162,86,76,N,N,Houston Astros
+1989,KCA,2,162,92,70,N,N,Kansas City Royals
+1989,LAN,4,160,77,83,N,N,Los Angeles Dodgers
+1989,MIN,5,162,80,82,N,N,Minnesota Twins
+1989,ML4,4,162,81,81,N,N,Milwaukee Brewers
+1989,MON,4,162,81,81,N,N,Montreal Expos
+1989,NYA,5,161,74,87,N,N,New York Yankees
+1989,NYN,2,162,87,75,N,N,New York Mets
+1989,OAK,1,162,99,63,Y,Y,Oakland Athletics
+1989,PHI,6,163,67,95,N,N,Philadelphia Phillies
+1989,PIT,5,164,74,88,N,N,Pittsburgh Pirates
+1989,SDN,2,162,89,73,N,N,San Diego Padres
+1989,SEA,6,162,73,89,N,N,Seattle Mariners
+1989,SFN,1,162,92,70,Y,N,San Francisco Giants
+1989,SLN,3,164,86,76,N,N,St. Louis Cardinals
+1989,TEX,4,162,83,79,N,N,Texas Rangers
+1989,TOR,1,162,89,73,N,N,Toronto Blue Jays
+1990,ATL,6,162,65,97,N,N,Atlanta Braves
+1990,BAL,5,161,76,85,N,N,Baltimore Orioles
+1990,BOS,1,162,88,74,N,N,Boston Red Sox
+1990,CAL,4,162,80,82,N,N,California Angels
+1990,CHA,2,162,94,68,N,N,Chicago White Sox
+1990,CHN,4,162,77,85,N,N,Chicago Cubs
+1990,CIN,1,162,91,71,Y,Y,Cincinnati Reds
+1990,CLE,4,162,77,85,N,N,Cleveland Indians
+1990,DET,3,162,79,83,N,N,Detroit Tigers
+1990,HOU,4,162,75,87,N,N,Houston Astros
+1990,KCA,6,161,75,86,N,N,Kansas City Royals
+1990,LAN,2,162,86,76,N,N,Los Angeles Dodgers
+1990,MIN,7,162,74,88,N,N,Minnesota Twins
+1990,ML4,6,162,74,88,N,N,Milwaukee Brewers
+1990,MON,3,162,85,77,N,N,Montreal Expos
+1990,NYA,7,162,67,95,N,N,New York Yankees
+1990,NYN,2,162,91,71,N,N,New York Mets
+1990,OAK,1,162,103,59,Y,N,Oakland Athletics
+1990,PHI,4,162,77,85,N,N,Philadelphia Phillies
+1990,PIT,1,162,95,67,N,N,Pittsburgh Pirates
+1990,SDN,4,162,75,87,N,N,San Diego Padres
+1990,SEA,5,162,77,85,N,N,Seattle Mariners
+1990,SFN,3,162,85,77,N,N,San Francisco Giants
+1990,SLN,6,162,70,92,N,N,St. Louis Cardinals
+1990,TEX,3,162,83,79,N,N,Texas Rangers
+1990,TOR,2,162,86,76,N,N,Toronto Blue Jays
+1991,ATL,1,162,94,68,Y,N,Atlanta Braves
+1991,BAL,6,162,67,95,N,N,Baltimore Orioles
+1991,BOS,2,162,84,78,N,N,Boston Red Sox
+1991,CAL,7,162,81,81,N,N,California Angels
+1991,CHA,2,162,87,75,N,N,Chicago White Sox
+1991,CHN,4,160,77,83,N,N,Chicago Cubs
+1991,CIN,5,162,74,88,N,N,Cincinnati Reds
+1991,CLE,7,162,57,105,N,N,Cleveland Indians
+1991,DET,2,162,84,78,N,N,Detroit Tigers
+1991,HOU,6,162,65,97,N,N,Houston Astros
+1991,KCA,6,162,82,80,N,N,Kansas City Royals
+1991,LAN,2,162,93,69,N,N,Los Angeles Dodgers
+1991,MIN,1,162,95,67,Y,Y,Minnesota Twins
+1991,ML4,4,162,83,79,N,N,Milwaukee Brewers
+1991,MON,6,161,71,90,N,N,Montreal Expos
+1991,NYA,5,162,71,91,N,N,New York Yankees
+1991,NYN,5,161,77,84,N,N,New York Mets
+1991,OAK,4,162,84,78,N,N,Oakland Athletics
+1991,PHI,3,162,78,84,N,N,Philadelphia Phillies
+1991,PIT,1,162,98,64,N,N,Pittsburgh Pirates
+1991,SDN,3,162,84,78,N,N,San Diego Padres
+1991,SEA,5,162,83,79,N,N,Seattle Mariners
+1991,SFN,4,162,75,87,N,N,San Francisco Giants
+1991,SLN,2,162,84,78,N,N,St. Louis Cardinals
+1991,TEX,3,162,85,77,N,N,Texas Rangers
+1991,TOR,1,162,91,71,N,N,Toronto Blue Jays
+1992,ATL,1,162,98,64,Y,N,Atlanta Braves
+1992,BAL,3,162,89,73,N,N,Baltimore Orioles
+1992,BOS,7,162,73,89,N,N,Boston Red Sox
+1992,CAL,5,162,72,90,N,N,California Angels
+1992,CHA,3,162,86,76,N,N,Chicago White Sox
+1992,CHN,4,162,78,84,N,N,Chicago Cubs
+1992,CIN,2,162,90,72,N,N,Cincinnati Reds
+1992,CLE,4,162,76,86,N,N,Cleveland Indians
+1992,DET,6,162,75,87,N,N,Detroit Tigers
+1992,HOU,4,162,81,81,N,N,Houston Astros
+1992,KCA,5,162,72,90,N,N,Kansas City Royals
+1992,LAN,6,162,63,99,N,N,Los Angeles Dodgers
+1992,MIN,2,162,90,72,N,N,Minnesota Twins
+1992,ML4,2,162,92,70,N,N,Milwaukee Brewers
+1992,MON,2,162,87,75,N,N,Montreal Expos
+1992,NYA,4,162,76,86,N,N,New York Yankees
+1992,NYN,5,162,72,90,N,N,New York Mets
+1992,OAK,1,162,96,66,N,N,Oakland Athletics
+1992,PHI,6,162,70,92,N,N,Philadelphia Phillies
+1992,PIT,1,162,96,66,N,N,Pittsburgh Pirates
+1992,SDN,3,162,82,80,N,N,San Diego Padres
+1992,SEA,7,162,64,98,N,N,Seattle Mariners
+1992,SFN,5,162,72,90,N,N,San Francisco Giants
+1992,SLN,3,162,83,79,N,N,St. Louis Cardinals
+1992,TEX,4,162,77,85,N,N,Texas Rangers
+1992,TOR,1,162,96,66,Y,Y,Toronto Blue Jays
+1993,ATL,1,162,104,58,N,N,Atlanta Braves
+1993,BAL,3,162,85,77,N,N,Baltimore Orioles
+1993,BOS,5,162,80,82,N,N,Boston Red Sox
+1993,CAL,5,162,71,91,N,N,California Angels
+1993,CHA,1,162,94,68,N,N,Chicago White Sox
+1993,CHN,4,163,84,78,N,N,Chicago Cubs
+1993,CIN,5,162,73,89,N,N,Cincinnati Reds
+1993,CLE,6,162,76,86,N,N,Cleveland Indians
+1993,COL,6,162,67,95,N,N,Colorado Rockies
+1993,DET,3,162,85,77,N,N,Detroit Tigers
+1993,FLO,6,162,64,98,N,N,Florida Marlins
+1993,HOU,3,162,85,77,N,N,Houston Astros
+1993,KCA,3,162,84,78,N,N,Kansas City Royals
+1993,LAN,4,162,81,81,N,N,Los Angeles Dodgers
+1993,MIN,5,162,71,91,N,N,Minnesota Twins
+1993,ML4,7,162,69,93,N,N,Milwaukee Brewers
+1993,MON,2,163,94,68,N,N,Montreal Expos
+1993,NYA,2,162,88,74,N,N,New York Yankees
+1993,NYN,7,162,59,103,N,N,New York Mets
+1993,OAK,7,162,68,94,N,N,Oakland Athletics
+1993,PHI,1,162,97,65,Y,N,Philadelphia Phillies
+1993,PIT,5,162,75,87,N,N,Pittsburgh Pirates
+1993,SDN,7,162,61,101,N,N,San Diego Padres
+1993,SEA,4,162,82,80,N,N,Seattle Mariners
+1993,SFN,2,162,103,59,N,N,San Francisco Giants
+1993,SLN,3,162,87,75,N,N,St. Louis Cardinals
+1993,TEX,2,162,86,76,N,N,Texas Rangers
+1993,TOR,1,162,95,67,Y,Y,Toronto Blue Jays
+1994,ATL,2,114,68,46,,,Atlanta Braves
+1994,BAL,2,112,63,49,,,Baltimore Orioles
+1994,BOS,4,115,54,61,,,Boston Red Sox
+1994,CAL,4,115,47,68,,,California Angels
+1994,CHA,1,113,67,46,,,Chicago White Sox
+1994,CHN,5,113,49,64,,,Chicago Cubs
+1994,CIN,1,115,66,48,,,Cincinnati Reds
+1994,CLE,2,113,66,47,,,Cleveland Indians
+1994,COL,3,117,53,64,,,Colorado Rockies
+1994,DET,5,115,53,62,,,Detroit Tigers
+1994,FLO,5,115,51,64,,,Florida Marlins
+1994,HOU,2,115,66,49,,,Houston Astros
+1994,KCA,3,115,64,51,,,Kansas City Royals
+1994,LAN,1,114,58,56,,,Los Angeles Dodgers
+1994,MIN,4,113,53,60,,,Minnesota Twins
+1994,ML4,5,115,53,62,,,Milwaukee Brewers
+1994,MON,1,114,74,40,,,Montreal Expos
+1994,NYA,1,113,70,43,,,New York Yankees
+1994,NYN,3,113,55,58,,,New York Mets
+1994,OAK,2,114,51,63,,,Oakland Athletics
+1994,PHI,4,115,54,61,,,Philadelphia Phillies
+1994,PIT,3,114,53,61,,,Pittsburgh Pirates
+1994,SDN,4,117,47,70,,,San Diego Padres
+1994,SEA,3,112,49,63,,,Seattle Mariners
+1994,SFN,2,115,55,60,,,San Francisco Giants
+1994,SLN,3,115,53,61,,,St. Louis Cardinals
+1994,TEX,1,114,52,62,,,Texas Rangers
+1994,TOR,3,115,55,60,,,Toronto Blue Jays
+1995,ATL,1,144,90,54,Y,Y,Atlanta Braves
+1995,BAL,3,144,71,73,N,N,Baltimore Orioles
+1995,BOS,1,144,86,58,N,N,Boston Red Sox
+1995,CAL,2,145,78,67,N,N,California Angels
+1995,CHA,3,145,68,76,N,N,Chicago White Sox
+1995,CHN,3,144,73,71,N,N,Chicago Cubs
+1995,CIN,1,144,85,59,N,N,Cincinnati Reds
+1995,CLE,1,144,100,44,Y,N,Cleveland Indians
+1995,COL,2,144,77,67,N,N,Colorado Rockies
+1995,DET,4,144,60,84,N,N,Detroit Tigers
+1995,FLO,4,143,67,76,N,N,Florida Marlins
+1995,HOU,2,144,76,68,N,N,Houston Astros
+1995,KCA,2,144,70,74,N,N,Kansas City Royals
+1995,LAN,1,144,78,66,N,N,Los Angeles Dodgers
+1995,MIN,5,144,56,88,N,N,Minnesota Twins
+1995,ML4,4,144,65,79,N,N,Milwaukee Brewers
+1995,MON,5,144,66,78,N,N,Montreal Expos
+1995,NYA,2,145,79,65,N,N,New York Yankees
+1995,NYN,2,144,69,75,N,N,New York Mets
+1995,OAK,4,144,67,77,N,N,Oakland Athletics
+1995,PHI,2,144,69,75,N,N,Philadelphia Phillies
+1995,PIT,5,144,58,86,N,N,Pittsburgh Pirates
+1995,SDN,3,144,70,74,N,N,San Diego Padres
+1995,SEA,1,145,79,66,N,N,Seattle Mariners
+1995,SFN,4,144,67,77,N,N,San Francisco Giants
+1995,SLN,4,143,62,81,N,N,St. Louis Cardinals
+1995,TEX,3,144,74,70,N,N,Texas Rangers
+1995,TOR,5,144,56,88,N,N,Toronto Blue Jays
+1996,ATL,1,162,96,66,Y,N,Atlanta Braves
+1996,BAL,2,163,88,74,N,N,Baltimore Orioles
+1996,BOS,3,162,85,77,N,N,Boston Red Sox
+1996,CAL,4,161,70,91,N,N,California Angels
+1996,CHA,2,162,85,77,N,N,Chicago White Sox
+1996,CHN,4,162,76,86,N,N,Chicago Cubs
+1996,CIN,3,162,81,81,N,N,Cincinnati Reds
+1996,CLE,1,161,99,62,N,N,Cleveland Indians
+1996,COL,3,162,83,79,N,N,Colorado Rockies
+1996,DET,5,162,53,109,N,N,Detroit Tigers
+1996,FLO,3,162,80,82,N,N,Florida Marlins
+1996,HOU,2,162,82,80,N,N,Houston Astros
+1996,KCA,5,161,75,86,N,N,Kansas City Royals
+1996,LAN,2,162,90,72,N,N,Los Angeles Dodgers
+1996,MIN,4,162,78,84,N,N,Minnesota Twins
+1996,ML4,3,162,80,82,N,N,Milwaukee Brewers
+1996,MON,2,162,88,74,N,N,Montreal Expos
+1996,NYA,1,162,92,70,Y,Y,New York Yankees
+1996,NYN,4,162,71,91,N,N,New York Mets
+1996,OAK,3,162,78,84,N,N,Oakland Athletics
+1996,PHI,5,162,67,95,N,N,Philadelphia Phillies
+1996,PIT,5,162,73,89,N,N,Pittsburgh Pirates
+1996,SDN,1,162,91,71,N,N,San Diego Padres
+1996,SEA,2,161,85,76,N,N,Seattle Mariners
+1996,SFN,4,162,68,94,N,N,San Francisco Giants
+1996,SLN,1,162,88,74,N,N,St. Louis Cardinals
+1996,TEX,1,163,90,72,N,N,Texas Rangers
+1996,TOR,4,162,74,88,N,N,Toronto Blue Jays
+1997,ANA,2,162,84,78,N,N,Anaheim Angels
+1997,ATL,1,162,101,61,N,N,Atlanta Braves
+1997,BAL,1,162,98,64,N,N,Baltimore Orioles
+1997,BOS,4,162,78,84,N,N,Boston Red Sox
+1997,CHA,2,161,80,81,N,N,Chicago White Sox
+1997,CHN,5,162,68,94,N,N,Chicago Cubs
+1997,CIN,3,162,76,86,N,N,Cincinnati Reds
+1997,CLE,1,161,86,75,Y,N,Cleveland Indians
+1997,COL,3,162,83,79,N,N,Colorado Rockies
+1997,DET,3,162,79,83,N,N,Detroit Tigers
+1997,FLO,2,162,92,70,Y,Y,Florida Marlins
+1997,HOU,1,162,84,78,N,N,Houston Astros
+1997,KCA,5,161,67,94,N,N,Kansas City Royals
+1997,LAN,2,162,88,74,N,N,Los Angeles Dodgers
+1997,MIN,4,162,68,94,N,N,Minnesota Twins
+1997,ML4,3,161,78,83,N,N,Milwaukee Brewers
+1997,MON,4,162,78,84,N,N,Montreal Expos
+1997,NYA,2,162,96,66,N,N,New York Yankees
+1997,NYN,3,162,88,74,N,N,New York Mets
+1997,OAK,4,162,65,97,N,N,Oakland Athletics
+1997,PHI,5,162,68,94,N,N,Philadelphia Phillies
+1997,PIT,2,162,79,83,N,N,Pittsburgh Pirates
+1997,SDN,4,162,76,86,N,N,San Diego Padres
+1997,SEA,1,162,90,72,N,N,Seattle Mariners
+1997,SFN,1,162,90,72,N,N,San Francisco Giants
+1997,SLN,4,162,73,89,N,N,St. Louis Cardinals
+1997,TEX,3,162,77,85,N,N,Texas Rangers
+1997,TOR,5,162,76,86,N,N,Toronto Blue Jays
+1998,ANA,2,162,85,77,N,N,Anaheim Angels
+1998,ARI,5,162,65,97,N,N,Arizona Diamondbacks
+1998,ATL,1,162,106,56,N,N,Atlanta Braves
+1998,BAL,4,162,79,83,N,N,Baltimore Orioles
+1998,BOS,2,162,92,70,N,N,Boston Red Sox
+1998,CHA,2,163,80,82,N,N,Chicago White Sox
+1998,CHN,2,163,90,73,N,N,Chicago Cubs
+1998,CIN,4,162,77,85,N,N,Cincinnati Reds
+1998,CLE,1,162,89,73,N,N,Cleveland Indians
+1998,COL,4,162,77,85,N,N,Colorado Rockies
+1998,DET,5,162,65,97,N,N,Detroit Tigers
+1998,FLO,5,162,54,108,N,N,Florida Marlins
+1998,HOU,1,162,102,60,N,N,Houston Astros
+1998,KCA,3,161,72,89,N,N,Kansas City Royals
+1998,LAN,3,162,83,79,N,N,Los Angeles Dodgers
+1998,MIL,5,162,74,88,N,N,Milwaukee Brewers
+1998,MIN,4,162,70,92,N,N,Minnesota Twins
+1998,MON,4,162,65,97,N,N,Montreal Expos
+1998,NYA,1,162,114,48,Y,Y,New York Yankees
+1998,NYN,2,162,88,74,N,N,New York Mets
+1998,OAK,4,162,74,88,N,N,Oakland Athletics
+1998,PHI,3,162,75,87,N,N,Philadelphia Phillies
+1998,PIT,6,163,69,93,N,N,Pittsburgh Pirates
+1998,SDN,1,162,98,64,Y,N,San Diego Padres
+1998,SEA,3,161,76,85,N,N,Seattle Mariners
+1998,SFN,2,163,89,74,N,N,San Francisco Giants
+1998,SLN,3,163,83,79,N,N,St. Louis Cardinals
+1998,TBA,5,162,63,99,N,N,Tampa Bay Devil Rays
+1998,TEX,1,162,88,74,N,N,Texas Rangers
+1998,TOR,3,163,88,74,N,N,Toronto Blue Jays
+1999,ANA,4,162,70,92,N,N,Anaheim Angels
+1999,ARI,1,162,100,62,N,N,Arizona Diamondbacks
+1999,ATL,1,162,103,59,Y,N,Atlanta Braves
+1999,BAL,4,162,78,84,N,N,Baltimore Orioles
+1999,BOS,2,162,94,68,N,N,Boston Red Sox
+1999,CHA,2,162,75,86,N,N,Chicago White Sox
+1999,CHN,6,162,67,95,N,N,Chicago Cubs
+1999,CIN,2,163,96,67,N,N,Cincinnati Reds
+1999,CLE,1,162,97,65,N,N,Cleveland Indians
+1999,COL,5,162,72,90,N,N,Colorado Rockies
+1999,DET,3,161,69,92,N,N,Detroit Tigers
+1999,FLO,5,162,64,98,N,N,Florida Marlins
+1999,HOU,1,162,97,65,N,N,Houston Astros
+1999,KCA,4,161,64,97,N,N,Kansas City Royals
+1999,LAN,3,162,77,85,N,N,Los Angeles Dodgers
+1999,MIL,5,161,74,87,N,N,Milwaukee Brewers
+1999,MIN,5,161,63,97,N,N,Minnesota Twins
+1999,MON,4,162,68,94,N,N,Montreal Expos
+1999,NYA,1,162,98,64,Y,Y,New York Yankees
+1999,NYN,2,163,97,66,N,N,New York Mets
+1999,OAK,2,162,87,75,N,N,Oakland Athletics
+1999,PHI,3,162,77,85,N,N,Philadelphia Phillies
+1999,PIT,3,161,78,83,N,N,Pittsburgh Pirates
+1999,SDN,4,162,74,88,N,N,San Diego Padres
+1999,SEA,3,162,79,83,N,N,Seattle Mariners
+1999,SFN,2,162,86,76,N,N,San Francisco Giants
+1999,SLN,4,161,75,86,N,N,St. Louis Cardinals
+1999,TBA,5,162,69,93,N,N,Tampa Bay Devil Rays
+1999,TEX,1,162,95,67,N,N,Texas Rangers
+1999,TOR,3,162,84,78,N,N,Toronto Blue Jays
+2000,ANA,3,162,82,80,N,N,Anaheim Angels
+2000,ARI,3,162,85,77,N,N,Arizona Diamondbacks
+2000,ATL,1,162,95,67,N,N,Atlanta Braves
+2000,BAL,4,162,74,88,N,N,Baltimore Orioles
+2000,BOS,2,162,85,77,N,N,Boston Red Sox
+2000,CHA,1,162,95,67,N,N,Chicago White Sox
+2000,CHN,6,162,65,97,N,N,Chicago Cubs
+2000,CIN,2,163,85,77,N,N,Cincinnati Reds
+2000,CLE,2,162,90,72,N,N,Cleveland Indians
+2000,COL,4,162,82,80,N,N,Colorado Rockies
+2000,DET,3,162,79,83,N,N,Detroit Tigers
+2000,FLO,3,161,79,82,N,N,Florida Marlins
+2000,HOU,4,162,72,90,N,N,Houston Astros
+2000,KCA,4,162,77,85,N,N,Kansas City Royals
+2000,LAN,2,162,86,76,N,N,Los Angeles Dodgers
+2000,MIL,3,163,73,89,N,N,Milwaukee Brewers
+2000,MIN,5,162,69,93,N,N,Minnesota Twins
+2000,MON,4,162,67,95,N,N,Montreal Expos
+2000,NYA,1,161,87,74,Y,Y,New York Yankees
+2000,NYN,2,162,94,68,Y,N,New York Mets
+2000,OAK,1,161,91,70,N,N,Oakland Athletics
+2000,PHI,5,162,65,97,N,N,Philadelphia Phillies
+2000,PIT,5,162,69,93,N,N,Pittsburgh Pirates
+2000,SDN,5,162,76,86,N,N,San Diego Padres
+2000,SEA,2,162,91,71,N,N,Seattle Mariners
+2000,SFN,1,162,97,65,N,N,San Francisco Giants
+2000,SLN,1,162,95,67,N,N,St. Louis Cardinals
+2000,TBA,5,161,69,92,N,N,Tampa Bay Devil Rays
+2000,TEX,4,162,71,91,N,N,Texas Rangers
+2000,TOR,3,162,83,79,N,N,Toronto Blue Jays
+2001,ANA,3,162,75,87,N,N,Anaheim Angels
+2001,ARI,1,162,92,70,Y,Y,Arizona Diamondbacks
+2001,ATL,1,162,88,74,N,N,Atlanta Braves
+2001,BAL,4,162,63,98,N,N,Baltimore Orioles
+2001,BOS,2,161,82,79,N,N,Boston Red Sox
+2001,CHA,3,162,83,79,N,N,Chicago White Sox
+2001,CHN,3,162,88,74,N,N,Chicago Cubs
+2001,CIN,5,162,66,96,N,N,Cincinnati Reds
+2001,CLE,1,162,91,71,N,N,Cleveland Indians
+2001,COL,5,162,73,89,N,N,Colorado Rockies
+2001,DET,4,162,66,96,N,N,Detroit Tigers
+2001,FLO,4,162,76,86,N,N,Florida Marlins
+2001,HOU,1,162,93,69,N,N,Houston Astros
+2001,KCA,5,162,65,97,N,N,Kansas City Royals
+2001,LAN,3,162,86,76,N,N,Los Angeles Dodgers
+2001,MIL,4,162,68,94,N,N,Milwaukee Brewers
+2001,MIN,2,162,85,77,N,N,Minnesota Twins
+2001,MON,5,162,68,94,N,N,Montreal Expos
+2001,NYA,1,161,95,65,Y,N,New York Yankees
+2001,NYN,3,162,82,80,N,N,New York Mets
+2001,OAK,2,162,102,60,N,N,Oakland Athletics
+2001,PHI,2,162,86,76,N,N,Philadelphia Phillies
+2001,PIT,6,162,62,100,N,N,Pittsburgh Pirates
+2001,SDN,4,162,79,83,N,N,San Diego Padres
+2001,SEA,1,162,116,46,N,N,Seattle Mariners
+2001,SFN,2,162,90,72,N,N,San Francisco Giants
+2001,SLN,2,162,93,69,N,N,St. Louis Cardinals
+2001,TBA,5,162,62,100,N,N,Tampa Bay Devil Rays
+2001,TEX,4,162,73,89,N,N,Texas Rangers
+2001,TOR,3,162,80,82,N,N,Toronto Blue Jays
+2002,ANA,2,162,99,63,Y,Y,Anaheim Angels
+2002,ARI,1,162,98,64,N,N,Arizona Diamondbacks
+2002,ATL,1,161,101,59,N,N,Atlanta Braves
+2002,BAL,4,162,67,95,N,N,Baltimore Orioles
+2002,BOS,2,162,93,69,N,N,Boston Red Sox
+2002,CHA,2,162,81,81,N,N,Chicago White Sox
+2002,CHN,5,162,67,95,N,N,Chicago Cubs
+2002,CIN,3,162,78,84,N,N,Cincinnati Reds
+2002,CLE,3,162,74,88,N,N,Cleveland Indians
+2002,COL,4,162,73,89,N,N,Colorado Rockies
+2002,DET,5,161,55,106,N,N,Detroit Tigers
+2002,FLO,4,162,79,83,N,N,Florida Marlins
+2002,HOU,2,162,84,78,N,N,Houston Astros
+2002,KCA,4,162,62,100,N,N,Kansas City Royals
+2002,LAN,3,162,92,70,N,N,Los Angeles Dodgers
+2002,MIL,6,162,56,106,N,N,Milwaukee Brewers
+2002,MIN,1,161,94,67,N,N,Minnesota Twins
+2002,MON,2,162,83,79,N,N,Montreal Expos
+2002,NYA,1,161,103,58,N,N,New York Yankees
+2002,NYN,5,161,75,86,N,N,New York Mets
+2002,OAK,1,162,103,59,N,N,Oakland Athletics
+2002,PHI,3,161,80,81,N,N,Philadelphia Phillies
+2002,PIT,4,161,72,89,N,N,Pittsburgh Pirates
+2002,SDN,5,162,66,96,N,N,San Diego Padres
+2002,SEA,3,162,93,69,N,N,Seattle Mariners
+2002,SFN,2,162,95,66,Y,N,San Francisco Giants
+2002,SLN,1,162,97,65,N,N,St. Louis Cardinals
+2002,TBA,5,161,55,106,N,N,Tampa Bay Devil Rays
+2002,TEX,4,162,72,90,N,N,Texas Rangers
+2002,TOR,3,162,78,84,N,N,Toronto Blue Jays
+2003,ANA,3,162,77,85,N,N,Anaheim Angels
+2003,ARI,3,162,84,78,N,N,Arizona Diamondbacks
+2003,ATL,1,162,101,61,N,N,Atlanta Braves
+2003,BAL,4,163,71,91,N,N,Baltimore Orioles
+2003,BOS,2,162,95,67,N,N,Boston Red Sox
+2003,CHA,2,162,86,76,N,N,Chicago White Sox
+2003,CHN,1,162,88,74,N,N,Chicago Cubs
+2003,CIN,5,162,69,93,N,N,Cincinnati Reds
+2003,CLE,4,162,68,94,N,N,Cleveland Indians
+2003,COL,4,162,74,88,N,N,Colorado Rockies
+2003,DET,5,162,43,119,N,N,Detroit Tigers
+2003,FLO,2,162,91,71,Y,Y,Florida Marlins
+2003,HOU,2,162,87,75,N,N,Houston Astros
+2003,KCA,3,162,83,79,N,N,Kansas City Royals
+2003,LAN,2,162,85,77,N,N,Los Angeles Dodgers
+2003,MIL,6,162,68,94,N,N,Milwaukee Brewers
+2003,MIN,1,162,90,72,N,N,Minnesota Twins
+2003,MON,4,162,83,79,N,N,Montreal Expos
+2003,NYA,1,163,101,61,Y,N,New York Yankees
+2003,NYN,5,161,66,95,N,N,New York Mets
+2003,OAK,1,162,96,66,N,N,Oakland Athletics
+2003,PHI,3,162,86,76,N,N,Philadelphia Phillies
+2003,PIT,4,162,75,87,N,N,Pittsburgh Pirates
+2003,SDN,5,162,64,98,N,N,San Diego Padres
+2003,SEA,2,162,93,69,N,N,Seattle Mariners
+2003,SFN,1,161,100,61,N,N,San Francisco Giants
+2003,SLN,3,162,85,77,N,N,St. Louis Cardinals
+2003,TBA,5,162,63,99,N,N,Tampa Bay Devil Rays
+2003,TEX,4,162,71,91,N,N,Texas Rangers
+2003,TOR,3,162,86,76,N,N,Toronto Blue Jays
+2004,ANA,1,162,92,70,N,N,Anaheim Angels
+2004,ARI,5,162,51,111,N,N,Arizona Diamondbacks
+2004,ATL,1,162,96,66,N,N,Atlanta Braves
+2004,BAL,3,162,78,84,N,N,Baltimore Orioles
+2004,BOS,2,162,98,64,Y,Y,Boston Red Sox
+2004,CHA,2,162,83,79,N,N,Chicago White Sox
+2004,CHN,3,162,89,73,N,N,Chicago Cubs
+2004,CIN,4,162,76,86,N,N,Cincinnati Reds
+2004,CLE,3,162,80,82,N,N,Cleveland Indians
+2004,COL,4,162,68,94,N,N,Colorado Rockies
+2004,DET,4,162,72,90,N,N,Detroit Tigers
+2004,FLO,3,162,83,79,N,N,Florida Marlins
+2004,HOU,2,162,92,70,N,N,Houston Astros
+2004,KCA,5,162,58,104,N,N,Kansas City Royals
+2004,LAN,1,162,93,69,N,N,Los Angeles Dodgers
+2004,MIL,6,161,67,94,N,N,Milwaukee Brewers
+2004,MIN,1,162,92,70,N,N,Minnesota Twins
+2004,MON,5,162,67,95,N,N,Montreal Expos
+2004,NYA,1,162,101,61,N,N,New York Yankees
+2004,NYN,4,162,71,91,N,N,New York Mets
+2004,OAK,2,162,91,71,N,N,Oakland Athletics
+2004,PHI,2,162,86,76,N,N,Philadelphia Phillies
+2004,PIT,5,161,72,89,N,N,Pittsburgh Pirates
+2004,SDN,3,162,87,75,N,N,San Diego Padres
+2004,SEA,4,162,63,99,N,N,Seattle Mariners
+2004,SFN,2,162,91,71,N,N,San Francisco Giants
+2004,SLN,1,162,105,57,Y,N,St. Louis Cardinals
+2004,TBA,4,161,70,91,N,N,Tampa Bay Devil Rays
+2004,TEX,3,162,89,73,N,N,Texas Rangers
+2004,TOR,5,161,67,94,N,N,Toronto Blue Jays
+2005,ARI,2,162,77,85,N,N,Arizona Diamondbacks
+2005,ATL,1,162,90,72,N,N,Atlanta Braves
+2005,BAL,4,162,74,88,N,N,Baltimore Orioles
+2005,BOS,2,162,95,67,N,N,Boston Red Sox
+2005,CHA,1,162,99,63,Y,Y,Chicago White Sox
+2005,CHN,4,162,79,83,N,N,Chicago Cubs
+2005,CIN,5,163,73,89,N,N,Cincinnati Reds
+2005,CLE,2,162,93,69,N,N,Cleveland Indians
+2005,COL,5,162,67,95,N,N,Colorado Rockies
+2005,DET,4,162,71,91,N,N,Detroit Tigers
+2005,FLO,3,162,83,79,N,N,Florida Marlins
+2005,HOU,2,163,89,73,Y,N,Houston Astros
+2005,KCA,5,162,56,106,N,N,Kansas City Royals
+2005,LAA,1,162,95,67,N,N,Los Angeles Angels of Anaheim
+2005,LAN,4,162,71,91,N,N,Los Angeles Dodgers
+2005,MIL,3,162,81,81,N,N,Milwaukee Brewers
+2005,MIN,3,162,83,79,N,N,Minnesota Twins
+2005,NYA,1,162,95,67,N,N,New York Yankees
+2005,NYN,3,162,83,79,N,N,New York Mets
+2005,OAK,2,162,88,74,N,N,Oakland Athletics
+2005,PHI,2,162,88,74,N,N,Philadelphia Phillies
+2005,PIT,6,162,67,95,N,N,Pittsburgh Pirates
+2005,SDN,1,162,82,80,N,N,San Diego Padres
+2005,SEA,4,162,69,93,N,N,Seattle Mariners
+2005,SFN,3,162,75,87,N,N,San Francisco Giants
+2005,SLN,1,162,100,62,N,N,St. Louis Cardinals
+2005,TBA,5,162,67,95,N,N,Tampa Bay Devil Rays
+2005,TEX,3,162,79,83,N,N,Texas Rangers
+2005,TOR,3,162,80,82,N,N,Toronto Blue Jays
+2005,WAS,5,162,81,81,N,N,Washington Nationals
+2006,ARI,4,162,76,86,N,N,Arizona Diamondbacks
+2006,ATL,3,162,79,83,N,N,Atlanta Braves
+2006,BAL,4,162,70,92,N,N,Baltimore Orioles
+2006,BOS,3,162,86,76,N,N,Boston Red Sox
+2006,CHA,3,162,90,72,N,N,Chicago White Sox
+2006,CHN,6,162,66,96,N,N,Chicago Cubs
+2006,CIN,3,162,80,82,N,N,Cincinnati Reds
+2006,CLE,4,162,78,84,N,N,Cleveland Indians
+2006,COL,4,162,76,86,N,N,Colorado Rockies
+2006,DET,2,162,95,67,Y,N,Detroit Tigers
+2006,FLO,4,162,78,84,N,N,Florida Marlins
+2006,HOU,2,162,82,80,N,N,Houston Astros
+2006,KCA,5,162,62,100,N,N,Kansas City Royals
+2006,LAA,2,162,89,73,N,N,Los Angeles Angels of Anaheim
+2006,LAN,2,162,88,74,N,N,Los Angeles Dodgers
+2006,MIL,4,162,75,87,N,N,Milwaukee Brewers
+2006,MIN,1,162,96,66,N,N,Minnesota Twins
+2006,NYA,1,162,97,65,N,N,New York Yankees
+2006,NYN,1,162,97,65,N,N,New York Mets
+2006,OAK,1,162,93,69,N,N,Oakland Athletics
+2006,PHI,2,162,85,77,N,N,Philadelphia Phillies
+2006,PIT,5,162,67,95,N,N,Pittsburgh Pirates
+2006,SDN,1,162,88,74,N,N,San Diego Padres
+2006,SEA,4,162,78,84,N,N,Seattle Mariners
+2006,SFN,3,161,76,85,N,N,San Francisco Giants
+2006,SLN,1,161,83,78,Y,Y,St. Louis Cardinals
+2006,TBA,5,162,61,101,N,N,Tampa Bay Devil Rays
+2006,TEX,3,162,80,82,N,N,Texas Rangers
+2006,TOR,2,162,87,75,N,N,Toronto Blue Jays
+2006,WAS,5,162,71,91,N,N,Washington Nationals
+2007,ARI,1,162,90,72,N,N,Arizona Diamondbacks
+2007,ATL,3,162,84,78,N,N,Atlanta Braves
+2007,BAL,4,162,69,93,N,N,Baltimore Orioles
+2007,BOS,1,162,96,66,Y,Y,Boston Red Sox
+2007,CHA,4,162,72,90,N,N,Chicago White Sox
+2007,CHN,1,162,85,77,N,N,Chicago Cubs
+2007,CIN,5,162,72,90,N,N,Cincinnati Reds
+2007,CLE,1,162,96,66,N,N,Cleveland Indians
+2007,COL,2,163,90,73,Y,N,Colorado Rockies
+2007,DET,2,162,88,74,N,N,Detroit Tigers
+2007,FLO,5,162,71,91,N,N,Florida Marlins
+2007,HOU,4,162,73,89,N,N,Houston Astros
+2007,KCA,5,162,69,93,N,N,Kansas City Royals
+2007,LAA,1,162,94,68,N,N,Los Angeles Angels of Anaheim
+2007,LAN,4,162,82,80,N,N,Los Angeles Dodgers
+2007,MIL,2,162,83,79,N,N,Milwaukee Brewers
+2007,MIN,3,162,79,83,N,N,Minnesota Twins
+2007,NYA,2,162,94,68,N,N,New York Yankees
+2007,NYN,2,162,88,74,N,N,New York Mets
+2007,OAK,3,162,76,86,N,N,Oakland Athletics
+2007,PHI,1,162,89,73,N,N,Philadelphia Phillies
+2007,PIT,6,162,68,94,N,N,Pittsburgh Pirates
+2007,SDN,3,163,89,74,N,N,San Diego Padres
+2007,SEA,2,162,88,74,N,N,Seattle Mariners
+2007,SFN,5,162,71,91,N,N,San Francisco Giants
+2007,SLN,3,162,78,84,N,N,St. Louis Cardinals
+2007,TBA,5,162,66,96,N,N,Tampa Bay Devil Rays
+2007,TEX,4,162,75,87,N,N,Texas Rangers
+2007,TOR,3,162,83,79,N,N,Toronto Blue Jays
+2007,WAS,4,162,73,89,N,N,Washington Nationals
+2008,ARI,2,162,82,80,N,N,Arizona Diamondbacks
+2008,ATL,4,162,72,90,N,N,Atlanta Braves
+2008,BAL,5,161,68,93,N,N,Baltimore Orioles
+2008,BOS,2,162,95,67,N,N,Boston Red Sox
+2008,CHA,1,163,89,74,N,N,Chicago White Sox
+2008,CHN,1,161,97,64,N,N,Chicago Cubs
+2008,CIN,5,162,74,88,N,N,Cincinnati Reds
+2008,CLE,3,162,81,81,N,N,Cleveland Indians
+2008,COL,3,162,74,88,N,N,Colorado Rockies
+2008,DET,5,162,74,88,N,N,Detroit Tigers
+2008,FLO,3,161,84,77,N,N,Florida Marlins
+2008,HOU,3,161,86,75,N,N,Houston Astros
+2008,KCA,4,162,75,87,N,N,Kansas City Royals
+2008,LAA,1,162,100,62,N,N,Los Angeles Angels of Anaheim
+2008,LAN,1,162,84,78,N,N,Los Angeles Dodgers
+2008,MIL,2,162,90,72,N,N,Milwaukee Brewers
+2008,MIN,2,163,88,75,N,N,Minnesota Twins
+2008,NYA,3,162,89,73,N,N,New York Yankees
+2008,NYN,2,162,89,73,N,N,New York Mets
+2008,OAK,3,161,75,86,N,N,Oakland Athletics
+2008,PHI,1,162,92,70,Y,Y,Philadelphia Phillies
+2008,PIT,6,162,67,95,N,N,Pittsburgh Pirates
+2008,SDN,5,162,63,99,N,N,San Diego Padres
+2008,SEA,4,162,61,101,N,N,Seattle Mariners
+2008,SFN,4,162,72,90,N,N,San Francisco Giants
+2008,SLN,4,162,86,76,N,N,St. Louis Cardinals
+2008,TBA,1,162,97,65,Y,N,Tampa Bay Rays
+2008,TEX,2,162,79,83,N,N,Texas Rangers
+2008,TOR,4,162,86,76,N,N,Toronto Blue Jays
+2008,WAS,5,161,59,102,N,N,Washington Nationals
+2009,ARI,5,162,70,92,N,N,Arizona Diamondbacks
+2009,ATL,3,162,86,76,N,N,Atlanta Braves
+2009,BAL,5,162,64,98,N,N,Baltimore Orioles
+2009,BOS,2,162,95,67,N,N,Boston Red Sox
+2009,CHA,3,162,79,83,N,N,Chicago White Sox
+2009,CHN,2,161,83,78,N,N,Chicago Cubs
+2009,CIN,4,162,78,84,N,N,Cincinnati Reds
+2009,CLE,4,162,65,97,N,N,Cleveland Indians
+2009,COL,2,162,92,70,N,N,Colorado Rockies
+2009,DET,2,163,86,77,N,N,Detroit Tigers
+2009,FLO,2,162,87,75,N,N,Florida Marlins
+2009,HOU,5,162,74,88,N,N,Houston Astros
+2009,KCA,4,162,65,97,N,N,Kansas City Royals
+2009,LAA,1,162,97,65,N,N,Los Angeles Angels of Anaheim
+2009,LAN,1,162,95,67,N,N,Los Angeles Dodgers
+2009,MIL,3,162,80,82,N,N,Milwaukee Brewers
+2009,MIN,1,163,87,76,N,N,Minnesota Twins
+2009,NYA,1,162,103,59,Y,Y,New York Yankees
+2009,NYN,4,162,70,92,N,N,New York Mets
+2009,OAK,4,162,75,87,N,N,Oakland Athletics
+2009,PHI,1,162,93,69,Y,N,Philadelphia Phillies
+2009,PIT,6,161,62,99,N,N,Pittsburgh Pirates
+2009,SDN,4,162,75,87,N,N,San Diego Padres
+2009,SEA,3,162,85,77,N,N,Seattle Mariners
+2009,SFN,3,162,88,74,N,N,San Francisco Giants
+2009,SLN,1,162,91,71,N,N,St. Louis Cardinals
+2009,TBA,3,162,84,78,N,N,Tampa Bay Rays
+2009,TEX,2,162,87,75,N,N,Texas Rangers
+2009,TOR,4,162,75,87,N,N,Toronto Blue Jays
+2009,WAS,5,162,59,103,N,N,Washington Nationals
+2010,ARI,5,162,65,97,N,N,Arizona Diamondbacks
+2010,ATL,2,162,91,71,N,N,Atlanta Braves
+2010,BAL,5,162,66,96,N,N,Baltimore Orioles
+2010,BOS,3,162,89,73,N,N,Boston Red Sox
+2010,CHA,2,162,88,74,N,N,Chicago White Sox
+2010,CHN,5,162,75,87,N,N,Chicago Cubs
+2010,CIN,1,162,91,71,N,N,Cincinnati Reds
+2010,CLE,4,162,69,93,N,N,Cleveland Indians
+2010,COL,3,162,83,79,N,N,Colorado Rockies
+2010,DET,3,162,81,81,N,N,Detroit Tigers
+2010,FLO,3,162,80,82,N,N,Florida Marlins
+2010,HOU,4,162,76,86,N,N,Houston Astros
+2010,KCA,5,162,67,95,N,N,Kansas City Royals
+2010,LAA,3,162,80,82,N,N,Los Angeles Angels of Anaheim
+2010,LAN,4,162,80,82,N,N,Los Angeles Dodgers
+2010,MIL,3,162,77,85,N,N,Milwaukee Brewers
+2010,MIN,1,162,94,68,N,N,Minnesota Twins
+2010,NYA,2,162,95,67,N,N,New York Yankees
+2010,NYN,4,162,79,83,N,N,New York Mets
+2010,OAK,2,162,81,81,N,N,Oakland Athletics
+2010,PHI,1,162,97,65,N,N,Philadelphia Phillies
+2010,PIT,6,162,57,105,N,N,Pittsburgh Pirates
+2010,SDN,2,162,90,72,N,N,San Diego Padres
+2010,SEA,4,162,61,101,N,N,Seattle Mariners
+2010,SFN,1,162,92,70,Y,Y,San Francisco Giants
+2010,SLN,2,162,86,76,N,N,St. Louis Cardinals
+2010,TBA,1,162,96,66,N,N,Tampa Bay Rays
+2010,TEX,1,162,90,72,Y,N,Texas Rangers
+2010,TOR,4,162,85,77,N,N,Toronto Blue Jays
+2010,WAS,5,162,69,93,N,N,Washington Nationals
+2011,ARI,1,162,94,68,N,N,Arizona Diamondbacks
+2011,ATL,2,162,89,73,N,N,Atlanta Braves
+2011,BAL,5,162,69,93,N,N,Baltimore Orioles
+2011,BOS,3,162,90,72,N,N,Boston Red Sox
+2011,CHA,3,162,79,83,N,N,Chicago White Sox
+2011,CHN,5,162,71,91,N,N,Chicago Cubs
+2011,CIN,3,162,79,83,N,N,Cincinnati Reds
+2011,CLE,2,162,80,82,N,N,Cleveland Indians
+2011,COL,4,162,73,89,N,N,Colorado Rockies
+2011,DET,1,162,95,67,N,N,Detroit Tigers
+2011,FLO,5,162,72,90,N,N,Florida Marlins
+2011,HOU,6,162,56,106,N,N,Houston Astros
+2011,KCA,4,162,71,91,N,N,Kansas City Royals
+2011,LAA,2,162,86,76,N,N,Los Angeles Angels of Anaheim
+2011,LAN,3,161,82,79,N,N,Los Angeles Dodgers
+2011,MIL,1,162,96,66,N,N,Milwaukee Brewers
+2011,MIN,5,162,63,99,N,N,Minnesota Twins
+2011,NYA,1,162,97,65,N,N,New York Yankees
+2011,NYN,4,162,77,85,N,N,New York Mets
+2011,OAK,3,162,74,88,N,N,Oakland Athletics
+2011,PHI,1,162,102,60,N,N,Philadelphia Phillies
+2011,PIT,4,162,72,90,N,N,Pittsburgh Pirates
+2011,SDN,5,162,71,91,N,N,San Diego Padres
+2011,SEA,4,162,67,95,N,N,Seattle Mariners
+2011,SFN,2,162,86,76,N,N,San Francisco Giants
+2011,SLN,2,162,90,72,Y,Y,St. Louis Cardinals
+2011,TBA,2,162,91,71,N,N,Tampa Bay Rays
+2011,TEX,1,162,96,66,Y,N,Texas Rangers
+2011,TOR,4,162,81,81,N,N,Toronto Blue Jays
+2011,WAS,3,161,80,81,N,N,Washington Nationals
+2012,ARI,3,162,81,81,N,N,Arizona Diamondbacks
+2012,ATL,2,162,94,68,N,N,Atlanta Braves
+2012,BAL,2,162,93,69,N,N,Baltimore Orioles
+2012,BOS,5,162,69,93,N,N,Boston Red Sox
+2012,CHA,2,162,85,77,N,N,Chicago White Sox
+2012,CHN,5,162,61,101,N,N,Chicago Cubs
+2012,CIN,1,162,97,65,N,N,Cincinnati Reds
+2012,CLE,4,162,68,94,N,N,Cleveland Indians
+2012,COL,5,162,64,98,N,N,Colorado Rockies
+2012,DET,1,162,88,74,Y,N,Detroit Tigers
+2012,HOU,6,162,55,107,N,N,Houston Astros
+2012,KCA,3,162,72,90,N,N,Kansas City Royals
+2012,LAA,3,162,89,73,N,N,Los Angeles Angels of Anaheim
+2012,LAN,2,162,86,76,N,N,Los Angeles Dodgers
+2012,MIA,5,162,69,93,N,N,Miami Marlins
+2012,MIL,3,162,83,79,N,N,Milwaukee Brewers
+2012,MIN,5,162,66,96,N,N,Minnesota Twins
+2012,NYA,1,162,95,67,N,N,New York Yankees
+2012,NYN,4,162,74,88,N,N,New York Mets
+2012,OAK,1,162,94,68,N,N,Oakland Athletics
+2012,PHI,3,162,81,81,N,N,Philadelphia Phillies
+2012,PIT,4,162,79,83,N,N,Pittsburgh Pirates
+2012,SDN,4,162,76,86,N,N,San Diego Padres
+2012,SEA,4,162,75,87,N,N,Seattle Mariners
+2012,SFN,1,162,94,68,Y,Y,San Francisco Giants
+2012,SLN,2,162,88,74,N,N,St. Louis Cardinals
+2012,TBA,3,162,90,72,N,N,Tampa Bay Rays
+2012,TEX,2,162,93,69,N,N,Texas Rangers
+2012,TOR,4,162,73,89,N,N,Toronto Blue Jays
+2012,WAS,1,162,98,64,N,N,Washington Nationals
+2013,ARI,2,162,81,81,N,N,Arizona Diamondbacks
+2013,ATL,1,162,96,66,N,N,Atlanta Braves
+2013,BAL,3,162,85,77,N,N,Baltimore Orioles
+2013,BOS,1,162,97,65,Y,Y,Boston Red Sox
+2013,CHA,5,162,63,99,N,N,Chicago White Sox
+2013,CHN,5,162,66,96,N,N,Chicago Cubs
+2013,CIN,3,162,90,72,N,N,Cincinnati Reds
+2013,CLE,2,162,92,70,N,N,Cleveland Indians
+2013,COL,5,162,74,88,N,N,Colorado Rockies
+2013,DET,1,162,93,69,N,N,Detroit Tigers
+2013,HOU,5,162,51,111,N,N,Houston Astros
+2013,KCA,3,162,86,76,N,N,Kansas City Royals
+2013,LAA,3,162,78,84,N,N,Los Angeles Angels of Anaheim
+2013,LAN,1,162,92,70,N,N,Los Angeles Dodgers
+2013,MIA,5,162,62,100,N,N,Miami Marlins
+2013,MIL,4,162,74,88,N,N,Milwaukee Brewers
+2013,MIN,4,162,66,96,N,N,Minnesota Twins
+2013,NYA,4,162,85,77,N,N,New York Yankees
+2013,NYN,4,162,74,88,N,N,New York Mets
+2013,OAK,1,162,96,66,N,N,Oakland Athletics
+2013,PHI,4,162,73,89,N,N,Philadelphia Phillies
+2013,PIT,2,162,94,68,N,N,Pittsburgh Pirates
+2013,SDN,3,162,76,86,N,N,San Diego Padres
+2013,SEA,4,162,71,91,N,N,Seattle Mariners
+2013,SFN,4,162,76,86,N,N,San Francisco Giants
+2013,SLN,1,162,97,65,Y,N,St. Louis Cardinals
+2013,TBA,2,163,92,71,N,N,Tampa Bay Rays
+2013,TEX,2,163,91,72,N,N,Texas Rangers
+2013,TOR,5,162,74,88,N,N,Toronto Blue Jays
+2013,WAS,2,162,86,76,N,N,Washington Nationals
+2014,ARI,5,162,64,98,N,N,Arizona Diamondbacks
+2014,ATL,2,162,79,83,N,N,Atlanta Braves
+2014,BAL,1,162,96,66,N,N,Baltimore Orioles
+2014,BOS,5,162,71,91,N,N,Boston Red Sox
+2014,CHA,4,162,73,89,N,N,Chicago White Sox
+2014,CHN,5,162,73,89,N,N,Chicago Cubs
+2014,CIN,4,162,76,86,N,N,Cincinnati Reds
+2014,CLE,3,162,85,77,N,N,Cleveland Indians
+2014,COL,4,162,66,96,N,N,Colorado Rockies
+2014,DET,1,162,90,72,N,N,Detroit Tigers
+2014,HOU,4,162,70,92,N,N,Houston Astros
+2014,KCA,2,162,89,73,Y,N,Kansas City Royals
+2014,LAA,1,162,98,64,N,N,Los Angeles Angels of Anaheim
+2014,LAN,1,162,94,68,N,N,Los Angeles Dodgers
+2014,MIA,4,162,77,85,N,N,Miami Marlins
+2014,MIL,3,162,82,80,N,N,Milwaukee Brewers
+2014,MIN,5,162,70,92,N,N,Minnesota Twins
+2014,NYA,2,162,84,78,N,N,New York Yankees
+2014,NYN,3,162,79,83,N,N,New York Mets
+2014,OAK,2,162,88,74,N,N,Oakland Athletics
+2014,PHI,5,162,73,89,N,N,Philadelphia Phillies
+2014,PIT,2,162,88,74,N,N,Pittsburgh Pirates
+2014,SDN,3,162,77,85,N,N,San Diego Padres
+2014,SEA,3,162,87,75,N,N,Seattle Mariners
+2014,SFN,2,162,88,74,Y,Y,San Francisco Giants
+2014,SLN,1,162,90,72,N,N,St. Louis Cardinals
+2014,TBA,4,162,77,85,N,N,Tampa Bay Rays
+2014,TEX,5,162,67,95,N,N,Texas Rangers
+2014,TOR,3,162,83,79,N,N,Toronto Blue Jays
+2014,WAS,1,162,96,66,N,N,Washington Nationals
+2015,ARI,3,162,79,83,N,N,Arizona Diamondbacks
+2015,ATL,4,162,67,95,N,N,Atlanta Braves
+2015,BAL,3,162,81,81,N,N,Baltimore Orioles
+2015,BOS,5,162,78,84,N,N,Boston Red Sox
+2015,CHA,4,162,76,86,N,N,Chicago White Sox
+2015,CHN,3,162,97,65,N,N,Chicago Cubs
+2015,CIN,5,162,64,98,N,N,Cincinnati Reds
+2015,CLE,3,161,81,80,N,N,Cleveland Indians
+2015,COL,5,162,68,94,N,N,Colorado Rockies
+2015,DET,5,161,74,87,N,N,Detroit Tigers
+2015,HOU,2,162,86,76,N,N,Houston Astros
+2015,KCA,1,162,95,67,Y,Y,Kansas City Royals
+2015,LAA,3,162,85,77,N,N,Los Angeles Angels of Anaheim
+2015,LAN,1,162,92,70,N,N,Los Angeles Dodgers
+2015,MIA,3,162,71,91,N,N,Miami Marlins
+2015,MIL,4,162,68,94,N,N,Milwaukee Brewers
+2015,MIN,2,162,83,79,N,N,Minnesota Twins
+2015,NYA,2,162,87,75,N,N,New York Yankees
+2015,NYN,1,162,90,72,Y,N,New York Mets
+2015,OAK,5,162,68,94,N,N,Oakland Athletics
+2015,PHI,5,162,63,99,N,N,Philadelphia Phillies
+2015,PIT,2,162,98,64,N,N,Pittsburgh Pirates
+2015,SDN,4,162,74,88,N,N,San Diego Padres
+2015,SEA,4,162,76,86,N,N,Seattle Mariners
+2015,SFN,2,162,84,78,N,N,San Francisco Giants
+2015,SLN,1,162,100,62,N,N,St. Louis Cardinals
+2015,TBA,4,162,80,82,N,N,Tampa Bay Rays
+2015,TEX,1,162,88,74,N,N,Texas Rangers
+2015,TOR,1,162,93,69,N,N,Toronto Blue Jays
+2015,WAS,2,162,83,79,N,N,Washington Nationals
+2016,ARI,4,162,69,93,N,N,Arizona Diamondbacks
+2016,ATL,5,161,68,93,N,N,Atlanta Braves
+2016,BAL,2,162,89,73,N,N,Baltimore Orioles
+2016,BOS,1,162,93,69,N,N,Boston Red Sox
+2016,CHA,4,162,78,84,N,N,Chicago White Sox
+2016,CHN,1,162,103,58,Y,Y,Chicago Cubs
+2016,CIN,5,162,68,94,N,N,Cincinnati Reds
+2016,CLE,1,161,94,67,Y,N,Cleveland Indians
+2016,COL,3,162,75,87,N,N,Colorado Rockies
+2016,DET,2,161,86,75,N,N,Detroit Tigers
+2016,HOU,3,162,84,78,N,N,Houston Astros
+2016,KCA,3,162,81,81,N,N,Kansas City Royals
+2016,LAA,4,162,74,88,N,N,Los Angeles Angels of Anaheim
+2016,LAN,1,162,91,71,N,N,Los Angeles Dodgers
+2016,MIA,3,161,79,82,N,N,Miami Marlins
+2016,MIL,4,162,73,89,N,N,Milwaukee Brewers
+2016,MIN,5,162,59,103,N,N,Minnesota Twins
+2016,NYA,4,162,84,78,N,N,New York Yankees
+2016,NYN,2,162,87,75,N,N,New York Mets
+2016,OAK,5,162,69,93,N,N,Oakland Athletics
+2016,PHI,4,162,71,91,N,N,Philadelphia Phillies
+2016,PIT,3,162,78,83,N,N,Pittsburgh Pirates
+2016,SDN,5,162,68,94,N,N,San Diego Padres
+2016,SEA,2,162,86,76,N,N,Seattle Mariners
+2016,SFN,2,162,87,75,N,N,San Francisco Giants
+2016,SLN,2,162,86,76,N,N,St. Louis Cardinals
+2016,TBA,5,162,68,94,N,N,Tampa Bay Rays
+2016,TEX,1,162,95,67,N,N,Texas Rangers
+2016,TOR,2,162,89,73,N,N,Toronto Blue Jays
+2016,WAS,1,162,95,67,N,N,Washington Nationals
+2017,ARI,2,162,93,69,N,N,Arizona Diamondbacks
+2017,ATL,3,162,72,90,N,N,Atlanta Braves
+2017,BAL,5,162,75,87,N,N,Baltimore Orioles
+2017,BOS,1,162,93,69,N,N,Boston Red Sox
+2017,CHA,4,162,67,95,N,N,Chicago White Sox
+2017,CHN,1,162,92,70,N,N,Chicago Cubs
+2017,CIN,5,162,68,94,N,N,Cincinnati Reds
+2017,CLE,1,162,102,60,N,N,Cleveland Indians
+2017,COL,3,162,87,75,N,N,Colorado Rockies
+2017,DET,5,162,64,98,N,N,Detroit Tigers
+2017,HOU,1,162,101,61,Y,Y,Houston Astros
+2017,KCA,3,162,80,82,N,N,Kansas City Royals
+2017,LAA,2,162,80,82,N,N,Los Angeles Angels of Anaheim
+2017,LAN,1,162,104,58,Y,N,Los Angeles Dodgers
+2017,MIA,2,162,77,85,N,N,Miami Marlins
+2017,MIL,2,162,86,76,N,N,Milwaukee Brewers
+2017,MIN,2,162,85,77,N,N,Minnesota Twins
+2017,NYA,2,162,91,71,N,N,New York Yankees
+2017,NYN,4,162,70,92,N,N,New York Mets
+2017,OAK,5,162,75,87,N,N,Oakland Athletics
+2017,PHI,5,162,66,96,N,N,Philadelphia Phillies
+2017,PIT,4,162,75,87,N,N,Pittsburgh Pirates
+2017,SDN,4,162,71,91,N,N,San Diego Padres
+2017,SEA,3,162,78,84,N,N,Seattle Mariners
+2017,SFN,5,162,64,98,N,N,San Francisco Giants
+2017,SLN,3,162,83,79,N,N,St. Louis Cardinals
+2017,TBA,3,162,80,82,N,N,Tampa Bay Rays
+2017,TEX,4,162,78,84,N,N,Texas Rangers
+2017,TOR,4,162,76,86,N,N,Toronto Blue Jays
+2017,WAS,1,162,97,65,N,N,Washington Nationals
+2018,ARI,3,162,82,80,N,N,Arizona Diamondbacks
+2018,ATL,1,162,90,72,N,N,Atlanta Braves
+2018,BAL,5,162,47,115,N,N,Baltimore Orioles
+2018,BOS,1,162,108,54,Y,Y,Boston Red Sox
+2018,CHA,4,162,62,100,N,N,Chicago White Sox
+2018,CHN,2,163,95,68,N,N,Chicago Cubs
+2018,CIN,5,162,67,95,N,N,Cincinnati Reds
+2018,CLE,1,162,91,71,N,N,Cleveland Indians
+2018,COL,2,163,91,72,N,N,Colorado Rockies
+2018,DET,3,162,64,98,N,N,Detroit Tigers
+2018,HOU,1,162,103,59,N,N,Houston Astros
+2018,KCA,5,162,58,104,N,N,Kansas City Royals
+2018,LAA,4,162,80,82,N,N,Los Angeles Angels of Anaheim
+2018,LAN,1,163,92,71,Y,N,Los Angeles Dodgers
+2018,MIA,5,161,63,98,N,N,Miami Marlins
+2018,MIL,1,163,96,67,N,N,Milwaukee Brewers
+2018,MIN,2,162,78,84,N,N,Minnesota Twins
+2018,NYA,2,162,100,62,N,N,New York Yankees
+2018,NYN,4,162,77,85,N,N,New York Mets
+2018,OAK,2,162,97,65,N,N,Oakland Athletics
+2018,PHI,3,162,80,82,N,N,Philadelphia Phillies
+2018,PIT,4,161,82,79,N,N,Pittsburgh Pirates
+2018,SDN,5,162,66,96,N,N,San Diego Padres
+2018,SEA,3,162,89,73,N,N,Seattle Mariners
+2018,SFN,4,162,73,89,N,N,San Francisco Giants
+2018,SLN,3,162,88,74,N,N,St. Louis Cardinals
+2018,TBA,3,162,90,72,N,N,Tampa Bay Rays
+2018,TEX,5,162,67,95,N,N,Texas Rangers
+2018,TOR,4,162,73,89,N,N,Toronto Blue Jays
+2018,WAS,2,162,82,80,N,N,Washington Nationals
+2019,ARI,2,162,85,77,N,N,Arizona Diamondbacks
+2019,ATL,1,162,97,65,N,N,Atlanta Braves
+2019,BAL,5,162,54,108,N,N,Baltimore Orioles
+2019,BOS,3,162,84,78,N,N,Boston Red Sox
+2019,CHA,3,161,72,89,N,N,Chicago White Sox
+2019,CHN,3,162,84,78,N,N,Chicago Cubs
+2019,CIN,4,162,75,87,N,N,Cincinnati Reds
+2019,CLE,2,162,93,69,N,N,Cleveland Indians
+2019,COL,4,162,71,91,N,N,Colorado Rockies
+2019,DET,5,161,47,114,N,N,Detroit Tigers
+2019,HOU,1,162,107,55,Y,N,Houston Astros
+2019,KCA,4,162,59,103,N,N,Kansas City Royals
+2019,LAA,4,162,72,90,N,N,Los Angeles Angels of Anaheim
+2019,LAN,1,162,106,56,N,N,Los Angeles Dodgers
+2019,MIA,5,162,57,105,N,N,Miami Marlins
+2019,MIL,2,162,89,73,N,N,Milwaukee Brewers
+2019,MIN,1,162,101,61,N,N,Minnesota Twins
+2019,NYA,1,162,103,59,N,N,New York Yankees
+2019,NYN,3,162,86,76,N,N,New York Mets
+2019,OAK,2,162,97,65,N,N,Oakland Athletics
+2019,PHI,4,162,81,81,N,N,Philadelphia Phillies
+2019,PIT,5,162,69,93,N,N,Pittsburgh Pirates
+2019,SDN,5,162,70,92,N,N,San Diego Padres
+2019,SEA,5,162,68,94,N,N,Seattle Mariners
+2019,SFN,3,162,77,85,N,N,San Francisco Giants
+2019,SLN,1,162,91,71,N,N,St. Louis Cardinals
+2019,TBA,2,162,96,66,N,N,Tampa Bay Rays
+2019,TEX,3,162,78,84,N,N,Texas Rangers
+2019,TOR,4,162,67,95,N,N,Toronto Blue Jays
+2019,WAS,2,162,93,69,Y,Y,Washington Nationals
+2020,ARI,5,60,25,35,N,N,Arizona Diamondbacks
+2020,ATL,1,60,35,25,N,N,Atlanta Braves
+2020,BAL,4,60,25,35,N,N,Baltimore Orioles
+2020,BOS,5,60,24,36,N,N,Boston Red Sox
+2020,CHA,2,60,35,25,N,N,Chicago White Sox
+2020,CHN,1,60,34,26,N,N,Chicago Cubs
+2020,CIN,2,60,31,29,N,N,Cincinnati Reds
+2020,CLE,2,60,35,25,N,N,Cleveland Indians
+2020,COL,4,60,26,34,N,N,Colorado Rockies
+2020,DET,5,58,23,35,N,N,Detroit Tigers
+2020,HOU,2,60,29,31,N,N,Houston Astros
+2020,KCA,4,60,26,34,N,N,Kansas City Royals
+2020,LAA,4,60,26,34,N,N,Los Angeles Angels of Anaheim
+2020,LAN,1,60,43,17,Y,Y,Los Angeles Dodgers
+2020,MIA,2,60,31,29,N,N,Miami Marlins
+2020,MIL,4,60,29,31,N,N,Milwaukee Brewers
+2020,MIN,1,60,36,24,N,N,Minnesota Twins
+2020,NYA,2,60,33,27,N,N,New York Yankees
+2020,NYN,4,60,26,34,N,N,New York Mets
+2020,OAK,1,60,36,24,N,N,Oakland Athletics
+2020,PHI,3,60,28,32,N,N,Philadelphia Phillies
+2020,PIT,5,60,19,41,N,N,Pittsburgh Pirates
+2020,SDN,2,60,37,23,N,N,San Diego Padres
+2020,SEA,3,60,27,33,N,N,Seattle Mariners
+2020,SFN,3,60,29,31,N,N,San Francisco Giants
+2020,SLN,3,58,30,28,N,N,St. Louis Cardinals
+2020,TBA,1,60,40,20,Y,N,Tampa Bay Rays
+2020,TEX,5,60,22,38,N,N,Texas Rangers
+2020,TOR,3,60,32,28,N,N,Toronto Blue Jays
+2020,WAS,4,60,26,34,N,N,Washington Nationals
